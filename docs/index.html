@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Spirit-Led Bible Study</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/pure.css">
+  
+  <!-- favicon -->
+  <link rel="icon" href="media/favicon.ico">
+  
+  <style>
+    .sidebar {
+            border-right: 2px solid #663399;
+        }
+
+    
+    .sidebar ul li a {
+      text-decoration: none;
+    }
+
+
+
+img {
+  margin-left: 95px;
+}
+
+    .markdown-section hr {
+            border: none;
+            border-bottom: 2px solid #663399;
+            margin: 2em 0;
+        }
+    .markdown-section blockquote {
+            border: 2px solid #663399;
+            border-left: 4px solid var(--theme-color, #663399);
+            border-radius: .25rem;
+            color: #663399;
+            margin: 2em 0;
+            padding-left: 20px;
+        }
+    .markdown-section blockquote p {
+            font-weight: 600;
+            font-style: italic;
+            margin-left: 0;
+            color: #663399;
+        }
+    .alert.callout {  
+            border: 1px solid #663399;
+            border-left-width: .25rem;
+            border-radius: .25rem;
+            background: #FFF;
+            font-style: italic;
+            color: #663399;
+        }
+
+    .alert.callout.my-info {
+            border-color: #663399 !important;
+        }
+
+    .alert.callout.my-info .title {
+            color: #663399;
+        }
+
+    .docsify-pagination-container {
+            color: #663399;
+            border-top: 2px solid #663399 !important;
+        }   
+  </style>
+</head>
+<body>
+  <div id="app">Please wait ...</div>
+  <script>
+    window.$docsify = {
+      name: 'Spirit-Led Bible Study',
+      repo: '',
+      loadSidebar: true,
+      subMaxLevel: 6,
+      themeColor: '#663399',
+      auto2top: true,
+      pagination: {
+          crossChapter: true,
+          crossChapterText: true,
+      },
+      'flexible-alerts': {
+         note: {
+         label: 'Scripture',
+         icon: 'fas fa-bible',
+         className: 'my-info'
+         },
+      },
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <!-- Emoji Plugin-->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <!-- Pagination Plugin -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <!-- PDF Embed Plugin -->
+  <!-- PDFObject.js is a required dependency of this plugin -->
+  <script src="//cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script> 
+  <!-- This is the source code of the pdf embed plugin -->
+  <script src="path-to-file/docsify-pdf-embed.js"></script>
+  <!-- Flexible Alerts - Consider Using This For Scripture Boxes -->
+  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+</body>
+</html>
