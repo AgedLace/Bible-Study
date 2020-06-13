@@ -1,11 +1,11 @@
 ## For Brand New Believers
 ___
-### How to Interpret Scripture References 
+### Scripture References 
 Book Chapter : Verse(s) (Version)  
 John 1:1-5 NLT =  
 The Gospel of John, Chapter 1, Verses 1 through 5 in the New Living Translation
 
-### Most Common Bible Versions 
+### Common Bible Versions 
 - KJV = King James Version (most familiar)
 - NASB = New American Standard Bible
 - NLT = New Living Translation
@@ -55,7 +55,7 @@ This is My favorite version for this verse ...
 > ...  
 > 14 **So the Word became human and made His home among us**.  He was full of unfailing love and faithfulness.  And we have seen His glory, the glory of the Father's one and only Son.
 
-### How Receptive is Your Heart?  
+### Heart Condition  
 Jesus teaches there are four conditions of the heart with respect to receiving God's Word.  He likens men's hearts to various types of soil in a farmer's field.  Which type of soil represents how receptive your heart is to God's Word?
 
 * seed which falls on a footpath
@@ -78,7 +78,7 @@ Jesus teaches there are four conditions of the heart with respect to receiving G
 >
 > 9 Anyone with ears to hear should listen and understand."  
 
-#### The Parable Explained 
+#### The Explanation
 > [!NOTE|style:callout]
 > **Matthew 13:18-23 NLT**  
 > 18 "Now listen to the explanation of the parable about the farmer planting seeds:  
@@ -129,7 +129,7 @@ What Psalm 14:1 says in full context ...
 
 It is always best to read the entire verse in the context of the chapter it resides in, the Book it resides in, as well as what the rest of Bible says about the subject matter.  Other verses about the subject (known as 'cross references') can clarify and/or expand your understanding of the verse.  
 
-### the 'ASK' Principle 
+### The 'ASK' Principle 
 > [!NOTE|style:callout]
 > **Matthew 7:7-7 NLT**  
 > 7 "Keep on asking, and you will receive what you ask for.  Keep on seeking, and you will find.  Keep on knocking, and the door will be opened to you.  8 For everyone who asks, receives.  Everyone who seeks, finds.  And to everyone who knocks, the door will be opened.
@@ -173,7 +173,7 @@ When you "mess up", and trust me, we **all** mess up! ...
 > **Psalm 103:12 NLT**  
 > 12 He has removed our sins as far from us as the east is from the west.  
 
-### Suggested Bible Reading For New Believers 
+### Suggested Reading Plan 
 I suggest starting with the Gospel of John.  Following is a synopsis of the New Testament.
 
 * 4 Gospels - 4 eye-witness accounts of the life and ministry of Jesus
@@ -190,14 +190,14 @@ The key to remember is that everything God did with Israel was intended to point
 For example ...
 * All of the Jewish feasts point to Jesus.  He fulfilled the first 3 at His first coming.  He will fulfill the last 3 at His second coming.
 
-### How to 'Pray' the Scriptures  
+### 'Praying' the Scriptures  
 Since the Bible is God's Word, and has many of His promises recorded in it, I have found it beneficial to personalize them, and pray them back to Him.  For example ...
 
 > [!NOTE|style:callout]
 > **Ephesians 1:17-20 NLT**  
 > 17 asking God, the glorious Father of our Lord Jesus Christ, **to give you, dear reader,** spiritual wisdom and insight so that **you** might grow in **your** knowledge of God.  18 I pray that **your** heart will be flooded with light so that **you** can understand the confident hope He has given to **you, whom He has called -- His holy child** who is His rich and glorious inheritance.  19 I also pray that **you** will understand the incredible greatness of God's power for **you** who believe Him.  This is the same mighty power 20 that raised Christ from the dead and seated Him in the place of honor at God's right hand in the heavenly realms.
 
-### Warning Against Deception 
+### Be Not Deceived 
 As I shared in the Introduction, the sole purpose for this work is to encourage people to seek for the Holy Spirit to be their Divine Teacher.  Why? So they will not be deceived.  Jesus tells us that if it were possible, even His chosen people would be deceived in the end times.  
 
 > [!NOTE|style:callout]
