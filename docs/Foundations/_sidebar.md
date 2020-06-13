@@ -4,6 +4,4 @@ ___
 * [Home](/)
 * [Foundations](/Foundations/)
 * [](/Foundations/)
-
-
 * [Sample Bible Study](Sample/)
