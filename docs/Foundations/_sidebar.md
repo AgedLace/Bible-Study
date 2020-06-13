@@ -4,6 +4,6 @@ ___
 * [Home](/)
 * [Foundations](/Foundations/)
 * [](/Foundations/)
-    * [Salvation](/Foundations/saved.md)
+
 
 * [Sample Bible Study](Sample/)
