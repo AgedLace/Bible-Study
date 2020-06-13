@@ -2,8 +2,8 @@
 
 ## Introduction
 
-This is a work in progress.  Currently, please go to "Foundations" to begin.  I will update this file as updates are made.  
+This is a work in progress.  
 
-Thank you.
+Please Click "Foundations" in the left-hand menu to begin.  I will update this file as updates are made.  
 
-
+Thank you for your patience.
