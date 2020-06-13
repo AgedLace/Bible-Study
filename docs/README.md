@@ -2,9 +2,8 @@
 
 ## Introduction
 
->[!NOTE|style:callout]
->Scripture Address  
->Scripture here.
+This is a work in progress.  Currently, please go to "Foundations" to begin.  I will update this file as updates are made.  
 
-### Prayer
+Thank you.
+
 
