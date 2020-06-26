@@ -1,1 +1,0 @@
-## Sample Bible Study - Readme

@@ -1,6 +1,13 @@
-## For Brand New Believers
+## New Believers
 ___
+
+The purpose of this section is to lay the proper foundation necessary for a believer in Christ to have the Holy Spirit be their Divine Teacher.  
+___
+
+This section covers some basic information for new believers in Christ, particularly if they have not been raised in a religious environment.
+
 ### Scripture References 
+
 Book Chapter : Verse(s) (Version)  
 John 1:1-5 NLT =  
 The Gospel of John, Chapter 1, Verses 1 through 5 in the New Living Translation
@@ -12,43 +19,43 @@ The Gospel of John, Chapter 1, Verses 1 through 5 in the New Living Translation
 - NIV = New International Version
 - AMPC = Amplified Classic
 
-### The Bible is God's Word to Us  
-#### It Teaches and Corrects  
+### The Bible - God's Word to Us  
+* #### It Teaches and Corrects  
 > [!NOTE|style:callout]
 > **2 Timothy 3:16 NLT**  
 > 16 **All Scripture is inspired by God** and **is useful to teach us** what is true and to make us realize what is wrong in our lives.  **It corrects us** when we are wrong and teaches us to do what is right.
 
-#### It Is Alive  
+* #### It Is Alive  
 > [!NOTE|style:callout]
 > **Hebrews 4:12 NLT**  
 > 12 For **the word of God is alive and powerful**.  It is sharper than the sharpest two-edged sword, cutting between soul and spirit, between joint and marrow.  **It exposes our innermost thoughts and desires**.
 
-This is My favorite version for this verse ...  
+* This is My favorite version for this verse ...  
 > [!NOTE|style:callout]
 > **Hebrews 4:12 AMPC**  
 > 12 For **the Word that God speaks is alive and full of power [making it active, operative, energizing, and effective]**; it is sharper than any two-edged sword, penetrating to the dividing line of the breath of life (soul) and [the immortal] spirit, and of joints and marrow [of the deepest parts of our nature], **exposing and sifting and analyzing and judging the very thoughts and purposes of the heart**.
 
-#### It Produces Fruit, Works, and Prospers  
+* #### It Produces Fruit, Works, and Prospers  
 > [!NOTE|style:callout]
 > **Isaiah 55:11 NLT**  
 > 11 It is the same with **my word**.  I send it out, and **it always produces fruit**.  **It will accomplish all I want it to**, and **it will prosper everywhere I send it**.  
 
-### Jesus is the Word, God, and God's Son  
+### Jesus - the Word, God, and God's Son  
 > [!NOTE|style:callout]
 > **John 1:1, 14 NLT**  
 > 1 In the beginning the Word already existed. **The Word was with God, and the Word was God**. ... 14 So **the Word became human and made His home among us**.  He was full of unfailing love and faithfulness.  And we have seen His glory, the glory of **the Father's one and only Son**. 
 
-### Jesus Existed in the Beginning With God  
+### Jesus - in the Beginning  
 > [!NOTE|style:callout]
 > **John 1:1-2 NLT**  
 > 1 **In the beginning the Word already existed**.  The Word was with God, and the Word was God.  2 **He existed in the beginning with God**.
 
-### Jesus Created All Things  
+### Jesus - the Creator  
 > [!NOTE|style:callout]
 > **John 1:3-4 NLT**  
 > 3 **God created everything through Him, and nothing was created except through Him**.  4 **The Word gave life to everything that was created**, and His life brought light to everyone.  
 
-### Jesus is Both God and Man  
+### Jesus - Both God and Man  
 > [!NOTE|style:callout]
 > **John 1:1, 14 NLT**  
 > 1 In the beginning the Word already existed. **The Word was with God, and the Word was God.**  
@@ -61,9 +68,9 @@ Jesus teaches there are four conditions of the heart with respect to receiving G
 * seed which falls on a footpath
 * seed which falls on shallow, rocky, soil
 * seed which falls among thorns
-* seed which falls on fertile soil
+* seed which falls on fertile soil 
 
-#### The Parable  
+* #### The Parable  
 > [!NOTE|style:callout]
 > **Matthew 13:3-9 NLT**  
 > 3 He told many stories in the form of parables, such as this one: "Listen! A farmer went out to plant some seeds.  
@@ -78,7 +85,7 @@ Jesus teaches there are four conditions of the heart with respect to receiving G
 >
 > 9 Anyone with ears to hear should listen and understand."  
 
-#### The Explanation
+* #### The Interpretation
 > [!NOTE|style:callout]
 > **Matthew 13:18-23 NLT**  
 > 18 "Now listen to the explanation of the parable about the farmer planting seeds:  
@@ -104,7 +111,7 @@ God's Word does not contradict itself.  If it appears to do so, ask the Holy Spi
 > **James 1:5 NLT**  
 > If you need wisdom, ask our generous God, and He will give it to you. He will not rebuke you for asking.
 
-### The Holy Spirit - The Promised Teacher 
+### Holy Spirit - Our Teacher 
 You have no need for anyone to teach you what the Bible says or means.  God promised both to write His Word on your heart and to give us the Holy Spirit as our Divine Teacher.
 > [!NOTE|style:callout]
 > **Jeremiah 31:33-34 NLT**  
@@ -151,7 +158,7 @@ When you need His direction or guidance, or you don't understand the passage you
 > **James 1:5-7 NLT**  
 > 5 **If you need wisdom, ask our generous God, and He will give it to you.**  He will not rebuke you for asking.  6 But when you ask Him, be sure that your faith is in God alone.  Do not waver, for a person with divided loyalty is as unsettled as a wave of the sea that is blown and tossed by the wind.  7 Such people should not expect to receive anything from God.
 
-#### Hidden in Christ  
+### Hidden in Christ  
 > [!NOTE|style:callout]
 > **Colossians 2:3 NLT**  
 > 3 **In Him (Jesus) lie hidden all the treasures of wisdom and knowledge**.
@@ -162,8 +169,8 @@ When you need His direction or guidance, or you don't understand the passage you
 
 In other words, you are hidden in the exact same place as all of His wisdom and knowledge.  How cool is that?
 
-### When You "Mess Up" 
-When you "mess up", and trust me, we **all** mess up! ...
+### When We "Mess Up" 
+When we "mess up", and trust me, we **all** mess up! ...
 
 > [!NOTE|style:callout]
 > **1 John 1:9 NLT**  
@@ -190,7 +197,7 @@ The key to remember is that everything God did with Israel was intended to point
 For example ...
 * All of the Jewish feasts point to Jesus.  He fulfilled the first 3 at His first coming.  He will fulfill the last 3 at His second coming.
 
-### 'Praying' the Scriptures  
+### 'Praying' Scripture  
 Since the Bible is God's Word, and has many of His promises recorded in it, I have found it beneficial to personalize them, and pray them back to Him.  For example ...
 
 > [!NOTE|style:callout]

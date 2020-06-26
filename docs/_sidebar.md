@@ -1,8 +1,12 @@
-![logo](/media/sm-dove.png)  
+![logo](../media/sm-dove.png)  
 ___
 
 * [Home](/)
 * [Foundations](/Foundations/)
-* [Sample Bible Study](Sample/)
+    * [New Believers](/Foundations/)
+    * [Salvation](/Foundations/Saved.md)
+* [Spirit-led Bible Studies](/Studies/)
+    * [Ephesians](/Studies/Ephesians/)
+
 
 
