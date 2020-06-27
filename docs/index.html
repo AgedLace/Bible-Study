@@ -77,6 +77,14 @@ img {
             color: #009966;
         }
 
+        .alert.callout.my-note {
+            border-color: #ff6600 !important;
+        }
+
+    .alert.callout.my-note .title {
+            color: #ff6600;
+        }
+
     .docsify-pagination-container {
             color: #663399;
             border-top: 2px solid #663399 !important;
@@ -106,7 +114,12 @@ img {
          tip: {
            label: 'Word Study',
            icon: 'fas fa-dove',
-           className: 'my-tip'
+           className: 'my-tip',
+         },
+         warning: {
+           label: 'Note',
+           icon: 'fas fa-cross',
+           className: 'my-note',
          },
       },
       footer: {
