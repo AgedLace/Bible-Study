@@ -3,7 +3,7 @@ ___
 
 * [Home](/)
 * [Foundations](/Foundations/)
-    * [New Believers](/Foundations/)
+    * [New Believers](/Foundations/New.md)
     * [Salvation](/Foundations/Saved.md)
 * [Spirit-led Bible Studies](/Studies/)
     * [Ephesians](/Studies/Ephesians/)
