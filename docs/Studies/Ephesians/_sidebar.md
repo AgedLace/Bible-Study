@@ -7,6 +7,8 @@ ___
     * [Salvation](/Foundations/Saved.md)
 * [Spirit-led Bible Studies](/Studies/)
     * [Ephesians](/Studies/Ephesians/)
+        * [Chapter 1](Studies/Ephesians/chap-01.md)
+        
 
 
 

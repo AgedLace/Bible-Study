@@ -13,8 +13,12 @@
   
   <style>
 
+    h3 > .anchor span {
+      color: #3335ce;
+    }
+
     h4 > .anchor span {
-      color: #3335CE;
+      color: #009966;
     }
 
     .sidebar {
@@ -49,7 +53,7 @@ img {
             color: #663399;
         }
     .alert.callout {  
-            border: 1px solid #663399;
+            border: 1px solid #3335ce;
             border-left-width: .25rem;
             border-radius: .25rem;
             background: #FFF;
@@ -58,11 +62,19 @@ img {
         }
 
     .alert.callout.my-info {
-            border-color: #663399 !important;
+            border-color: #3335ce !important;
         }
 
     .alert.callout.my-info .title {
-            color: #663399;
+            color: #3335ce;
+        }
+
+    .alert.callout.my-tip {
+            border-color: #009966 !important;
+        }
+
+    .alert.callout.my-tip .title {
+            color: #009966;
         }
 
     .docsify-pagination-container {
@@ -90,6 +102,11 @@ img {
          label: 'Scripture',
          icon: 'fas fa-bible',
          className: 'my-info'
+         },
+         tip: {
+           label: 'Word Study',
+           icon: 'fas fa-dove',
+           className: 'my-tip'
          },
       },
       footer: {
