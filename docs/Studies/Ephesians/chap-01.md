@@ -94,9 +94,24 @@ ___
 
 > [!TIP|style:callout]  
 > 
-> **praise - G2129 - eulogia**  
+> **praise - G2129 - eulogeo**  
 > 
+> bless, praise
 > 
+> to praise, celebrate with praises  
+> 
+> to invoke blessings  
+>
+> to consecrate a thing with solemn prayers  
+> - ask God to impart His favor on an object or person  
+> - can refer to a tangible gift rather than a spoken word  
+> - pray God to bless something to one's use  
+> - pronouce a consecratory blessing on  
+> 
+> of God  
+> - to cause to prosper, to make happy, to bestow blessing on  
+> - favored of God, blessed
+>
 
 Paul gives praise to God, the Father of our Lord Jesus Christ.  Why?  
 
@@ -106,16 +121,54 @@ Father God has ...
 
 Why?
 
-* because we are united with Christ
+* because we are "in" or "united with" Christ
 
-Question - 
+> [!WARNING|style:callout]  
+>
+> What is the significance / importance of "in the heavenly realms"?  
+> 
+> Are there no spiritual blessings in the earthly realm because satan rules here?
+>  
+> God is spirit; those who worship Him must worship in spirit and in truth.  John 4:24  
+>
+> heavenly realms because our citizenship is now in heaven?  Eph 2:6  
+>
 
-* What is the significance / importance of "in the heavenly realms"?
+> [!TIP|style:callout]  
+>
+> **heavenly realms - G2032 - epouranios**  
+>
+> of or pertaining to God in the highest
+>
+> pertaining to God's kingdom, sphere, domain
+> 
 
-Are there no spiritual blessings in the earthly realm because satan rules here?
+So, Paul is praising God the Father because He has blessed us with ***every*** spiritual blessing that is in His kingdom, sphere, and domain where our citizenship now is.  (See adoption, below).  He has denied us nothing in His kingdom!  And He has done this because we are united with (or "in") Christ Jesus.  
 
-God is spirit; those who worship Him must worship in spirit and in truth.  John 4:24  
+> [!WARNING|style:callout]  
+> 
+> What exactly are these spritual blessings which God has blessed us with?  
+> 
 
+We will be able to answer this question as we proceed with our study.  
+
+> [!NOTE|style:callout]  
+> 
+> **Eph 1:4 NLT**  
+> 
+> Even before he made the world, God loved us and chose us in Christ to be holy and without fault in his eyes.  
+> 
+
+Before God created the world ...
+
+- God loved us  
+- and chose us [in Christ]  
+    - to be holy
+    - and without fault [in HIS eyes]
+
+> [!TIP|style:callout]  
+> 
+> chose - 
 
 
 
