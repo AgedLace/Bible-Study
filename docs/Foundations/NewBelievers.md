@@ -109,15 +109,15 @@ Which type of soil represents how receptive your heart is to God's Word?
 > 
 > 18 "Now listen to the explanation of the parable about the farmer planting seeds:  
 >
-> 19 The seed that fell on the footpath represents **those who hear the message about the Kingdom and don't understand it.**  Then they evil one comes and sntaches away the seed that was planted in their hearts.  
+> 19 The seed that fell on the footpath represents **those who hear the message about the Kingdom and don't understand it.**  Then the evil one comes and snatches away the seed that was planted in their hearts.  
 >
 > 20 The seed on the rocky soil represents **those who hear the message and immediately receive it with joy.**  
 >
 > 21 **But since they don't have deep roots, they don't last long.** They fall away as soon as they have problems or are persecuted for believing God's word.  
 >
-> 22 The seed that fell among the thorns represents **those who hear God's word, but all too quickly themessage is crowded out by the worries of this life and the lure of wealth, so no fruit is produced.  
+> 22 The seed that fell among the thorns represents **those who hear God's word, but all too quickly the message is crowded out by the worries of this life and the lure of wealth**, so no fruit is produced.  
 >
-> 23 The seed that fell on good soil represents **those who truly hear and understand God's word and produce a harvest of thrity, sixty, or even a hundred times as much as had been planted!**
+> 23 The seed that fell on good soil represents **those who truly hear and understand God's word and produce a harvest of thirty, sixty, or even a hundred times as much as had been planted!**
 
 ### Literal Interpretation 
 God's Word should be taken literally unless the context of the passage clearly indicates it is using allegory and/or symbolism.  Some examples ...  
