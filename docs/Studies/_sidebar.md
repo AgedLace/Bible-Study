@@ -4,6 +4,7 @@ ___
 * [Home](/)
 * [Foundations](/Foundations/)
     * [New Believers](/Foundations/New.md)
+    * [Only Spiritual Can Receive](/Foundations/Spiritual.md)
     * [Salvation](/Foundations/Saved.md)
 
 * [Spirit-led Bible Studies](/Studies/)

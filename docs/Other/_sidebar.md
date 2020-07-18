@@ -1,4 +1,4 @@
-![logo](../media/sm-dove.png)  
+![logo](../media/sm-dove.png) 
 ___
 
 * [Home](/)
