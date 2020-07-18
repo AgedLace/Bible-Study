@@ -2,17 +2,17 @@
 
 This is a question that plagues many people.  The answer is somewhat complicated too, as there are several things one needs to keep in mind..
 
-### I.  Satan - 
+### I.  Satan
 * Hates God and His People
 * He Desires To Be Higher Than God, and Worshiped As God [Isaiah 14:12-13]
 * God Threw Satan Out Of Heaven; Satan Took 1/3 Of The Angels With Him [Fallen Angels]
 * Tried To Prevent The Birth Of Christ, God's Chosen Means Of Redeeming Mankind, By Corrupting Man's Gene Pool [Genesis 6 / Book of Enoch]
 * Attempted To Destroy Mankind By Contaminating Our Genetic Makeup
-* Sons of God [Fallen Angels] Had Sex With Earthly Women, As Well As Animals
-* Their Offspring [aka Nephillim, 6-Toed Giants, Mighty Warriors] Were the Origin Of The Canabalistic Giants, and Genetic Hybrids
-* This Genetic Contamination Was The Reason For the Flood; As Well As God's Command For Israel To Destroy All The Canaanites, including the animals.  
-* Only Noah's Genetic DNA Was Untainted [Without Blemish - NLT says "blameless"]
-* God Preserved Noah In Order To Preserve The Divinely Created Genetic Makeup of Mankind From Whom Christ Was To Come According To Genesis 3
+    * Sons of God [Fallen Angels] Had Sex With Earthly Women, As Well As Animals [Genesis 6]
+    * Their Offspring [aka Nephillim, 6-Toed Giants, Mighty Warriors] Were the Origin Of The Canabalistic Giants, and Genetic Hybrids
+    * This Genetic Contamination Was The Reason For the Flood; As Well As God's Command For Israel To Destroy All The Canaanites, including the animals.  
+    * Only Noah's Genetic DNA Was Untainted [Without Blemish - NLT says "blameless"]
+    * God Preserved Noah In Order To Preserve The Divinely Created Genetic Makeup of Mankind From Whom Christ Was To Come According To Genesis 3
 * Continually Attempted To Destroy Israel To Prevent The Birth Of Christ, God's Chosen Means Of Redeeming Mankind
 * Continues To Attempt to Destroy Israel
     * They Are Still God's Chosen People, And In The End Times, Israel Will Be Saved
