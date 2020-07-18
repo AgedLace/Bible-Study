@@ -106,7 +106,8 @@ BUT - with all that being said ... there is another side to this.
 > [!NOTE|style:callout]
 > **Jas 1:2-4 NLT**  
 > 
-> 2 Dear brothers and sisters, when troubles come your way, consider it an opportunity for great joy.  > 
+> 2 Dear brothers and sisters, when troubles come your way, consider it an opportunity for great joy. 
+> 
 > 3 For you know that when your faith is tested, your endurance has a chance to grow.  
 > 
 > 4 So let it grow, for when your endurance is fully developed, you will be perfect and complete, needing nothing.  
