@@ -1,9 +1,9 @@
-![logo](../media/sm-dove.png)  
+![logo](/media/sm-dove.png)  
 ___
 
 * [Home](/)
 * [Foundations](/Foundations/)
-    * [New Believers](/Foundations/New.md)
+    * [New Believers](/Foundations/NewBelievers.md)
     * [Only Spiritual Can Receive](/Foundations/Spiritual.md)
     * [Salvation](/Foundations/Saved.md)
 
@@ -11,6 +11,3 @@ ___
     * [Ephesians](/Studies/Ephesians/)
 * [Other Topics](/Other/)
     * [Why Bad Things ...](/Other/Why.md)
-
-
-
