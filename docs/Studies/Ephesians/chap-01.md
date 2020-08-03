@@ -230,7 +230,7 @@ So, before God had even created the world ...
     > 28 So we are made right with God through faith and not by obeying the law.  
     > 
 
-    >  [!NOTE|style:callout]  
+    > [!NOTE|style:callout]
     > 
     > **Romans 4:5 NLT**  
     > 
