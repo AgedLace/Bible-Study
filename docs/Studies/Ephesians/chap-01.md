@@ -152,6 +152,10 @@ So, Paul is praising God the Father because He has blessed us with ***every*** s
 
 We will be able to answer this question as we proceed with our study.  
 
+___
+
+### Verse 4  
+
 > [!NOTE|style:callout]  
 > 
 > **Eph 1:4 NLT**  
@@ -159,19 +163,109 @@ We will be able to answer this question as we proceed with our study.
 > Even before he made the world, God loved us and chose us in Christ to be holy and without fault in his eyes.  
 > 
 
-Before God created the world ...
+> [!TIP|style:callout]  
+> 
+> chose - G1586 - eklegomai  
+>
+> to pick out, select  
+> to choose for oneself  
+>
 
-- God loved us  
-- and chose us [in Christ]  
-    - to be holy
-    - and without fault [in HIS eyes]
+- God picked us out
+    - for Himself
+    - as His own possession
+
+Why?
 
 > [!TIP|style:callout]  
 > 
-> chose - 
+> holy - G40 - hagios  
+> 
+> most holy thing, a saint  
+> sacred, pure, morally blameless, consecrated (set apart)
+> 
 
+- That we might be holy, pure and blameless  
+- that we might be set apart / consecrated / dedicated to Him  
 
+And ...
 
+> [!TIP|style:callout]  
+> 
+> blameless - G299 - amomos  
+>
+> without blame
+> without spot, faultless
+> without blemish
+> 
 
+- That we might be found blameless, without spot or blemish
 
+So, before God had even created the world ...
 
+- He loved us  
+- and chose us [in Christ]  
+    - to be holy in HIS sight
+    - and without fault in HIS eyes
+
+> [!WARNING|style:callout]  
+>
+> Why the emphasis on "in God's sight / eyes?"  
+> 
+
+- In the eyes of the world, good works makes one holy, pure and blameless.
+- God's Word says ...
+
+    > [!NOTE|style:callout]  
+    > 
+    > **Romans 6:23 NLT**  
+    >
+    > 23 For the wages of sin is death, but **the free gift of God** is eternal life through CHrist Jesus our Lord.  
+    > 
+
+    > [!NOTE|style:callout]  
+    > 
+    > **Romans 3:28 NLT**  
+    > 
+    > 28 So we are made right with God through faith and not by obeying the law.  
+    > 
+
+    >  [!NOTE|style:callout]  
+    > 
+    > **Romans 4:5 NLT**  
+    > 
+    > 5 But people are counted righteous, not because of their work, but because of their faith in God who forgives sinners.  
+    > 
+
+> [!WARNING|style:callout]  
+>
+> So then why is there such an emphasis on doing good works, if they are not the basis for being holy and blameless before God?  
+> 
+
+> [!NOTE|style:callout]  
+> 
+> **Romans 6:16 NLT**  
+> 
+> 16 Don't you realize that you become the slave of whatever you choose to obey?  You can be a slave to sin, which leads to death, or you can choose to obey God, which leads to righteous living.  
+> 
+
+> [!NOTE|style:callout]  
+> 
+> **James 2:14, 17-18 NLT**  
+> 
+> 14 What good is it, dear brothers and sisters, if you say you have faith but don't show it by your actions?  Can that kind of faith save anyone?  
+> 
+> ... 
+> 
+> 17 So you see, faith by itself isn't enough.  Unless it produces good deeds, it is dead and useless.
+> 
+> 18 Now someone may argue, "Some people have faith; others have good deeds."  But I say, "How can you show me your faith if you don't have good deeds? I will show you my faith by my good deeds."  
+> 
+
+So in summary, our being chosen, loved, and made holy and blameless in God's sight is ...
+- A gift of God 
+- Cannot be earned by doing good works; can only be received by faith in Christ Jesus
+- Faith produces good works as we walk in obedience to God and His commandments  
+
+___
+### Verse 5
