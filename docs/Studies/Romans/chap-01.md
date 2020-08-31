@@ -19,7 +19,7 @@
 
 > [!COMMENT|style:callout]  
 > 
-> By virtue of our 'calling' [see next note] all Christians are slaves of Christ, not just apostles, or ministers.  
+> By virtue of our 'calling' [see next word study note] all Christians are slaves of Christ, not just apostles, or ministers.  
 >
 
 *   > [!NOTE|style:callout]  
