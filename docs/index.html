@@ -85,6 +85,14 @@ img {
             color: #ff6600;
         }
 
+    .alert.callout.my-attention {
+            border-color: #3399ff  !important;
+    }
+
+    .alert.callout.my-attention .title {
+            color: #3399ff;
+    }
+
     .docsify-pagination-container {
             color: #663399;
             border-top: 2px solid #663399 !important;
@@ -120,6 +128,11 @@ img {
            label: 'Question[s]',
            icon: 'fas fa-cross',
            className: 'my-note',
+         },
+         attention: {
+           label: 'Note',
+           icon: 'fas fa-exclamation',
+           className: 'my-attention',
          },
       },
       footer: {

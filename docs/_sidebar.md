@@ -9,5 +9,6 @@ ___
     * [Who We Are In Christ](/Foundations/Who.md)
 * [Spirit-led Bible Studies](/Studies/)
     * [Ephesians](/Studies/Ephesians/)
+    * [Romans](/Studies/Romans/)
 * [Other Topics](/Other/)
     * [Why Bad Things ...](/Other/Why.md)
