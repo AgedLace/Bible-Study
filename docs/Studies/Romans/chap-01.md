@@ -21,14 +21,15 @@
 > 
 > By virtue of our 'calling' [see next note] all Christians are slaves of Christ, not just apostles, or ministers.  
 >
-> >	
-> > **1 Corinthians 6:19-20 NLT**  
-> > 
-> > 19 Don't you realize that your body is the temple of the Holy Spirit, who lives in you and was given to you by God? **You do not belong to yourself,**  
-> > 
-> > 20 **for God bought you with a high price.** So you must honor God with your body.  
-> >
->
+
+*   > [!NOTE|style:callout]  
+    > 
+    > **1 Corinthians 6:19-20 NLT**  
+    > 
+    > 19 Don't you realize that your body is the temple of the Holy Spirit, who lives in you and was given to you by God? **You do not belong to yourself,**  
+    > 
+    > 20 **for God bought you with a high price.** So you must honor God with your body.  
+    >
 
 > [!TIP|style:callout]  
 >
