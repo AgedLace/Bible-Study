@@ -17,7 +17,7 @@
 > * In the New Testament, believers are often identified as slaves of Christ Jesus, with an emphasis on their identify with, obedience to, and humble service for their master.  
 >
 
-> [!ATTENTION:style:callout]  
+> [!ATTENTION|style:callout]  
 > 
 > By virtue of our 'calling' [see next note] all Christians are slaves of Christ, not just apostles, or ministers.  
 >
