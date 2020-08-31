@@ -21,7 +21,6 @@
 > 
 > By virtue of our 'calling' [see next note] all Christians are slaves of Christ, not just apostles, or ministers.  
 >
-> > [!NOTE|style:callout]  
 > >	
 > > **1 Corinthians 6:19-20 NLT**  
 > > 
