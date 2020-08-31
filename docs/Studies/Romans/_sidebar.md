@@ -9,7 +9,6 @@ ___
     * [Who We Are In Christ](/Foundations/Who.md)
 * [Spirit-led Bible Studies](/Studies/)
     * [Ephesians](/Studies/Ephesians/)
-        * [Chapter 1](/Studies/Ephesians/chap-01.md)
     * [Romans](/Studies/Romans/)
         * [Chapter 1](/Studies/Romans/chap-01.md)
 * [Other Topics](/Other/)

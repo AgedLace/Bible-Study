@@ -10,6 +10,7 @@ ___
 * [Spirit-led Bible Studies](/Studies/)
     * [Ephesians](/Studies/Ephesians/)
         * [Chapter 1](/Studies/Ephesians/chap-01.md)
+    * [Romans](/Studies/Romans/)
 * [Other Topics](/Other/)
     * [Why Bad Things ...](/Other/Why.md)
 
