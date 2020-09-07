@@ -18,3 +18,4 @@ ___
     * [Romans](/Studies/Romans/)
 * [Other Topics](/Other/)
     * [Why Bad Things ...](/Other/Why.md)
+    * [Why Christians Must Suffer](/Other/Christian_Suffering.md)
