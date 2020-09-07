@@ -1,3 +1,6 @@
+## God's Provision
+___
+
 > [!NOTE|style:callout]
 > **Ephesians 2:4-5 NLT**  
 >

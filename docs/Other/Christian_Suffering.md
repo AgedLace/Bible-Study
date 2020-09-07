@@ -121,7 +121,7 @@
 	> 10 ***Don't be afraid of what you are about to suffer.*** The devil will throw some of you into prison to test you.  You will suffer for ten days.  ***But if you remain faithful even when facing death, I will give you the crown of life.***  
 	>  
 
-## Purpose of Suffering  
+### Purpose of Suffering  
 
 *	> [!NOTE|style:callout]  
 	>  
@@ -215,7 +215,7 @@
 	>  
 
 
-## The Apostles' Attitude Towards Suffering 
+### The Apostles' Attitude Towards Suffering 
   
 *	> [!NOTE|style:callout]  
 	>  

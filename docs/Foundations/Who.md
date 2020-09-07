@@ -1,0 +1,4 @@
+## Who We Are In Christ
+___
+
+This section currently under construction - thank you for your patience!

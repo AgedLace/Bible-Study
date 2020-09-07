@@ -1,4 +1,4 @@
-### Only Spiritual Men Can Receive From The Holy Spirit 
+## Only Spiritual Men Can Receive From The Holy Spirit 
 ___
 Scripture teaches us that God has made a covenant with us.  A small part of this covenant includes ...  
 
