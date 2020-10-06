@@ -1,4 +1,8 @@
 ## God's Plan
+___
+
+NOTE - THIS SECTION IS STILL UNDER CONSTRUCTION - THANK YOU FOR YOUR PATIENCE!
+___
 
 > [!NOTE|style:callout]
 > **Ephesians 1:9-10 NLT**  

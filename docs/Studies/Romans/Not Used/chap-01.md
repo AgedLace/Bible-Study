@@ -1,4 +1,8 @@
 ## Romans - Chapter 1
+___
+
+NOTE - THIS SECTION IS STILL UNDER CONSTRUCTION - THANK YOU FOR YOUR PATIENCE!
+___
 
 > [!NOTE|style:callout] 
 > **Romans 1:1 NLT**  

@@ -1,5 +1,6 @@
 ## New Believers  
 ___
+
 This section covers some basic information for new believers in Christ, particularly if they have not been raised in a religious environment.
 
 ### Scripture References 
