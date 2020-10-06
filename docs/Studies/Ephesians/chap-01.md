@@ -6,14 +6,12 @@ ___
 
 ### Verse 1  
 
-> [!NOTE|iconVisibility:hidden]  
-> **Eph 1:1 NLT**  
->
+> [!NOTE|iconVisibility:hidden]
+> **Ephesians 1:1 NLT**  
 > This letter is from Paul, chosen by the will of God to be an apostle of Christ Jesus. I am writing to God's holy people in Ephesus, who are faithful followers of Christ Jesus.
 >
 
-> [!TIP|iconVisibility:hidden]  
->
+> [!TIP|iconVisibility:hidden]
 > **apostle - G652 - apostolos** 
 >
 > a messenger; a delegate  
@@ -26,8 +24,7 @@ Apostles are ...
 * [apostles / messengers of] Christ Jesus
 * a special messenger sent out with orders
 
-> [!TIP|iconVisibility:hidden]  
-> 
+> [!TIP|iconVisibility:hidden]
 > **will [of God] - G2307 - thelema**  
 >
 > desire; pleasure  
@@ -38,8 +35,7 @@ Apostles are ...
 
 It was God's purpose and desire to choose Paul to be His special messenger to the holy and faithful followers of Christ Jesus in Ephesus.  
 
-> [!TIP|iconVisibility:hidden]  
-> 
+> [!TIP|iconVisibility:hidden]
 > **holy [people] - G40 - hagios**  
 >
 > holy; saints  
@@ -59,17 +55,15 @@ ___
 
 ### Verse 2  
 
-> [!NOTE|iconVisibility:hidden]  
->
-> **Eph 1:2 NLT**  
+> [!NOTE|iconVisibility:hidden]
+> **Ephesians 1:2 NLT**  
 > 
 > May God our Father and the Lord Jesus Christ give you grace and peace.  
 >
 
 This is Paul's typical greeting of blessing to those to whom he is writing.
 
-> [!TIP|iconVisibility:hidden]  
-> 
+> [!TIP|iconVisibility:hidden]
 > **grace G5485 - charis**  
 >
 > grace, (unmerited) favor, thanks, pleasure
@@ -89,14 +83,12 @@ ___
 
 ### Verse 3  
 
-> [!NOTE|iconVisibility:hidden]  
->
-> **Eph 1:3 NLT**  
+> [!NOTE|iconVisibility:hidden]
+> **Ephesians 1:3 NLT**  
 > 
 > All praise to God, the Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly realms because we are united with Christ.  
 
-> [!TIP|iconVisibility:hidden]  
-> 
+> [!TIP|iconVisibility:hidden]
 > **praise - G2129 - eulogeo**  
 > 
 > bless, praise
@@ -127,7 +119,7 @@ Why?
 * because we are "in" or "united with" Christ
 
 > [!WARNING|iconVisibility:hidden]  
->
+> 
 > What is the significance / importance of "in the heavenly realms"?  
 > 
 > Are there no spiritual blessings in the earthly realm because satan rules here?
@@ -137,8 +129,7 @@ Why?
 > heavenly realms because our citizenship is now in heaven?  Eph 2:6  
 >
 
-> [!TIP|iconVisibility:hidden]  
->
+> [!TIP|iconVisibility:hidden]
 > **heavenly realms - G2032 - epouranios**  
 >
 > of or pertaining to God in the highest
@@ -148,8 +139,8 @@ Why?
 
 So, Paul is praising God the Father because He has blessed us with ***every*** spiritual blessing that is in His kingdom, sphere, and domain where our citizenship now is.  (See adoption, below).  He has denied us nothing in His kingdom!  And He has done this because we are united with (or "in") Christ Jesus.  
 
-> [!WARNING|iconVisibility:hidden]  
-> 
+> [!WARNING|iconVisibility:hidden]
+>
 > What exactly are these spritual blessings which God has blessed us with?  
 > 
 
@@ -159,16 +150,14 @@ ___
 
 ### Verse 4  
 
-> [!NOTE|iconVisibility:hidden]  
-> 
-> **Eph 1:4 NLT**  
+> [!NOTE|iconVisibility:hidden]
+> **Ephesians 1:4 NLT**  
 > 
 > Even before he made the world, God loved us and chose us in Christ to be holy and without fault in his eyes.  
 > 
 
-> [!TIP|iconVisibility:hidden]  
-> 
-> chose - G1586 - eklegomai  
+> [!TIP|iconVisibility:hidden]
+> **chose - G1586 - eklegomai**  
 >
 > to pick out, select  
 > to choose for oneself  
@@ -180,9 +169,8 @@ ___
 
 Why?
 
-> [!TIP|iconVisibility:hidden]  
-> 
-> holy - G40 - hagios  
+> [!TIP|iconVisibility:hidden]
+> **holy - G40 - hagios**  
 > 
 > most holy thing, a saint  
 > sacred, pure, morally blameless, consecrated (set apart)
@@ -193,9 +181,8 @@ Why?
 
 And ...
 
-> [!TIP|iconVisibility:hidden]  
-> 
-> blameless - G299 - amomos  
+> [!TIP|iconVisibility:hidden]
+> **blameless - G299 - amomos**  
 >
 > without blame
 > without spot, faultless
@@ -211,49 +198,44 @@ So, before God had even created the world ...
     - to be holy in HIS sight
     - and without fault in HIS eyes
 
-> [!WARNING|iconVisibility:hidden]  
->
+> [!WARNING|iconVisibility:hidden]
+> 
 > Why the emphasis on "in God's sight / eyes?"  
 > 
 
 - In the eyes of the world, good works makes one holy, pure and blameless.
 - God's Word says ...
 
-    > [!NOTE|iconVisibility:hidden]  
-    > 
+    > [!NOTE|iconVisibility:hidden]
     > **Romans 6:23 NLT**  
     >
     > 23 For the wages of sin is death, but **the free gift of God** is eternal life through CHrist Jesus our Lord.  
     > 
 
-    > [!NOTE|iconVisibility:hidden]  
-    > 
+    > [!NOTE|iconVisibility:hidden]
     > **Romans 3:28 NLT**  
     > 
     > 28 So we are made right with God through faith and not by obeying the law.  
     > 
 
     > [!NOTE|iconVisibility:hidden]
-    > 
     > **Romans 4:5 NLT**  
     > 
     > 5 But people are counted righteous, not because of their work, but because of their faith in God who forgives sinners.  
     > 
 
-> [!WARNING|iconVisibility:hidden]  
->
+> [!WARNING|iconVisibility:hidden]
+> 
 > So then why is there such an emphasis on doing good works, if they are not the basis for being holy and blameless before God?  
 > 
 
-> [!NOTE|iconVisibility:hidden]  
-> 
+> [!NOTE|iconVisibility:hidden]
 > **Romans 6:16 NLT**  
 > 
 > 16 Don't you realize that you become the slave of whatever you choose to obey?  You can be a slave to sin, which leads to death, or you can choose to obey God, which leads to righteous living.  
 > 
 
-> [!NOTE|iconVisibility:hidden]  
-> 
+> [!NOTE|iconVisibility:hidden]
 > **James 2:14, 17-18 NLT**  
 > 
 > 14 What good is it, dear brothers and sisters, if you say you have faith but don't show it by your actions?  Can that kind of faith save anyone?  

@@ -11,7 +11,7 @@ The reason for this is two-fold.
     *  He provided Jesus Christ as the means by which we have such a relationship. [See 'Salvation'](/Foundations/Salvation)
 * Second, there is a great deal of misunderstanding, misinformation and even deception taught about the Scriptures, both in and outside, the church.
     *  Jesus warned us about this many times ...
-        > [!NOTE|iconVisibility:hidden]  
+        > [!NOTE|iconVisibility:hidden]
         > **Matthew 7:15 NLT**
         >
         > 15 Beware of false prophets who come disguised as harmless sheep but are really vicious wolves.
@@ -54,7 +54,7 @@ The reason for this is two-fold.
             > 
             > 26 But when the Father sends the Advocate as My representative -- that is, the Holy Spirit -- He will teach youe verything and will remind you of everything I have told you.
 
-        > [!NOTE|iconVisibility:hidden] 
+        > [!NOTE|iconVisibility:hidden]
         > **1 John 2:27 NLT**
         > 
         > 27 But you have received the Holy Spirit, and He lives within you, so you don't need anyone to teach you what is true.  For the Spirit teaches you everything you need to know, and what He teaches is true -- it is not a lie.  So just as He has taught you, remain in fellowship with Christ.
