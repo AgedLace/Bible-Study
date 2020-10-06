@@ -2,6 +2,9 @@
 ### The Book of Romans - Introduction
 ___
 
+NOTE - THIS SECTION IS STILL UNDER CONSTRUCTION - THANK YOU FOR YOUR PATIENCE!
+___
+
 The central theme of the Book of Romans can be summed up in one word - righteousness.
 
 Job asks a very important question ...

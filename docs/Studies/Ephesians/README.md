@@ -1,6 +1,9 @@
 ## Ephesians  
 ___
 
+NOTE - THIS SECTION IS STILL UNDER CONSTRUCTION - THANK YOU FOR YOUR PATIENCE!
+___
+
 ### Prayer  
 
 *Holy Spirit,*

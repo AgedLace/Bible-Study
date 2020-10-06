@@ -1,6 +1,9 @@
 ## Spirit-led Bible Studies
 ___
 
+NOTE - THIS SECTION IS STILL UNDER CONSTRUCTION - THANK YOU FOR YOUR PATIENCE!
+___
+
 This section contains example Spirit-led Bible Studies.  
 
 Don't be surprised if the Holy Spirit does any of the following ...
