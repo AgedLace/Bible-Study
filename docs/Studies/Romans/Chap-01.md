@@ -2,6 +2,10 @@
 ### The Book of Romans
 ___
 
+NOTE - THIS SECTION IS STILL UNDER CONSTRUCTION - THANK YOU FOR YOUR PATIENCE!
+___
+
+
 #### Chapter 1  
 
 > [!NOTE|style:callout]  
