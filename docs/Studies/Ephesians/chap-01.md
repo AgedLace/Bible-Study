@@ -6,13 +6,13 @@ ___
 
 ### Verse 1  
 
-> [!NOTE|style:callout]  
+> [!NOTE|iconVisibility:hidden]  
 > **Eph 1:1 NLT**  
 >
 > This letter is from Paul, chosen by the will of God to be an apostle of Christ Jesus. I am writing to God's holy people in Ephesus, who are faithful followers of Christ Jesus.
 >
 
-> [!TIP|style:callout]  
+> [!TIP|iconVisibility:hidden]  
 >
 > **apostle - G652 - apostolos** 
 >
@@ -26,7 +26,7 @@ Apostles are ...
 * [apostles / messengers of] Christ Jesus
 * a special messenger sent out with orders
 
-> [!TIP|style:callout]  
+> [!TIP|iconVisibility:hidden]  
 > 
 > **will [of God] - G2307 - thelema**  
 >
@@ -38,7 +38,7 @@ Apostles are ...
 
 It was God's purpose and desire to choose Paul to be His special messenger to the holy and faithful followers of Christ Jesus in Ephesus.  
 
-> [!TIP|style:callout]  
+> [!TIP|iconVisibility:hidden]  
 > 
 > **holy [people] - G40 - hagios**  
 >
@@ -59,7 +59,7 @@ ___
 
 ### Verse 2  
 
-> [!NOTE|style:callout]  
+> [!NOTE|iconVisibility:hidden]  
 >
 > **Eph 1:2 NLT**  
 > 
@@ -68,7 +68,7 @@ ___
 
 This is Paul's typical greeting of blessing to those to whom he is writing.
 
-> [!TIP|style:callout]  
+> [!TIP|iconVisibility:hidden]  
 > 
 > **grace G5485 - charis**  
 >
@@ -89,13 +89,13 @@ ___
 
 ### Verse 3  
 
-> [!NOTE|style:callout]  
+> [!NOTE|iconVisibility:hidden]  
 >
 > **Eph 1:3 NLT**  
 > 
 > All praise to God, the Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly realms because we are united with Christ.  
 
-> [!TIP|style:callout]  
+> [!TIP|iconVisibility:hidden]  
 > 
 > **praise - G2129 - eulogeo**  
 > 
@@ -126,7 +126,7 @@ Why?
 
 * because we are "in" or "united with" Christ
 
-> [!WARNING|style:callout]  
+> [!WARNING|iconVisibility:hidden]  
 >
 > What is the significance / importance of "in the heavenly realms"?  
 > 
@@ -137,7 +137,7 @@ Why?
 > heavenly realms because our citizenship is now in heaven?  Eph 2:6  
 >
 
-> [!TIP|style:callout]  
+> [!TIP|iconVisibility:hidden]  
 >
 > **heavenly realms - G2032 - epouranios**  
 >
@@ -148,7 +148,7 @@ Why?
 
 So, Paul is praising God the Father because He has blessed us with ***every*** spiritual blessing that is in His kingdom, sphere, and domain where our citizenship now is.  (See adoption, below).  He has denied us nothing in His kingdom!  And He has done this because we are united with (or "in") Christ Jesus.  
 
-> [!WARNING|style:callout]  
+> [!WARNING|iconVisibility:hidden]  
 > 
 > What exactly are these spritual blessings which God has blessed us with?  
 > 
@@ -159,14 +159,14 @@ ___
 
 ### Verse 4  
 
-> [!NOTE|style:callout]  
+> [!NOTE|iconVisibility:hidden]  
 > 
 > **Eph 1:4 NLT**  
 > 
 > Even before he made the world, God loved us and chose us in Christ to be holy and without fault in his eyes.  
 > 
 
-> [!TIP|style:callout]  
+> [!TIP|iconVisibility:hidden]  
 > 
 > chose - G1586 - eklegomai  
 >
@@ -180,7 +180,7 @@ ___
 
 Why?
 
-> [!TIP|style:callout]  
+> [!TIP|iconVisibility:hidden]  
 > 
 > holy - G40 - hagios  
 > 
@@ -193,7 +193,7 @@ Why?
 
 And ...
 
-> [!TIP|style:callout]  
+> [!TIP|iconVisibility:hidden]  
 > 
 > blameless - G299 - amomos  
 >
@@ -211,7 +211,7 @@ So, before God had even created the world ...
     - to be holy in HIS sight
     - and without fault in HIS eyes
 
-> [!WARNING|style:callout]  
+> [!WARNING|iconVisibility:hidden]  
 >
 > Why the emphasis on "in God's sight / eyes?"  
 > 
@@ -219,40 +219,40 @@ So, before God had even created the world ...
 - In the eyes of the world, good works makes one holy, pure and blameless.
 - God's Word says ...
 
-    > [!NOTE|style:callout]  
+    > [!NOTE|iconVisibility:hidden]  
     > 
     > **Romans 6:23 NLT**  
     >
     > 23 For the wages of sin is death, but **the free gift of God** is eternal life through CHrist Jesus our Lord.  
     > 
 
-    > [!NOTE|style:callout]  
+    > [!NOTE|iconVisibility:hidden]  
     > 
     > **Romans 3:28 NLT**  
     > 
     > 28 So we are made right with God through faith and not by obeying the law.  
     > 
 
-    > [!NOTE|style:callout]
+    > [!NOTE|iconVisibility:hidden]
     > 
     > **Romans 4:5 NLT**  
     > 
     > 5 But people are counted righteous, not because of their work, but because of their faith in God who forgives sinners.  
     > 
 
-> [!WARNING|style:callout]  
+> [!WARNING|iconVisibility:hidden]  
 >
 > So then why is there such an emphasis on doing good works, if they are not the basis for being holy and blameless before God?  
 > 
 
-> [!NOTE|style:callout]  
+> [!NOTE|iconVisibility:hidden]  
 > 
 > **Romans 6:16 NLT**  
 > 
 > 16 Don't you realize that you become the slave of whatever you choose to obey?  You can be a slave to sin, which leads to death, or you can choose to obey God, which leads to righteous living.  
 > 
 
-> [!NOTE|style:callout]  
+> [!NOTE|iconVisibility:hidden]  
 > 
 > **James 2:14, 17-18 NLT**  
 > 

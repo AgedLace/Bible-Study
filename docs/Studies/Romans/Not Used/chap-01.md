@@ -4,13 +4,13 @@ ___
 NOTE - THIS SECTION IS STILL UNDER CONSTRUCTION - THANK YOU FOR YOUR PATIENCE!
 ___
 
-> [!NOTE|style:callout] 
+> [!NOTE|iconVisibility:hidden] 
 > **Romans 1:1 NLT**  
 >
 > 1 This letter is from Paul, a slave of Christ Jesus, chosen by God to be an apostle and sent out to preach His Good News.
 > 
 
-> [!TIP|style:callout]  
+> [!TIP|iconVisibility:hidden]  
 >
 > **slave - G1401 - doulos**  
 > 
@@ -21,12 +21,12 @@ ___
 > * In the New Testament, believers are often identified as slaves of Christ Jesus, with an emphasis on their identify with, obedience to, and humble service for their master.  
 >
 
-> [!COMMENT|style:callout]  
+> [!COMMENT|iconVisibility:hidden]  
 > 
 > By virtue of our 'calling' [see next word study note] all Christians are slaves of Christ, not just apostles, or ministers.  
 >
 
-*   > [!NOTE|style:callout]  
+*   > [!NOTE|iconVisibility:hidden]  
     > 
     > **1 Corinthians 6:19-20 NLT**  
     > 
@@ -35,7 +35,7 @@ ___
     > 20 **for God bought you with a high price.** So you must honor God with your body.  
     >
 
-> [!TIP|style:callout]  
+> [!TIP|iconVisibility:hidden]  
 >
 > **chosen (called) - G2822 - kletos**  
 >
@@ -45,7 +45,7 @@ ___
 >		* divinely selected and appointed  
 >
 
-> [!TIP|style:callout]  
+> [!TIP|iconVisibility:hidden]  
 >
 > **apostle - G652 - apostolos** 
 >

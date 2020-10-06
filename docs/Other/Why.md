@@ -43,7 +43,7 @@ BUT - with all that being said ... there is another side to this.
 
 ### I.  We are not to be surprised by these things.
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **1Pe 4:12-17 NLT** 
 >
 >12 Dear friends, don't be surprised at the fiery trials you are going through, as if something strange were happening to you.  
@@ -58,7 +58,7 @@ BUT - with all that being said ... there is another side to this.
 > 
 > 17 For the time has come for judgment, and it must begin with God's household. And if judgment begins with us, what terrible fate awaits those who have never obeyed God's Good News? 
 
->[!NOTE|style:callout]
+>[!NOTE|iconVisibility:hidden]
 > **Jhn 15:18-21 NLT**  
 >
 > 18 "If the world hates you, remember that it hated me first.  
@@ -71,7 +71,7 @@ BUT - with all that being said ... there is another side to this.
 
 ### II.  Jesus told us the very members of our own households would be against us.
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Mat 10:34-37 NLT**  
 > 
 > 34 "Don't imagine that I came to bring peace to the earth! I came not to bring peace, but a sword.  
@@ -84,7 +84,7 @@ BUT - with all that being said ... there is another side to this.
 
 ### III.  God Chastens Those He Loves
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Heb 12:5-11 NLT**  
 >
 > 5 And have you forgotten the encouraging words God spoke to you as his children? He said, "My child, don't make light of the LORD's discipline, and don't give up when he corrects you.  
@@ -103,7 +103,7 @@ BUT - with all that being said ... there is another side to this.
 
 ### IV.  We are even told to count it all joy!
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Jas 1:2-4 NLT**  
 > 
 > 2 Dear brothers and sisters, when troubles come your way, consider it an opportunity for great joy. 
@@ -114,27 +114,27 @@ BUT - with all that being said ... there is another side to this.
 
 ### V.  God Uses It to Refine / Purify Us
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Rom 8:28 NLT**  
 > 
 > 28 And we know that God causes everything to work together for the good of those who love God and are called according to his purpose for them.
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Isa 48:10 NLT**  
 > 
 > 10 I have refined you, but not as silver is refined. Rather, I have refined you in the furnace of suffering.
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Dan 11:35 NLT**  
 > 
 > 35 And some of the wise will fall victim to persecution. In this way, they will be refined and cleansed and made pure until the time of the end, for the appointed time is still to come.
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Dan 12:10 NLT**  
 > 
 > 10 Many will be purified, cleansed, and refined by these trials. But the wicked will continue in their wickedness, and none of them will understand. Only those who are wise will know what it means.
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Zec 13:9 NLT**  
 >
 > 9 I will bring that group through the fire and make them pure. I will refine them like silver and purify them like gold. They will call on my name, and I will answer them. I will say, 'These are my people,' and they will say, 'The LORD is our God.'"

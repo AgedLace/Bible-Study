@@ -4,7 +4,7 @@ ___
 NOTE - THIS SECTION IS STILL UNDER CONSTRUCTION - THANK YOU FOR YOUR PATIENCE!
 ___
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Ephesians 2:4-5 NLT**  
 >
 > 4 But God is so rich in mercy, and He loved us so much,
@@ -13,7 +13,7 @@ ___
 >
 
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Ephesians 2:8-10, 13, 18 NLT**  
 >
 > 8 God saved you by His grace when you believed.  And you can't take credit for this; it is a gift from God.

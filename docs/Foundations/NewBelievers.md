@@ -17,31 +17,31 @@ John 1:1-5 NLT = The Gospel of John, Chapter 1, Verses 1 through 5 in the New Li
 
 ### The Bible - God's Word to Us  
 * #### It Teaches and Corrects  
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **2 Timothy 3:16 NLT** 
 > 
 > 16 **All Scripture is inspired by God** and **is useful to teach us** what is true and to make us realize what is wrong in our lives.  **It corrects us** when we are wrong and teaches us to do what is right.
 
 * #### It Is Alive  
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Hebrews 4:12 NLT**  
 > 
 > 12 For **the word of God is alive and powerful**.  It is sharper than the sharpest two-edged sword, cutting between soul and spirit, between joint and marrow.  **It exposes our innermost thoughts and desires**.
 
 * This is My favorite version for this verse ...  
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Hebrews 4:12 AMPC**  
 > 
 > 12 For **the Word that God speaks is alive and full of power [making it active, operative, energizing, and effective]**; it is sharper than any two-edged sword, penetrating to the dividing line of the breath of life (soul) and [the immortal] spirit, and of joints and marrow [of the deepest parts of our nature], **exposing and sifting and analyzing and judging the very thoughts and purposes of the heart**.
 
 * #### It Is Sent Out, Produces Fruit, Works, and Prospers  
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Isaiah 55:11 NLT**  
 > 
 > 11 It is the same with **my word**.  I **send it out**, and **it always produces fruit**.  **It will accomplish all I want it to**, and **it will prosper everywhere I send it**.  
 
 ### Jesus - the Word, God, and God's Son  
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **John 1:1, 14 NLT** 
 >  
 > 1 In the beginning the Word already existed. **The Word was with God, and the Word was God**. 
@@ -51,7 +51,7 @@ John 1:1-5 NLT = The Gospel of John, Chapter 1, Verses 1 through 5 in the New Li
 > 14 So **the Word became human and made His home among us**.  He was full of unfailing love and faithfulness.  And we have seen His glory, the glory of **the Father's one and only Son**. 
 
 ### Jesus - in the Beginning  
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **John 1:1-2 NLT** 
 >  
 > 1 **In the beginning the Word already existed**.  The Word was with God, and the Word was God.  
@@ -59,7 +59,7 @@ John 1:1-5 NLT = The Gospel of John, Chapter 1, Verses 1 through 5 in the New Li
 > 2 **He existed in the beginning with God**.
 
 ### Jesus - the Creator  
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **John 1:3-4 NLT**  
 > 
 > 3 **God created everything through Him, and nothing was created except through Him**.  
@@ -67,7 +67,7 @@ John 1:1-5 NLT = The Gospel of John, Chapter 1, Verses 1 through 5 in the New Li
 > 4 **The Word gave life to everything that was created**, and His life brought light to everyone.  
 
 ### Jesus - Both God and Man  
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **John 1:1, 14 NLT** 
 >  
 > 1 In the beginning the Word already existed. **The Word was with God, and the Word was God.**
@@ -87,7 +87,7 @@ Jesus teaches there are four conditions of the heart with respect to receiving G
 Which type of soil represents how receptive your heart is to God's Word?
 
 * #### The Parable  
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Matthew 13:3-9 NLT**  
 > 
 > 3 He told many stories in the form of parables, such as this one: "Listen! A farmer went out to plant some seeds.  
@@ -105,7 +105,7 @@ Which type of soil represents how receptive your heart is to God's Word?
 > 9 Anyone with ears to hear should listen and understand."  
 
 * #### The Interpretation
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Matthew 13:18-23 NLT**  
 > 
 > 18 "Now listen to the explanation of the parable about the farmer planting seeds:  
@@ -130,7 +130,7 @@ God's Word should be taken literally unless the context of the passage clearly i
 Also, Scripture interprets Scripture.  See, for example, the Parable of the Seed in the previous section.  Jesus shared the parable, then gives the interpretation afterwards.
 
 God's Word does not contradict itself.  If it appears to do so, ask the Holy Spirit to grant you understanding about the seeming contradiction.  
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **James 1:5 NLT** 
 >  
 > If you need wisdom, ask our generous God, and He will give it to you. He will not rebuke you for asking.
@@ -138,19 +138,19 @@ God's Word does not contradict itself.  If it appears to do so, ask the Holy Spi
 ### Holy Spirit - Our Teacher 
 You have no need for anyone to teach you what the Bible says or means.  God promised both to write His Word on your heart and to give you the Holy Spirit as your Divine Teacher.
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Jeremiah 31:33-34 NLT** 
 >  
 > 33 "But this is the new covenant I will make with the people of Israel on that day," says the Lord, **"I will put my instructions deep within them, and I will write them on their hearts.** I will be their God, and they will be my people.  
 >
 > 34 And **they will not need to teach their neighbors, nor will they need to teach their relatives**, saying, 'You should know the LORD.' **For everyone, from the least to the greatest, will know me already."** says the LORD.  "And I will forgive their wickedness and I will never again remember their sins."
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **1 John 2:27 NLT**  
 > 
 > 27 But **you have received the Holy Spirit, and He lives within you, so you don't need anyone to teach you what is true.  For the Spirit teaches you everything you need to know**, and what He teaches is true -- it is not a lie.  So just as He has taught you, remain in fellowship with Christ.
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **John 14:26 NLT**  
 > 
 > But when the Father sends the Advocate as My representative -- that is, the Holy Spirit -- **He will teach you everything and will remind you of everything I have told you.**  
@@ -162,7 +162,7 @@ You have no need for anyone to teach you what the Bible says or means.  God prom
 
 What Psalm 14:1 says in full context ...  
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Psalm 14:1 NLT**  
 > 
 > 1 For the choir director:  A psalm of David.  **Only fools say in their hearts, "There is no God.**" They are corrupt, and their actions are evil; not one of them does good!
@@ -170,7 +170,7 @@ What Psalm 14:1 says in full context ...
 It is always best to read the entire verse in the context of the chapter it resides in, the Book it resides in, as well as what the rest of Bible says about the subject matter.  Other verses about the subject (known as 'cross references') can clarify and/or expand your understanding of the verse.  
 
 ### The 'ASK' Principle 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Matthew 7:7-8 NLT** 
 >  
 > 7 "Keep on asking, and you will receive what you ask for.  Keep on seeking, and you will find.  Keep on knocking, and the door will be opened to you.  
@@ -192,7 +192,7 @@ When you need His direction or guidance, or you don't understand the passage you
 
 Are you seeing a pattern here?  (God wants us to **ASK** Him for things!)
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **James 1:5-7 NLT** 
 >  
 > 5 **If you need wisdom, ask our generous God, and He will give it to you.**  He will not rebuke you for asking.  
@@ -202,12 +202,12 @@ Are you seeing a pattern here?  (God wants us to **ASK** Him for things!)
 > 7 Such people should not expect to receive anything from God.
 
 ### Hidden in Christ  
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Colossians 2:3 NLT**  
 > 
 > 3 **In Him (Jesus) lie hidden all the treasures of wisdom and knowledge**.
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Colossians 3:3 NLT**  
 > 
 > 3 For you died to this life, and **your life is hidden with Christ in God.**
@@ -217,12 +217,12 @@ In other words, you are hidden in the exact same place as all of His wisdom and 
 ### When We "Mess Up" 
 When we "mess up", and trust me, we **all** mess up! ...
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **1 John 1:9 NLT**  
 > 
 > 9 But **if we confess our sins *to Him*, He is faithful and just to forgive us our sins and to cleanse us from all wickedness.**
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Psalm 103:12 NLT**  
 > 
 > 12 He has removed our sins as far from us as the east is from the west.  
@@ -250,7 +250,7 @@ For example ...
 ### 'Praying' Scripture  
 Since the Bible is God's Word, and has many of His promises recorded in it, I have found it beneficial to personalize them, and pray them back to Him.  For example ...
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Ephesians 1:17-20 NLT**  
 >
 > 17 asking God, the glorious Father of our Lord Jesus Christ, **to give you, dear reader,** spiritual wisdom and insight so that **you** might grow in **your** knowledge of God.  
@@ -264,7 +264,7 @@ Since the Bible is God's Word, and has many of His promises recorded in it, I ha
 ### Be Not Deceived 
 As I shared in the Introduction, the sole purpose for this work is to encourage people to seek for the Holy Spirit to be their Divine Teacher.  Why? So they will not be deceived.  Jesus tells us that if it were possible, even His chosen people would be deceived in the end times.  
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Matthew 24:24 NLT**  
 > 
 > 24 For false messiahs and false prophets will rise up and perform great signs and wonders **so as to deceive, if possible, even God's chosen ones**.
@@ -273,19 +273,19 @@ Jesus repeatedly warns us not to be deceived.  This is a command, meaning it is 
 
 Let me be very clear:  only the Holy Spirit can protect us from deception; however, it is only those who take the time and effort to cultivate a personal relationship with God the Father, God the Son, and God the Holy Spirit, who will be able to discern deception and error because they will have been taught by Him; they know His voice, and they will **not** be led away by another.  
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **John 10:4-5 NLT**  
 > 
 > 4 After He has gathered His own flock, He walks ahead of them, and they follow Him **because they now His voice**.  
 > 
 > 5 **They won't follow a stranger**; they will run from him because they don't know his voice.
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Matthew 24:5 NLT** 
 >  
 > 5 for many will come in My Name, claiming, 'I am the Messiah.'  They will deceive many.
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Matthew 24:11 NLT**  
 > 
 > 11 And many false prophets will appear and will deceive many people.

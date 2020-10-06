@@ -8,7 +8,7 @@ ___
 
 #### Chapter 1  
 
-> [!NOTE|style:callout]  
+> [!NOTE|iconVisibility:hidden]  
 > **Romans 1: 1-17 BSB**  
 > 1 Paul, **_a servant_** of Christ Jesus, **_called_** to be an apostle, and **_set  apart_** for the gospel of God --  
 >  

@@ -3,7 +3,7 @@
 
 ### Rescued Through Suffering
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **Job 36 15-17 NLT**  
 	>  
@@ -14,14 +14,14 @@
 	> 17 But you are obsessed with whether the godless will be judged.  Don't worry, judgment and justice will be upheld.  
  	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **Psalm 119:71 NLT**  
 	>  
 	> 71 ***My suffering was good for me, for it taught me to pay attention to Your decrees.***  
 	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **Hebrews 5:8-9 NLT**  
 	>  
@@ -30,14 +30,14 @@
 	> 9 In this way, God qualified Him as a perfect High Priest, and He became the Source of eternal salvation for all those who obey Him.  
 	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **Hebrews 2:8 NLT**  
 	>  
 	> 8 Since He Himself has gone through suffering and testing, He is able to help us when we are being tested.  
 	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **James 5:10-11 NLT**  
 	>  
@@ -48,7 +48,7 @@
 
 ### Appointed / Chosen For Suffering For Christ
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **Acts 9:15-16 NLT**  
 	>  
@@ -57,7 +57,7 @@
 	> 16 And ***I will show him how much he must suffer for My Name's sake***.  
 	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **Acts 14:21-22 NLT**  
 	>  
@@ -66,7 +66,7 @@
 	> 22 where they strengthened the believers.  They encouraged them to continue in the faith, ***reminding them that we must suffer many hardships to enter the Kingdom of God.***  
 >  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **Romans 8:17 NLT**  
 	>  
@@ -74,7 +74,7 @@
 	>  
 	
 	
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **1 Peter 2:19-21, 23 NLT**  
 	>  
@@ -89,7 +89,7 @@
 	> 23 ***He did not retaliate when He was insulted, nor threaten revenge when He suffered.  He left His case in the hands of God, who always judges fairly.***  
 	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **1 Peter 3:14, 17 NLT**  
 	>  
@@ -100,21 +100,21 @@
 	> 17 Remember, ***it is better to suffer for doing good, if that is what God wants, than to suffer for doing wrong!***  
 	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **1 Peter 5:10 NLT**  
 	>  
 	> 10 In His kindness God called you to share in His eternal glory by means of Christ Jesus.  ***So after you have suffered a little while, He will restore, support, and strengthen you, and He will place you on a firm foundation.***  
 	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **Revelation 1:9 NLT**  
 	>  
 	> 9 I, John, am your brother ***and your partner in suffering*** and in God's Kingdom and ***in the patient endurance to which Jesus calls us.***  I was exiled to the island of Patmos for preaching the word of God and for my testimony about Jesus.  
 	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **Revelation 2:10 NLT**  
 	>  
@@ -123,21 +123,21 @@
 
 ### Purpose of Suffering  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **Isaiah 24:5 NLT**  
 	>  
 	> 5 The earth suffers for the sins of its people, for they have twisted God's instructions, violated His laws, and broken His everlasting covenant.  
 	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **Isaiah 48:10 NLT**  
 	>  
 	> 10 I have refined you, but not as silver is refined.  Rather, I have refined you in the furnace of suffering.  
 	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **2 Corinthians 1:5-7 NLT**  
 	>  
@@ -148,7 +148,7 @@
 	> 7 We are confident that ***as you share in our sufferings, you will also share in the comfort God gives us.***  
 	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **2 Corinthians 4:8-12 NLT**  
 	>  
@@ -163,7 +163,7 @@
 	> 12 So we live in the face of death, but ***this has resulted in eternal life for you.***  
 	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **2 Corinthians 12:8-10 NLT**  
 	>  
@@ -174,7 +174,7 @@
 	> 10 ***That's why I take pleasure in my weaknesses, and in the insults, harships, persecutions, and troubles that I suffer for Christ.  For when I am weak, then I am strong.***  
 	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **2 Timothy 1:5-6 NLT**  
 	>  
@@ -183,14 +183,14 @@
 	> 6 In His justice He will pay back those who persecute you.  
 	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **2 Timothy 3:12 NLT**  
 	>  
 	> 12 Yes, and ***everyone who wants to live a godly life in Christ Jesus will suffer persecution.***  
 	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **Hebrews 10:32-36 NLT**  
 	>  
@@ -205,7 +205,7 @@
 	> 36 Patient endurance is what you need now, so that you will continue to do God's will.  Then you will receive all that He has promised.  
 	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **1 Peter 4:1-2 NLT**  
 	>  
@@ -217,35 +217,35 @@
 
 ### The Apostles' Attitude Towards Suffering 
   
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **Acts 5:41 NLT**  
 	>
 	> 41 The apostles left the high council ***rejoicing that God had counted them worthy to suffer disgrace for the name of Jesus.***  
 	>  
  
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **Romans 8:18 NLT**  
 	>  
 	> 18 Yet what we suffer now is nothing compared to the glory He will reveal to us later.
 	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **Ephesians 3:13 NLT***  
 	>  
 	> 13 So please don't lose heart because of my trials here.  ***I am suffering for you, so you should feel honored.***  
 	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **Philippians 1:29 NLT**  
 	>  
 	> 29 For you have been given not only the privilege of trusting in Christ ***but also the privilege of suffering for Him.***  
 	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **Philippians 3:8-11 NLT**  
 	>  
@@ -258,21 +258,21 @@
 	> 11 ***so that one way or another I will experience the resurrection from the dead!***  
 	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **Colossians 1:24 NLT**  
 	>  
 	> 24 I am glad ***when I suffer for you in my body, for I am participating in the sufferings of Christ that continue for His body, the church.***  
 	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **2 Timothy 1:8 NLT**  
 	>  
 	> 8 So never be ashamed to tell others about our Lord.  And don't be ashamed of me, either, even though I'm in prison for Him.  With the strength God gives you, ***be ready to suffer with me for the sake of the Good News.***  
 	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **2 Timothy 1:11-12 NLT**  
 	>  
@@ -281,7 +281,7 @@
 	> 12 ***That is why I am suffering here in prison.***  But I am not ashamed of it, for I know the One in whom I trust, and I am sure that He is able to guard what I have entrusted to Him until the day of His return.  
 	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **2 Timothy 2:3, 9 NLT**  
 	>  
@@ -292,7 +292,7 @@
 	> 9 And because I preach this Good News, I am suffering and have been chained like a criminal.  Butr the Word of God cannot be chained.  
 	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **2 Timothy 4:5-6 NLT**  
 	>  
@@ -301,7 +301,7 @@
 	> 6 As for me, ***my life has already been poured out as an offering to God.***  The time of my death is near.  
 	>  
 
-*	> [!NOTE|style:callout]  
+*	> [!NOTE|iconVisibility:hidden]  
 	>  
 	> **1 Peter 4:12-16, 19 NLT**  
 	>  

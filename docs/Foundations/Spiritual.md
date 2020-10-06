@@ -9,19 +9,19 @@ Scripture teaches us that God has made a covenant with us.  A small part of this
 * We must receive the Holy Spirit
 * The Holy Spirit lives inside us so we don't need anyone to teach us
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Jer 31:33-34 NLT**
 >
 > 33 "But this is the new covenant I will make with the people of Israel on that day," says the LORD. "I will put my instructions deep within them, and I will write them on their hearts. I will be their God, and they will be my people. 
 > 
 > 34 And they will not need to teach their neighbors, nor will they need to teach their relatives, saying, 'You should know the LORD.' For everyone, from the least to the greatest, will know me already," says the LORD. "And I will forgive their wickedness, and I will never again remember their sins."
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Jhn 14:26 NLT**   
 > 
 > 26 But when the Father sends the Advocate as my representative--that is, the Holy Spirit--he will teach you everything and will remind you of everything I have told you.  
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **1Jo 2:27 NLT**   
 > 
 > 27 But you have received the Holy Spirit, and he lives within you, so you don't need anyone to teach you what is true. For the Spirit teaches you everything you need to know, and what he teaches is true--it is not a lie. So just as he has taught you, remain in fellowship with Christ.
@@ -29,7 +29,7 @@ Scripture teaches us that God has made a covenant with us.  A small part of this
 
 The Hebrew word used for "covenant" is *beriyth* ...  
 
-> [!TIP|style:callout]
+> [!TIP|iconVisibility:hidden]
 > **Covenant - H1285 - beriyth**  
 > 
 > A covenant, so called from the idea of cutting, since it was the custom in making solemn covenants to pass between the divided parts of victims.  See Genesis 15:9.  
@@ -38,13 +38,13 @@ The Hebrew word used for "covenant" is *beriyth* ...
 
 The Bible tells us that God is spirit …  
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Jhn 4:24 NLT**  
 > 24 For God is Spirit, so those who worship him must worship in spirit and in truth."
 
 God’s Word also tells us that understanding His Word cannot be done with our natural wisdom or understanding.
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **1Co 2:11-16 NLT**  
 > 
 > 11 No one can know a person's thoughts except that person's own spirit, and no one can know God's thoughts except God's own Spirit.  
@@ -61,7 +61,7 @@ God’s Word also tells us that understanding His Word cannot be done with our n
 
 **This is important.** It is the reason why Jesus told His disciples to wait until they had received the Holy Spirit after He ascended into heaven to be seated at the Father’s right hand. Contrast their lives before receiving God’s Holy Spirit with what they were able to accomplish once they had received Him. 
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **Act 1:4-5 NLT**  
 > 
 > 4 Once when he was eating with them, he commanded them, "Do not leave Jerusalem until the Father sends you the gift he promised, as I told you before.  
@@ -70,7 +70,7 @@ God’s Word also tells us that understanding His Word cannot be done with our n
 
 5. Paul also tells us that his preaching was not done by human wisdom but rather by the words he received by God’s Spirit which were accompanied by the demonstration of the Spirit’s power. 
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **1Co 2:1, 4-7, 9-16 NLT**  
 > 
 > 1 When I first came to you, dear brothers and sisters, I didn't use lofty words and impressive wisdom to tell you God's secret plan.
@@ -105,7 +105,7 @@ God’s Word also tells us that understanding His Word cannot be done with our n
 
 All of that being said, the Bible also teaches us that ...
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **1Co 1:18-25 NLT**  
 > 
 > 18 The message of the cross is foolish to those who are headed for destruction! But we who are being saved know it is the very power of God.
@@ -126,25 +126,25 @@ All of that being said, the Bible also teaches us that ...
 
 This is the reason I no longer engage in debates about what the Bible does or doesn’t say; the Bible calls this foolishness, godless, and a waste of time. Nothing has caused more division in the Body of Christ than people debating / arguing over what the Bible does or doesn’t say.
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **1Co 1:10 NLT**  
 > I appeal to you, dear brothers and sisters, by the authority of our Lord Jesus Christ, to live in harmony with each other. Let there be no divisions in the church. Rather, be of one mind, united in thought and purpose.
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **1Ti 6:20-21 NLT**
 >
 > 20 Timothy, guard what God has entrusted to you. Avoid godless, foolish discussions with those who oppose you with their so-called knowledge.
 > 
 > 21 Some people have wandered from the faith by following such foolishness. May God's grace be with you all.
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **2Ti 2:16-17 NLT**
 > 
 > 16 Avoid worthless, foolish talk that only leads to more godless behavior.
 > 
 > 17 This kind of talk spreads like cancer, as in the case of Hymenaeus and Philetus.
 
-> [!NOTE|style:callout]
+> [!NOTE|iconVisibility:hidden]
 > **2Ti 2:23-26 NLT**  
 >
 > 23 Again I say, don't get involved in foolish, ignorant arguments that only start fights.
