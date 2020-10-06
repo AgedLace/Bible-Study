@@ -1,5 +1,5 @@
 
-### The Book of Romans - Introduction
+## The Book of Romans - Introduction
 ___
 
 NOTE - THIS SECTION IS STILL UNDER CONSTRUCTION - THANK YOU FOR YOUR PATIENCE!
@@ -62,7 +62,7 @@ The rest of this study will focus on what exactly is righteousness and how can w
 ___
 
 
-#### **The Book of Romans Can Be Divided Into 4 Sections**
+### **The Book of Romans Can Be Divided Into 4 Sections**
 
 * Chapters 1 through 8 - The Gospel, also called 'Good News'
 * Chapters 9 through 11 - God's dealings with Israel

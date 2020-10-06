@@ -1,5 +1,5 @@
 ## Why Must Christians Suffer  
----
+___
 
 ### Rescued Through Suffering
 

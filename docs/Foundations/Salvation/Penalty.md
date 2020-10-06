@@ -1,6 +1,6 @@
 ## The Penalty
 ___
 
-This section currently under construction - thank you for your patience!
+NOTE - THIS SECTION IS STILL UNDER CONSTRUCTION - THANK YOU FOR YOUR PATIENCE!
 ___
 

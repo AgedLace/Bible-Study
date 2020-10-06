@@ -1,12 +1,11 @@
-
-### The Book of Romans
+## The Book of Romans
 ___
 
 NOTE - THIS SECTION IS STILL UNDER CONSTRUCTION - THANK YOU FOR YOUR PATIENCE!
 ___
 
 
-#### Chapter 1  
+### Chapter 1  
 
 > [!NOTE|iconVisibility:hidden]  
 > **Romans 1: 1-17 BSB**  
@@ -44,7 +43,7 @@ ___
 >  17 For the gospel reveals the righteousness of God that comes by faith from start to finish, just as it is written: "The righteous will live by faith."  
 >  
 
------
+___
 
 **From - Paul**  
 
@@ -87,7 +86,7 @@ ___
     - God our Father
     - and the Lord Jesus Christ
 
------
+___
 
 
 Our **_obedience must come through faith_**, from beginning to end ... like Abraham, we must LIVE by faith.  Habakkuk 2:4.
