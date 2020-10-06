@@ -1,8 +1,10 @@
 # Spirit-Led Bible Study
+___
+
+NOTE - THIS SECTION IS STILL UNDER CONSTRUCTION - THANK YOU FOR YOUR PATIENCE!
+___
 
 ## Introduction
-
-This is a work in progress.  
 
 Please Click "Foundations" in the left-hand menu to begin.  I will update this file as updates are made.  
 
