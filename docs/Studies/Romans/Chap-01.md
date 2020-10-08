@@ -4,22 +4,84 @@ ___
 NOTE - THIS SECTION IS STILL UNDER CONSTRUCTION - THANK YOU FOR YOUR PATIENCE!
 ___
 
-
 ### Chapter 1  
 
 > [!NOTE|iconVisibility:hidden]
 > **Romans 1: 1 BSB**  
+> 
 > 1 Paul, **_a servant_** of Christ Jesus, **_called_** to be an apostle, and **_set  apart_** for the gospel of God --  
 >  
 
-**From Paul**  
+#### This Letter Was Written By Paul  
+
+> [!WARNING|iconVisibility:hidden]
+>  
+> **What do we learn about Paul from this verse?**  
+> 
+#### Paul was ...
 
 - a servant / slave of Christ Jesus
 - called to be an apostle
 - set apart for the gospel of God
 
+> [!TIP|iconVisibility:hidden]  
+>
+> **slave - G1401 - doulos**  
+> 
+> * refers to **a person who is the property of another**  
+> * can be bought, sold, inherited, leased, or jointly owned  
+> * used figuratively to identify something that exercises power over a person  
+> 	* "slave to sin"  
+> * In the New Testament, **believers are often identified as slaves of Christ Jesus**, with an emphasis on their identify with, obedience to, and humble service for their master.  
+>
+
+#### Characteristics of A Believer ...
+* they are often referred to as slaves of Christ Jesus
+  * they belong to Him; they are not their own  
+    * > [!NOTE|iconVisibility:hidden]  
+      >  
+      > **1 Corinthians 6:19-20 BSB**  
+      >  
+      > 19 Do you not know that your body is a temple of the Holy Spirit who is in you, whom you have received from God?  **You are not your own;**  
+      > 
+      > 20 **you were bought at a price.**  Therefore glorify God with your body.    
+      > 
+  * they are identified with Him    
+  * they are obedient to Him  
+  * they humbly serve Him  
+
+> [!TIP|iconVisibility:hidden]  
+>
+> **chosen (called) - G2822 - kletos**  
+>
+> * called, invited  
+> 	* **invited** (by God in the proclamation of the Gospel) **to obtain eternal salvation** in the kingdom through Christ  
+> 	* called (the discharge of) some office  
+>		* **divinely selected and appointed**  
+>
+
+#### Characteristics of The 'Called' or 'Chosen' of God  
+* they are invited to obtain eternal salvation in God's Kingdom  
+  * this eternal salvation is through Jesus Christ  
+* apostles are divinely selected and appointed by God for their office   
+
+> [!TIP|iconVisibility:hidden]  
+>
+> **apostle - G652 - apostolos** 
+>
+> * a messenger; a delegate  
+> * **he that is sent; one sent forth with orders**  
+>
+
+#### Apostles are ...  
+
+* chosen by the will of God
+* [apostles / messengers] of Christ Jesus
+* a special messenger sent out with orders
+
 > [!NOTE|iconVisibility:hidden] 
 > **Romans 1:2-5 BSB**  
+> 
 > 2 the gospel He **_promised beforehand through His prophets_** in the Holy Scriptures,  
 >  
 > 3 **_regarding His Son_**, who was **_a descendant of David according to the flesh_**,  
@@ -29,7 +91,12 @@ ___
 > 5 Through Him and on behalf of His Name. we received grace and apostleship to call all those among the Gentiles to **_the obedience that comes from faith_**. 
 >  
 
-**About The Gospel Of God**
+#### Paul's Divine Commission  
+
+- To 'call' **_ALL_** among the Gentiles 
+  - to the obedience [to the Gospel of Jesus Christ] that comes through faith.  
+
+#### Subject of Paul's Letter - The Gospel Of God
 
 - Promised by God beforehand through His prophets
 - Is centered around God's Son
@@ -39,6 +106,7 @@ ___
 
 > [!NOTE|iconVisibility:hidden] 
 > **Romans 1:6-8 BSB** 
+> 
 > 6 And you also are among those who are **_called to belong to Jesus Christ_**.  
 >  
 > 7 **_To all in Rome who are loved by God_** and **_called to be saints_**:  Grace and peace to you from God our Father and the Lord Jesus Christ.  
@@ -46,15 +114,15 @@ ___
 > 8 First, I thank my God through Jesus Christ for all of you, because your faith is being proclaimed all over the world.  
 >  
 
-**To All in Rome**
+#### This Letter is Written to All in Rome  
 
-- who are called to belong to Jesus Christ
+- who are **_called_** to belong to Jesus Christ
     - are loved by God
-    - and called to be saints
-    - called to belong to Jesus Christ
+    - and **_called_** to be saints
+    - **_called_** to belong to Jesus Christ
     - their faith was being proclaimed worldwide
 
-**Greeting**
+#### Paul's Greeting  
 
 - Grace and peace from
     - God our Father
@@ -79,9 +147,9 @@ ___
 >  
 > 16 I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, then to the Greek. 
 
-**More about Paul**
+#### More Details About Paul  
 
-- served God through his spirit
+- served God through his spirit [not in his own strength / power]
 - longed to see the Roman believers
     - so he could impart a spiritual gift to strengthen them
     - that he and they might mutually be encouraged
@@ -95,12 +163,15 @@ ___
 >  17 For the gospel reveals the righteousness of God that comes by faith from start to finish, just as it is written: "The righteous will live by faith."  
 >  
 
-**More on the Gospel of God**
+#### More About the Gospel of God
 
-- It is the power of God
+- It is the power of God 
     - for salvation to EVERYONE who believes
 - It reveals the righteousness of God
     - that comes by faith from start to finish
+
+#### Our Response to the Gospel  
+
 - Our **_obedience to the Gospel must come through faith_**, from beginning to end ... like Abraham, we must LIVE by faith.  Habakkuk 2:4
 - It centers wholly on the death, burial and resurrection of Jesus Christ  
 
