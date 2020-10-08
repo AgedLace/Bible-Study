@@ -103,6 +103,19 @@ ___
     - Through His human nature, He was a descendant of the David
     - Through His divine nature, the Holy Spirit declared Him to be the Son of God through His resurrection
     - Jesus Christ our Lord
+- It centers wholly on the death, burial and resurrection of Jesus Christ  
+    - > [!NOTE|iconVisibility:hidden]
+      > **1 Corinthians 15:1-4 BSB**
+      > 
+      > 1 Now, brothers, **_I want to remind you of the gospel_** I preached to you, which you received, and in which you stand firm. 
+      > 
+      > 2 **_By this gospel you are saved_**, if you hold firmly to the word I preached to you.  Otherwise, you have believed in vain.  
+      > 
+      > 3 For what I received I passed on to you as of first importance: **_that Christ died for our sisn according to the Scriptures,_**  
+      > 
+      > 4 **_that He was buried, that He was raised on the third day according to the Scriptures._**  
+      > 
+
 
 > [!NOTE|iconVisibility:hidden] 
 > **Romans 1:6-8 BSB** 
@@ -172,20 +185,15 @@ ___
 
 #### Our Response to the Gospel  
 
-- Our **_obedience to the Gospel must come through faith_**, from beginning to end ... like Abraham, we must LIVE by faith.  Habakkuk 2:4
-- It centers wholly on the death, burial and resurrection of Jesus Christ  
+- Our **_obedience to the Gospel must come through faith_**, from beginning to end ... like Abraham, we must LIVE by faith.  
 
-    - > [!NOTE|iconVisibility:hidden]
-      > **1 Corinthians 15:1-4 BSB**
-      > 
-      > 1 Now, brothers, **_I want to remind you of the gospel_** I preached to you, which you received, and in which you stand firm. 
-      > 
-      > 2 **_By this gospel you are saved_**, if you hold firmly to the word I preached to you.  Otherwise, you have believed in vain.  
-      > 
-      > 3 For what I received I passed on to you as of first importance: **_that Christ died for our sisn according to the Scriptures,_**  
-      > 
-      > 4 **_that He was buried, that He was raised on the third day according to the Scriptures._**  
-      > 
+  - > [!NOTE|iconVisibility:hidden]
+    >  
+    > **Habakkuk 2:4 BSB**  
+    >  
+    > 4 Look at the proud one; his soul is not upright -- **but the rigtheous will live by faith** --  
+    > 
+
 
 
 
