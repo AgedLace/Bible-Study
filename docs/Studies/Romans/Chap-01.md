@@ -1,9 +1,6 @@
 ## Romans - Chapter 1
 ___
 
-NOTE - THIS SECTION IS STILL UNDER CONSTRUCTION - THANK YOU FOR YOUR PATIENCE!
-___
-
 ### Chapter 1  
 
 > [!NOTE|iconVisibility:hidden]
@@ -195,5 +192,297 @@ ___
     > 
 
 
+> [!NOTE|iconVisibility:hidden]
+> **Romans 1:18 BSB**
+>
+> 18 The wrath of God is being revealed from heaven against all the godlessness and wickedness of men who suppress the truth by their wickedness.  
+> 
 
+#### Wrath of God
+- is being revealed from heaven
+- against all the godlessness and wickedness of humanity
 
+> [!TIP|iconVisibility:hidden]  
+>
+> **wrath - G3709 - orge**  
+>  
+> * desire [as a reaching forth or excitement of the mind]  
+>     * by analogy - violent passion  
+>          * ire  
+>          * justifiable abhorrence  
+>      * by implication - punishment  
+>          * anger  
+>          * indignation  
+>          * vengeance  
+>          * wrath  
+> 
+
+> [!TIP|iconVisibility:hidden]  
+>
+> **revealed - G601 - apokalypto**  
+>  
+> * to take off the cover  
+>     * disclose  
+>     * reveal
+>
+
+> [!TIP|iconVisibility:hidden]  
+>
+> **godlessness - G763 - asebeia**  
+>  
+> * impiety [lack of piety; lack of reverence for God or sacred things; irreverence.]  
+>    * by implication - wickedness  
+>        * ungodly / ungodliness  
+>  
+
+> [!TIP|iconVisibility:hidden]  
+>
+> **wickedness - G93 - adikia**  
+>  
+> * [legal] injustice  
+>    * properly, the quality, by implication, the act  
+>        * morally  
+>            * wrongfulness of character, life or act  
+>                * iniquity  
+>                * unjust  
+>                * unrighteousness  
+>                * wrong  
+> 
+
+> [!TIP|iconVisibility:hidden]  
+>
+> **suppressing - G2722 - katecho**  
+>  
+> * to hold down (fast)  
+>    * in various applications - literally or figuratively  
+>        * have  
+>        * hold (fast)  
+>        * keep (in memory)  
+>        * let  
+>        * make toward  
+>        * possess  
+>        * retain  
+>        * seize on  
+>        * stay  
+>        * take  
+>        * withhold  
+>
+
+> [!NOTE|iconVisibility:hidden]
+> **Romans 1:19 BSB**  
+> 
+> 19 For what may be known about God is plain to them, because God has made it plain to them.  
+>  
+
+> [!TIP|iconVisibility:hidden]  
+>
+> **made plain - G5318 - phaneros**  
+>  
+> * shining  
+>    * apparent - literally or figuratively
+>        * externally  
+>            * abroad  
+>            * appear  
+>            * known  
+>            * manifest  
+>            * open(ly)  
+>            * outward(ly)  
+>  
+
+> [!TIP|iconVisibility:hidden]  
+>
+> **known - G1110 - gnostos**  
+>  
+> * well-known  
+>    * acquaintance  
+>    * (which may be known)  
+>    * notable  
+>  
+
+> [!NOTE|iconVisibility:hidden]
+> **Romans 1:20 BSB**  
+> 
+> 20 For since the creation of the world God’s invisible qualities, His eternal power and divine nature, have been clearly seen, being understood from His workmanship, so that men are without excuse.  
+
+#### About God
+- God makes plain to humanity what may be known about Him through ...
+    - His invisible qualities
+        - His eternal power
+        - His divine nature 
+    - these invisible qualities have been clearly seen by humanity
+        - being understood from His workmanship [His creation] - [Divine Design]
+        - so that **men are without excuse**
+
+> [!NOTE|iconVisibility:hidden] 
+> **Romans 1:21 BSB**  
+>  
+> 21 For although they knew God, they neither glorified Him as God nor gave thanks to Him, but they became futile in their thinking and darkened in their foolish hearts.  
+> 
+
+> [!TIP|iconVisibility:hidden]  
+>
+> **became futile - G3154 - mataioo**  
+>  
+> * to render  
+>    * (passively - become) foolish  
+>        * (morally) wicked
+>        * or (specially) idolatrous  
+>        * become vain  
+>  
+
+> [!TIP|iconVisibility:hidden]  
+>
+> **thinking - G1261 - dialogismos**  
+>  
+> * discussion  
+>    * (internal) consideration  
+>        * by implication / purpose  
+>        * or (external) debate  
+>            * dispute  
+>            * doubtful / doubting  
+>            * imagination  
+>            * reasoning  
+>            * thought  
+>  
+
+> [!TIP|iconVisibility:hidden]  
+>
+> **darkened - G4654 - skotizo**  
+>  
+> * to obscure - literally or figuratively  
+>    * to darken  
+>  
+
+> [!NOTE|iconVisibility:hidden] 
+> **Romans 1:22-32 BSB**  
+> 
+> 22 Although they claimed to be wise, they became fools,  
+>  
+> 23 and exchanged the glory of the immortal God for images of mortal man and birds and animals and reptiles.  
+>  
+> 24 Therefore God gave them up in the desires of their hearts to impurity for the dishonoring of their bodies with one another.  
+>  
+> 25 They exchanged the truth of God for a lie, and worshiped and served created things rather than the Creator, who is forever worthy of praise! Amen.  
+>  
+> 26 For this reason God gave them over to dishonorable passions. Even their women exchanged natural relations for unnatural ones.  
+>  
+> 27 Likewise, the men abandoned natural relations with women and burned with lust for one another. Men committed indecent acts with other men, and received in themselves the due penalty for their error.  
+>  
+> 28 Furthermore, since they did not see fit to acknowledge God, He gave them up to a depraved mind, to do what should not be done.  
+>  
+> 29 They have become filled with every kind of wickedness, evil, greed, and hatred. They are full of envy, murder, strife, deceit, and malice. They are gossips,  
+>  
+> 30 slanderers, God-haters, insolent, arrogant, and boastful. They invent new forms of evil; they disobey their parents.  
+>  
+> 31 They are senseless, faithless, heartless, merciless.  
+>  
+> 32 Although they know God’s righteous decree that those who do such things are worthy of death, they not only continue to do these things, but also approve of those who practice them.  
+>
+
+#### Wicked Men
+- their wickedness suppresses the truth
+- they knew God [thus why they are without excuse]
+- did not glorify Him [as God]
+- nor give thanks to Him 
+- therefore God caused them to ...
+    - become futile in their thinking
+    - become darkened in their foolish hearts
+- they claim to be wise, 
+    - but become fools [so ... they were not fools to begin with; they became so as a result of the choices they made]
+- they exchanged the glory of the immortal God for images of mortal man, birds, animals and reptiles [idolatry]
+- as a result, God ...
+    - gave them up in the desires of their hearts 
+        - to impurity 
+            - for the dishonoring of their bodies with one another
+- they exchanged the truth of God for a lie [they made a choice]
+- they worshiped and served created things rather than the Creator [another choice]
+- therefore God ...
+    - gave them over to dishonorable passions
+        - even women exchanged natural relations for unnatural ones [lesbianism]
+        - men abandoned natural relations with women and burned with lust for one another [homosexuality]
+        - men committed indecent acts with other men
+        - they received in themselves the due penalty for their error [aids?] 
+- they did not see fit to acknowledge God
+- therefore God ...
+    - gave them up to depraved minds
+        - to do what should not be done
+- they became filled with every kind of wickedness, evil, greed, and hatred
+    - full of envy
+    - murder
+    - strife
+    - deceit
+    - malice
+    - gossips
+    - slanderers
+    - God haters
+    - insolent
+    - arrogant
+    - boastful
+    - invent new forms of evil
+    - disobey parents
+    - senseless
+    - faithless
+    - heartless
+    - merciless
+- they know God's righteous decree that those who do such things are worthy of death
+- they continue to do these things [a choice[ 
+- they also approve of those who practice them [soothes their conscience]
+
+> [!TIP|iconVisibility:hidden]  
+>
+> **exchanged - G3337 - metallasso**  
+>  
+> * to exchange  
+>    * to change  
+>  
+
+> [!TIP|iconVisibility:hidden]  
+>
+> ** gave up - G3860 - paradidomi**  
+>  
+> * to surrender  
+>    * to yield up  
+>    * entrust  
+>    * transmit  
+>    * betray  
+>    * bring forth  
+>    * cast  
+>    * commit  
+>    * deliver (up)  
+>    * give (over, up)  
+>    * hazard  
+>    * put in prison  
+>    * recommend  
+> 
+
+> [!TIP|iconVisibility:hidden]  
+>
+> **passions - G3806 - pathos**  
+>  
+> * properly, suffering ("pathos")  
+>    * (subjectively) - a passion  
+>        * (especially concupiscence [ sexual desire; lust])  
+>     * (inordinate) affection  
+>    * lust  
+>  
+
+> [!TIP|iconVisibility:hidden]  
+>
+> **due penalty - G489 - antimisthia**  
+>  
+> * requital [something given in return, compensation, or retaliation]  
+> * correspondence [the relationship between a natural thing and its spiritual meaning, and it exists according to that thing's use.]  
+>    * recompense [to repay; remunerate; reward, as for service, aid, etc]  
+> 
+
+> [!TIP|iconVisibility:hidden]  
+>
+> **depraved - G96 - adokimos**  
+>  
+> * unapproved  
+>    * by implication - rejected  
+>    * worthless - literally or morally  
+>    *  castaway  
+>    * rejected  
+>    *  reprobate [a depraved, unprincipled, or wicked person]  
+>

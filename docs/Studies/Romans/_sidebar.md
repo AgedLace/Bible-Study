@@ -12,6 +12,7 @@ ___
     * [Romans](/Studies/Romans/)
         * [Introduction](/Studies/Romans/intro.md)
         * [Chapter 1](/Studies/Romans/Chap-01.md)
+        * [Chapter 2](/Studies/Romans/Chap-02.md)
 * [Other Topics](/Other/)
     * [Why Bad Things ...](/Other/Why.md)
     * [Why Christians Must Suffer](/Other/Christian_Suffering.md)
