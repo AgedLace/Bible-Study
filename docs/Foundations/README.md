@@ -8,7 +8,7 @@ With the exception of laying the foundational groundwork in this section, God ha
 The reason for this is two-fold.  
 
 * First, God wants to have a personal relationship with you.
-    *  He provided Jesus Christ as the means by which we have such a relationship. [See 'Salvation'](/Foundations/Salvation)
+    *  He provided Jesus Christ as the means by which we have such a relationship. [See 'Salvation'](/Foundations/005-Salvation)
 * Second, there is a great deal of misunderstanding, misinformation and even deception taught about the Scriptures, both in and outside, the church.
     *  Jesus warned us about this many times ...
         > [!NOTE|iconVisibility:hidden]
