@@ -9,7 +9,7 @@ ___
     * [More on the Bible](/Foundations/002-Bible.md)
     * [God](/Foundations/003-God.md)
     * [Jesus](/Foundations/004-Jesus.md)
-    * [Salvation](/Foundations/005-Salvation.md/)
+    * [Salvation](/Foundations/005-Salvation.md)
     * [Who We Are In Christ](/Foundations/Who.md)
 * [Spirit-led Bible Studies](/Studies/)
     * [Ephesians](/Studies/Ephesians/)
