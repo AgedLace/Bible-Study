@@ -2,19 +2,19 @@
 
 ### What Does It Mean To Be Saved?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 1:12
 > 
 > 12But to all who did receive Him, to those who believed in His name, He gave the right to become children of God.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > 1 John 1:7
 > 
 > 7 But if we walk in the light as He is in the light, we have fellowship with one another, and the blood of Jesus His Son cleanses us from all sin.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > 1 John 5:11
 > 
@@ -22,25 +22,25 @@
 
 ### How Can God Forgive Us Without Punishing Us?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Isaiah 53:5
 > 
 > 5 But He was pierced for our transgressions; He was crushed for our iniquities; upon Him was the chastisement that brought us peace, and with His wounds we are healed.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 3:16
 > 
 > 16 For God so loved the world that He gave His one and only Son, that everyone who believes in Him shall not perish but have eternal life.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > 1 Peter 2:24
 > 
 > 24 He Himself bore our sins in His body on the tree, so that we might die to sin and live to righteousness.  "By His stripes you are healed."
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Romans 3:23-25
 > 
@@ -52,19 +52,19 @@
 
 ### Is God Willing To Forgive All Our Sin?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Isaiah 1:18
 > 
 > 18 "Come now, let us reason together," says the Lord, "Though your sins are like scarlet, they will be as white as snow; though they are as red as crimson, they will become like wool."
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Psalm 103:12
 > 
 > 12 As far as the east is from the west, so far has He removed our transgressions from us.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Micah 7:19
 > 
@@ -78,25 +78,25 @@
 
 * Confess
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Acts 20:21
 > 
 > 21 testifying to Jews and Greeks alike about repentance toward God and of faith in our Lord Jesus Christ.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Acts 3:19
 > 
 > 19 Repent, then, and turn back, so that your sins may be wiped away.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Actis 16:31
 > 
 > 31 They replied, "Believe in the Lord Jesus and you will be saved, you and your household."
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Romans 10:8-9
 > 
@@ -114,7 +114,7 @@
 
 * David's Example
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Psalm 51:1, 7, 9-10, 12
 > 
@@ -134,7 +134,7 @@
 > 
 > 12 Restore to me the joy of Your salvation, and sustain me with a willing spirit.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Acts 26:20
 > 
@@ -142,19 +142,19 @@
 
 ### Can We Earn Salvation By Being A Good Person?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Psalm 53:3
 > 
 > 3 All have turned away, they have together become corrupt; there is no one who does good, not even one.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Galatians 2:16 
 > 
 > 16 know that a man is not justified by works of the law, but by faith in Jesus Christ.  So we, too, have believed in Christ Jesus, that we may be justified by faith in Christ and not be works of the law, because by works of the law no one will be justified.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Ephesians 2:4-5, 8-9
 > 
@@ -170,19 +170,19 @@
 
 ### Is There Any Other Way To Be Saved?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 14:6
 > 
 > 6 Jesus answered, "I am the way and the truth and the life.  No one comes to the Father except through Me."
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Acts 10:43
 > 
 > 43 All the prophets testify about Him that everyone who believes in Him receives forgiveness of sins through His Name.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > 1 Timothy 2:5-6
 > 
@@ -190,13 +190,13 @@
 > 
 > 6 who gave Himself as a ransom for all -- the testimony that was given at just the right time.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Acts 4:12
 > 
 > 12 Salvation exists in no one else, for there is no other name under heaven given to men by which we must be saved.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > 1 John 5:10-12
 > 
@@ -208,13 +208,13 @@
 
 ### What Does The Bible Teach About Being 'Born Again'?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 3:3
 > 
 > 3 Jesus replied, "Truly, truly, I tell you, no one can see the kingdom of God unless he is born again."
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > 1 Peter 1:23 
 > 
@@ -222,7 +222,7 @@
 
 ### What Does It Mean To Be 'Born Again'?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 3:6-7
 > 
@@ -230,7 +230,7 @@
 > 
 > 7 Do not be amazed thta I said, 'You must be born again.'
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 1:12-13
 > 
@@ -238,13 +238,13 @@
 > 
 > 13 children born not of blood, nor of the desire or will of man, but born of God.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > 1 John 3:9
 > 
 > 9 Anyone born of God refuses to practice sin, because God's seed abides in him; but he cannot go on sinning, because he has been born of God.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > 1 John 5:1
 > 
@@ -252,13 +252,13 @@
 
 ### Why Must We Be 'Born Again'?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Psalm 51:5
 > 
 > 5 Surely I was brought forth in iniquity; I was sinful when my mother conceived me.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Ephesians 2:1-3
 > 
@@ -268,7 +268,7 @@
 > 
 > 3 All of us also lived among them at one time, fulfilling the cravings of our flesh and indulging its desires and thoughts.  Like the rest, we were by nature children of wrath.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Colossians 2:13
 > 
@@ -282,19 +282,19 @@
 
 * Becoming a Child of God
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 5:24
 > 
 > 24 Truly, truly, I say to you, whoever hears my word and believes him who sent me has eternal life.  He does not come into judgment, but has passed from death to life.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Romans 10:9
 > 
 > 9 that if you confess with your mouth, "Jesus is Lord," and beleive in your heart that God raised Him from the dead, you will be saved.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 20:31
 > 
@@ -302,25 +302,25 @@
 
 ### What Is Eternal Life And When Does It Begin?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 6:47
 > 
 > 47 Truly, truly, I tell you, he who believes **has** eternal life.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 17:3
 > 
 > 3 Now this is eternal life, that they may know You, the only true God, and Jesus Christ, whom You have sent.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Galatians 2:20
 > 
 > 20 I **have been** crucified with Christ, and I no longer live, but Christ lives in me.  The life I live in the body, I live by faith in the Son of God, who loved me and gave Himself up for me.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > 1 John 3:24
 > 
@@ -328,7 +328,7 @@
 
 ### What Does the Bible Say About Public Confession and Baptism?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Matthew 10:32-33
 > 
@@ -336,19 +336,19 @@
 > 
 > 33 But whoever denies me before men, I also will deny before my Father who is in heaven.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Acts 2:38
 > 
 > 38 Peter replied, "Repent and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit."
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Acts 8:12
 > 
 > 12 But when they believed Philip as he preached the gospel of the kingdom of God and the name of Jesus Christ, they were baptized, both men and women.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Romans 10:9-10
 > 
@@ -358,25 +358,25 @@
 
 ### Can We Be Sure We Are Saved?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 10:28
 > 
 > 28 I give them eternal life, and they will never perish.  No one can snatch them out of My hand.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > 1 John 5:13 
 > 
 > 13 I have written these things to you who believe in the name of the Son of God, so that you may know that you have eternal life.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > 1 John 1:9 
 > 
 > 9 If we confess our sins, He is faithful and just to forgive us our sins and to cleanse us from all unrighteousness.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Romans 8:38-39
 > 

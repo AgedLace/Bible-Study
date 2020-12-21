@@ -4,7 +4,7 @@ The whole premise of this work is to bring people to the place where they seek t
 
 Paul tells us that God reveals things to us by and through His Holy Spirit.
 
-> [!NOTE|style: callout]  
+> [!NOTE|iconVisibility:hidden]
 > 
 > **1 Corinthians 2:10 NLT**  
 > 
@@ -17,7 +17,7 @@ Paul also tells us that God, by and through His Holy Spirit, inspired, or breath
 * teaches us to do what is right
 * prepares and equips us to do every good work
 
-> [!NOTE|style: callout]  
+> [!NOTE|iconVisibility:hidden]  
 > 
 > **2 Timothy 3:16-17 NLT**  
 > 
@@ -27,7 +27,7 @@ Paul also tells us that God, by and through His Holy Spirit, inspired, or breath
 
 Other translations, such as the Berean Study Bible, translates the word for "inspired" above as "God-breathed".
 
-> [!NOTE|style: callout]  
+> [!NOTE|iconVisibility:hidden]  
 > 
 > **2 Timothy 3:16 BSB**  
 > 
@@ -37,13 +37,13 @@ Other translations, such as the Berean Study Bible, translates the word for "ins
 
 The Bible tells us that God's Word is perfect.
 
-> [!NOTE|style: callout]  
+> [!NOTE|iconVisibility:hidden]  
 > 
 > **Psalm 19:7 NLT**  
 > 
 > 7 **The instructions of the Lord are perfect**, reviving the soul.  The decrees of the Lord are trustworthy, making wise the simple.  
 
-> [!NOTE|style: callout]  
+> [!NOTE|iconVisibility:hidden]  
 > 
 > **Psalm 19:7 BSB**  
 > 
@@ -51,13 +51,13 @@ The Bible tells us that God's Word is perfect.
 
 Jesus told us that the Scriptures cannot be  altered or broken.  
 
-> [!NOTE|style: callout]  
+> [!NOTE|iconVisibility:hidden]  
 > 
 >  **John 10:35 NLT**  
 > 
 > 35 And you know that **the Scriptures cannot be altered**.  So if those people who received God's message were called 'gods,'  
 
-> [!NOTE|style: callout]  
+> [!NOTE|iconVisibility:hidden]  
 > 
 >  **John 10:35 BSB**  
 > 

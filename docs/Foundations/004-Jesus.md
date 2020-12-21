@@ -6,7 +6,7 @@
 
 * Was / Is God
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 1:1
 
@@ -14,7 +14,7 @@
 
 * Was With God in the Beginning 
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 1:2
 > 
@@ -22,13 +22,13 @@
 
 * Creator and Maintainer of All Things
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 1:3
 > 
 > 3 Through Him all things were made, and without Him nothing was made that has been made.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Colossians 1:16-17
 > 
@@ -40,7 +40,7 @@
 
 * Light
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 1:4
 > 
@@ -50,7 +50,7 @@
 
 * Lived Among Humanity
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 1:14
 > 
@@ -58,7 +58,7 @@
 
 * Appointed Heir of All Things by God the Father
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Hebrews 1:2
 > 
@@ -74,7 +74,7 @@
 
 * Now Sits at the Right Hand of God in Heaven
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Hebrews 1:3
 > 
@@ -82,7 +82,7 @@
 
 * Declared to be God's Son by God Himself
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Matthew 3:16-17
 > 
@@ -94,7 +94,7 @@
 
 * While Being God, Chose to Obey God and Become Man to Die For All Men
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Philippians 2:6-8
 > 
@@ -104,7 +104,7 @@
 > 
 > 8 And being found in appearance as a man, He humbled Himself and became obedient to death -- even death on a cross.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 17:4-5
 > 
@@ -114,13 +114,13 @@
 
 ### How Did Jesus Come Into The World?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Isaiah 7:14
 > 
 > 14 Therefore the Lord Himself will give you a sign. Behold, the virgin shall conceive and bear a son, and shall call his name Immanuel [God With Us].
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Isaiah 9:6-7
 > 
@@ -128,7 +128,7 @@
 > 
 > 7 Of the increase of His government and peace there will be no end.  He will reign on the throne of David and over his kingdom, to establish and sustain it with justice and righteousness from that time and forever more.  The zeal of the Lord of Hosts will accomplish this.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Matthew 1:18-23
 > 
@@ -144,7 +144,7 @@
 > 
 > 23 Behold, the virgin will be with child and will give birth to a son, and they will call Him Immanuel (which means, "God With Us").
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Luke 1:26-33
 > 
@@ -166,7 +166,7 @@
 
 ### How Could Mary, a Virgin, Give Birth?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Luke 1:34-35
 > 
@@ -174,7 +174,7 @@
 > 
 > 35 The angel replied, "The Holy Spirit will come upon you, and the power of the Most High will overshadow you.  So the Holy One to be born will be called the Son of God."
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Matthew 1:20
 > 
@@ -182,13 +182,13 @@
 
 ### Where Was Jesus Born?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > MIcah 5:2
 > 
 > 2 But you, Bethlehem Ephrathah, who are small among the clans of Judah, out of you will come forth for Me One to be ruler over Israel -- One whose origins are of old, from the days of eternity.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Luke 2:4-6
 > 
@@ -200,13 +200,13 @@
 
 ### Why Was He Named "Jesus"?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Matthew 1:21
 > 
 > 21 She will give birth to a Son, and you are to give Him the name Jesus, because He will save His people from their sins.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > 1 Timothy 1:15
 > 
@@ -214,7 +214,7 @@
 
 ### Why Is Jesus Sometimes called "Christ"?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 4:25-26
 > 
@@ -222,7 +222,7 @@
 > 
 > 26 Jesus answered, "I who speak to you am He."
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Matthew 15:15-16
 > 
@@ -230,7 +230,7 @@
 > 
 > 16 Simon Peter answered, "You are the Christ, the Son of the living God."
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 11:27
 > 
@@ -242,13 +242,13 @@
 
 ### Was Jesus Truly Human As We Are?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Hebrews 2:17
 > 
 > 17 For this reason **He had to be made like His brothers in every way**, so that He might become a merciful and faithful high priest in service to God, in order to make atonement for the sins of the people.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Hebrews 4:14-15
 > 
@@ -256,7 +256,7 @@
 > 
 > 15 **For we do not have a high priest who is unable to sympathize with our weaknesses, but we have one who was tempted in every way that we are, yet was without sin.**
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > 1 Peter 2:22-23
 > 
@@ -272,7 +272,7 @@
 
 * Healing Every Disease and Sickness
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Matthew 9:35
 > 
@@ -290,7 +290,7 @@
 
 * Preached the Good News [Gospel] to the Poor
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Matthew 11:5
 > 
@@ -298,7 +298,7 @@
 
 * Cast Out Demons
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Luke 4:41
 > 
@@ -310,7 +310,7 @@
 
 * Forgives Sins
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Luke 7:48
 > 
@@ -320,7 +320,7 @@
 
 * Astonishment
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Mark 7:37
 > 
@@ -328,7 +328,7 @@
 
 * Many Believed
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 2:23
 > 
@@ -336,7 +336,7 @@
 
 * Hidden Believers Due to Fear of Religious Leaders
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 12:42
 > 
@@ -344,13 +344,13 @@
 
 ### Did Everyone Who Witnessed Jesus' Miracles Believe?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 6:42
 > 
 > 42 They were asking, "Is this not Jesus, the son of Joseph, whose father and mother we know? How then can He say, 'I have comedown from heaven?'"
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Matthew 26:42-46
 > 
@@ -364,7 +364,7 @@
 > 
 > 46 Rise, let us go! See, My betrayer is approaching."
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Matthew 27:18
 > 
@@ -374,7 +374,7 @@
 
 * No.  They knew they were condemning an innocent man.  
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Matthew 26:59-60
 > 
@@ -382,7 +382,7 @@
 > 
 > 60 But they did not find any, though many false witnesses came forward.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 19:4
 > 
@@ -390,13 +390,13 @@
 
 ### Then Why Did Pilate Have Jesus Put To Death?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 19:12
 > 
 > 12 From then on, Pilate tried to release Him, but the Jews kept shouting, "If you release this man, you are no friend of Caesar.  Anyone who declares himself a king is defying Caesar."
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Matthew 27:24
 > 
@@ -404,7 +404,7 @@
 
 ### How Did Jesus Die?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Matthew 27:27-31, 37
 > 
@@ -422,7 +422,7 @@
 > 
 > 37 Above His head they posted the written charge against Him:  This is Jesus, The King of the Jews.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Luke 23:44-46
 > 
@@ -434,7 +434,7 @@
 
 ### What Happened to Jesus' Body After His Death?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 19:38-39
 > 
@@ -444,7 +444,7 @@
 > 
 > 40 So they took the body of Jesus and wrapped it in linen cloths with the spices, according to the Jewish burial custom.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Matthew 27:59-60
 > 
@@ -454,7 +454,7 @@
 
 ### Did Jesus' Body Stay in the Grave?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Matthew 28:1-6
 > 
@@ -470,7 +470,7 @@
 > 
 > 6 He is not here; He has risen, just as He said! Come, see the place where He lay."
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > 1 Corinthians 15:3-6
 > 
@@ -486,7 +486,7 @@
 
 * Jesus Willingly Accepted God's Charge to Come and Die In Our Place
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 10:14, 18
 > 
@@ -496,7 +496,7 @@
 > 
 > 18 No one takes it [My life] from Me, but I lay it down of My own accord.  I have authority to lay it down and authority to take it up again.  This charge I have received from My Father.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 14:31
 > 
@@ -506,7 +506,7 @@
 
 * Through His death, We Can Receive God's Gift of Eternal Life
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Romans 6:23
 > 
@@ -514,13 +514,13 @@
 
 * Jesus' Death Proves God's Love For Us
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Romans 5:8
 > 
 > 8 But God proves His live for us in this:  While we were still sinners, Christ died for us.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 3:16
 > 
@@ -528,19 +528,19 @@
 
 ### What Did Jesus Do After His Resurrection From the Dead?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Acts 1:3
 > 
 > 3 After His suffering, He presented Himself to them with many convincing proofs that He was alive.  He appeared to them over a span of forty days and spoke about the kingdom of God.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > 1 Corinthians 15:6
 > 
 > 6 After that, He appeared to more than five hundred brothers at once, most of whom are still living, though some have fallen asleep.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Matthew 28:18-20
 > 
@@ -552,19 +552,19 @@
 
 ### What Did Jesus Do After the 40 Days?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Mark 16:19
 > 
 > 19 After the Lord Jesus had spoken to them, He was taken up into heaven and sat down at the right hand of God.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Luke 24:51
 > 
 > 51 While He was blessing them, He left them and was carried up into heaven.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Ephesians 1:20-22
 > 
@@ -576,7 +576,7 @@
 
 ### Is Jesus Coming Again?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 14:2-3
 > 
@@ -584,7 +584,7 @@
 > 
 > 3 And if I go and prepare a place for you, I will come back and welcome you into My presence, so that you also may be where I am.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Acts 1:10-11
 > 

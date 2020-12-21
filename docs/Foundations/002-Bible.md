@@ -1,6 +1,6 @@
 ### Who Authored the Bible and Why?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > 2 Timothy 3:16-17
 > 
@@ -8,7 +8,7 @@
 > 
 > 17 so that the man of God may be complete, equipped for every good work.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > 2 Peter 1:21
 > 
@@ -16,19 +16,19 @@
 
 ### Why Study the Bible?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Matthew 4:4
 > 
 > 4 But Jesus answered, "It is written: 'Man shall not live on bread alone, but on every word that comes from the mouth of God.'"
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Psalm 119:11
 > 
 > 11 I have hidden Your word in mu heart that I might not sin against You.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Psalm 19:9-11
 > 
@@ -38,7 +38,7 @@
 > 
 > 11 By them indeed Your servant is warned; in keeping them is great reward.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Psalm 1:1-3
 > 
@@ -50,19 +50,19 @@
 
 ### Can We Trust the Bible?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Psalm 33:4
 > 
 > 4 For the word of the Lord is upright, and all His work is trustworthy.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Psalm 111:7
 > 
 > 7 The works of His hands are truth and justice; all His precepts are trustworthy.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Psalm 119:160
 > 
@@ -70,31 +70,31 @@
 
 ### What Did Jesus Say About the Bible?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 17:17
 > 
 > 17 Sanctify them by the truth; Your word is truth.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Matthew 5:18
 > 
 > 18 For I tell you truly, until heaven and earth pass away, not a single jot, not a stroke of a pen, will disappear from the Law until everything is accomplished.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 10:35
 > 
 > 35 If he called them gods to whom the word of God came -- and **the Scripture cannot be broken** --
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 5:39
 > 
 > 39 You pore over the Scriptures because you presume that by them you possess eternal life.  These are the very words that testify about Me,
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Luke 24:27
 > 
@@ -102,13 +102,13 @@
 
 ### Is the Bible Still Relevant Today?
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Hebrews 4:12
 > 
 > 12 For the word of God is living and active.  Sharper than any double-edged sword, it pierces even to dividing soul and spirit, joints and marrow.  It judges the thoughts and intentions of the heart.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > 2 Timothy 3:16-17
 > 
@@ -118,25 +118,25 @@
 
 ### How the Bible Guides Us Today
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Psalm 119:9
 > 
 > 9 How can a young man keep his way pure?  By guarding it according to Your word.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Psalm 119:105
 > 
 > 105 Your word is a lamp to my feet and a light to my path.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Psalm 119:59
 > 
 > 59 I considered by ways and turned my steps to Your testimonies.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Proverbs 6:23
 > 
@@ -144,37 +144,37 @@
 
 ### Some Benefits of Studying the Bible
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Psalm 19:7
 > 
 > 7 The Law of the Lord is perfect, reviving the soul; the testimony of the Lord is trustworthy, making wise the simple.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Psalm 19:8
 > 
 > 8 The precepts of the Lord are right, bringing joy to the heart, the commandments of the Lord are radiant, giving light to the eyes.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Psalm 119:65
 > 
 > 65 You are good to Your servant, O Lord, according to Your word.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 >  Psalm 119:50
 > 
 > 50 This is my comfort in affliction, that Your promise has given me life.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Psalm 119:93
 > 
 > 93 I will never forget Your precepts, for by them You have given me life.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > Romans 15:4
 > 
@@ -182,13 +182,13 @@
 
 ### The Highest Purpose Of Studying the Bible
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > 2 Timothy 3:15
 > 
 > 15 From infancy you have known the Holy Scriptures, which are able to make you wise for salvation through faith in Christ Jesus.
 
-> [!NOTE|style: callout]
+> [!NOTE|iconVisibility:hidden]
 > 
 > John 20:31
 > 
