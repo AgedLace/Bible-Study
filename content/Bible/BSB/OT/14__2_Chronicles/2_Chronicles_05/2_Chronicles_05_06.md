@@ -1,0 +1,51 @@
+---
+type: verse
+ref: "2 Chronicles 5:6"
+book: 2 Chronicles
+book_num: 14
+chapter: 5
+verse: 6
+testament: OT
+strongs: [H4428, H8010, H3605, H5712, H3478, H3259, H5921, H6440, H727, H2076, H6629, H1241, H834, H3808, H5608, H4487, H7230]
+tags: [BSB/OT/14__2_Chronicles/2_Chronicles_05/2_Chronicles_05_06, Word_Study/Hebrew/H4428_melek, Word_Study/Hebrew/H8010_shelomoh, Word_Study/Hebrew/H3605_kol, Word_Study/Hebrew/H5712_edah, Word_Study/Hebrew/H3478_yisrael, Word_Study/Hebrew/H3259_yaad, Word_Study/Hebrew/H5921_al, Word_Study/Hebrew/H6440_paniym, Word_Study/Hebrew/H0727_arown, Word_Study/Hebrew/H2076_zabach, Word_Study/Hebrew/H6629_tson, Word_Study/Hebrew/H1241_baqar, Word_Study/Hebrew/H0834_asher, Word_Study/Hebrew/H3808_lo, Word_Study/Hebrew/H5608_caphar, Word_Study/Hebrew/H4487_manah, Word_Study/Hebrew/H7230_rob]
+prev: 2_Chronicles_05_05
+next: 2_Chronicles_05_07
+---
+# 2 Chronicles 5:6
+
+> [!quote] BSB
+> "There, before the ark, King Solomon and the whole congregation of Israel who had assembled with him sacrificed so many sheep and oxen that they could not be counted or numbered." ^text
+
+[[2_Chronicles_05_05|← 2 Chronicles 5:5]] · [[2_Chronicles_05|↑ 2 Chronicles 5]] · [[2_Chronicles_05_07|2 Chronicles 5:7 →]]
+
+**Interlinear**
+
+| Word | Translit | Parsing | Gloss | Strong's |
+|---|---|---|---|---|
+| וְהַמֶּ֣לֶךְ | wə·ham·me·leḵ | Conj-w, Art + N-ms<br>Conjunctive waw, Article + Noun - masculine singular | King | [[H4428 - melek]] |
+| שְׁלֹמֹ֗ה | šə·lō·mōh | N-proper-ms<br>Noun - proper - masculine singular | Solomon | [[H8010 - shelomoh]] |
+| וְכָל־ | wə·ḵāl | Conj-w + N-msc<br>Conjunctive waw + Noun - masculine singular construct | and the whole | [[H3605 - kol]] |
+| עֲדַ֧ת | ‘ă·ḏaṯ | N-fsc<br>Noun - feminine singular construct | congregation | [[H5712 - edah]] |
+| יִשְׂרָאֵ֛ל | yiś·rā·’êl | N-proper-ms<br>Noun - proper - masculine singular | of Israel | [[H3478 - yisrael]] |
+| הַנּוֹעָדִ֥ים | han·nō·w·‘ā·ḏîm | Art + V-Nifal-Prtcpl-mp<br>Article + Verb - Nifal - Participle - masculine plural | who had assembled | [[H3259 - yaad]] |
+| עָלָ֖יו | ‘ā·lāw | Prep + 3ms<br>Preposition + third person masculine singular | with him | [[H5921 - al]] |
+| לִפְנֵ֣י | lip̄·nê | Prep-l + N-cpc<br>Preposition-l + Noun - common plural construct | There, before | [[H6440 - paniym]] |
+| הָאָר֑וֹן | hā·’ā·rō·wn | Art + N-cs<br>Article + Noun - common singular | the ark | [[H0727 - arown]] |
+| מְזַבְּחִים֙ | mə·zab·bə·ḥîm | V-Piel-Prtcpl-mp<br>Verb - Piel - Participle - masculine plural | sacrificed | [[H2076 - zabach]] |
+| צֹ֣אן | ṣōn | N-cs<br>Noun - common singular | sheep | [[H6629 - tson]] |
+| וּבָקָ֔ר | ū·ḇā·qār | Conj-w + N-ms<br>Conjunctive waw + Noun - masculine singular | and oxen | [[H1241 - baqar]] |
+| אֲשֶׁ֧ר | ’ă·šer | Pro-r<br>Pronoun - relative | that | [[H0834 - asher]] |
+| לֹֽא־ | lō- | Adv-NegPrt<br>Adverb - Negative particle | they could not | [[H3808 - lo]] |
+| יִסָּפְר֛וּ | yis·sā·p̄ə·rū | V-Nifal-Imperf-3mp<br>Verb - Nifal - Imperfect - third person masculine plural | be counted | [[H5608 - caphar]] |
+| וְלֹ֥א | wə·lō | Conj-w + Adv-NegPrt<br>Conjunctive waw + Adverb - Negative particle | . . . | [[H3808 - lo]] |
+| יִמָּנ֖וּ | yim·mā·nū | V-Nifal-Imperf-3mp<br>Verb - Nifal - Imperfect - third person masculine plural | or numbered | [[H4487 - manah]] |
+| מֵרֹֽב׃ | mê·rōḇ | Prep-m + N-ms<br>Preposition-m + Noun - masculine singular | so many | [[H7230 - rob]] |
+**Strong's:** [[H4428 - melek]] · [[H8010 - shelomoh]] · [[H3605 - kol]] · [[H5712 - edah]] · [[H3478 - yisrael]] · [[H3259 - yaad]] · [[H5921 - al]] · [[H6440 - paniym]] · [[H0727 - arown]] · [[H2076 - zabach]] · [[H6629 - tson]] · [[H1241 - baqar]] · [[H0834 - asher]] · [[H3808 - lo]] · [[H5608 - caphar]] · [[H3808 - lo]] · [[H4487 - manah]] · [[H7230 - rob]]
+
+%%XREF-START%%
+## Cross references
+
+Top: [[1_Chronicles_29_21|1 Chronicles 29:21]] · [[2_Samuel_06_13|2 Samuel 6:13]] · [[1_Kings_08_05|1 Kings 8:5]] · [[1_Chronicles_16_01|1 Chronicles 16:1]] · [[1_Chronicles_16_02|1 Chronicles 16:2]]
+
+See [[XRefs/OT/14__2_Chronicles/2_Chronicles_05|full list (5)]].
+%%XREF-END%%

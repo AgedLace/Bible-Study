@@ -1,0 +1,338 @@
+---
+type: study
+passage: "Isaiah 65:1-16"
+heading: "Judgments and Promises"
+osis: Isaiah 65:1-16
+book: Isaiah
+chapter_start: 65
+genre: prophets
+module: prophets
+status: in-progress
+date: 2026-10-31
+has_omitted_variant: true
+tags: [Study/23__Isaiah/Isaiah_65_01-16]
+---
+# Study: Isaiah 65:1-16 — Judgments and Promises
+
+> [!warning] Hermeneutical guardrails (read before Section 4)
+> 1. **Scripture interprets Scripture.** Clear passages govern unclear ones; no doctrine rests on one obscure text.
+> 2. **What the text cannot mean.** Anything the original audience could not have understood is suspect (see 4e).
+> 3. **Check against the doctrines index.** Compare conclusions with [[Doctrines Index]] (see 4h).
+> 4. **Label everything:** Scripture / my interpretation / someone else's claim.
+
+<details>
+<summary>0. Prayer & Posture</summary>
+
+- [ ] Prayed for illumination (Ps 119:18) · [ ] Laid down assumptions · [ ] Time set aside: ____ min
+- Prayer: 
+
+</details>
+
+## 1. Passage (BSB)
+### Judgments and Promises
+**[[Isaiah_65_01|Isaiah 65:1]]**
+![[Isaiah_65_01#^text]]
+
+**[[Isaiah_65_02|Isaiah 65:2]]**
+![[Isaiah_65_02#^text]]
+
+**[[Isaiah_65_03|Isaiah 65:3]]**
+![[Isaiah_65_03#^text]]
+
+**[[Isaiah_65_04|Isaiah 65:4]]**
+![[Isaiah_65_04#^text]]
+
+**[[Isaiah_65_05|Isaiah 65:5]]**
+![[Isaiah_65_05#^text]]
+
+**[[Isaiah_65_06|Isaiah 65:6]]**
+![[Isaiah_65_06#^text]]
+
+**[[Isaiah_65_07|Isaiah 65:7]]**
+![[Isaiah_65_07#^text]]
+
+**[[Isaiah_65_08|Isaiah 65:8]]**
+![[Isaiah_65_08#^text]]
+
+**[[Isaiah_65_09|Isaiah 65:9]]**
+![[Isaiah_65_09#^text]]
+
+**[[Isaiah_65_10|Isaiah 65:10]]**
+![[Isaiah_65_10#^text]]
+
+**[[Isaiah_65_11|Isaiah 65:11]]**
+![[Isaiah_65_11#^text]]
+
+**[[Isaiah_65_12|Isaiah 65:12]]**
+![[Isaiah_65_12#^text]]
+
+**[[Isaiah_65_13|Isaiah 65:13]]**
+![[Isaiah_65_13#^text]]
+
+**[[Isaiah_65_14|Isaiah 65:14]]**
+![[Isaiah_65_14#^text]]
+
+**[[Isaiah_65_15|Isaiah 65:15]]**
+![[Isaiah_65_15#^text]]
+
+**[[Isaiah_65_16|Isaiah 65:16]]**
+![[Isaiah_65_16#^text]]
+
+<details>
+<summary>2. Context</summary>
+
+| Layer | Notes |
+|---|---|
+| **Textual Note** — Isaiah 65:1 | Cited in Romans 10:20 |
+| **Textual Note** — Isaiah 65:2 | LXX *to a disobedient and obstinate people*; cited in Romans 10:21 |
+| **Textual Note** — Isaiah 65:9 | Or *and heirs to My mountains out of Judah; My elect will possess them* |
+| **Textual Note** — Isaiah 65:11 | Hebrew *Gad*, the Babylonian god of fortune Hebrew *Meni*, the Babylonian god of fate |
+
+
+> [!question] Does my argument depend on the variant verse(s) above?
+> - [ ] No — conclusion stands without it/them
+> - [ ] Yes — explain and check parallel passages: 
+
+
+</details>
+
+## 3. OBSERVATION — What does it say?
+### 3a. Read 3×
+| Pass | Speed / method | What I noticed |
+|---|---|---|
+| 1 | Fast, whole passage | |
+| 2 | Slow, mark repeated words, contrasts, connectives | |
+| 3 | Aloud, or a different reading plan | |
+
+<details>
+<summary>3b. Key words</summary>
+
+| Word (BSB) | Original | Translit | Strong's | In passage | In book | Notes |
+See 4c Word studies.
+
+</details>
+
+### 3c. 5 W's + H
+| Question | Answer | Verse |
+|---|---|---|
+| Who | | |
+| What | | |
+| When | | |
+| Where | | |
+| Why | | |
+| How | | |
+
+<details>
+<summary>3d. Structure (mark each feature found)</summary>
+
+| Feature | Found? | Verses / notes |
+|---|---|---|
+| Repetition | | |
+| Contrast | | |
+| Comparison | | |
+| Cause → effect | | |
+| If → then (conditions) | | |
+| Commands | | |
+| Promises | | |
+| Lists | | |
+| Progression / climax | | |
+| Questions | | |
+| Quotations / allusions | | |
+| Shifts (speaker, time, place) | | |
+
+</details>
+
+<details>
+<summary>3e. Grammar flags (from parsing)</summary>
+
+Parsing is in the verse files.
+Watch: conjunctions (therefore, but, so that, for), tense/mood/voice shifts, imperatives, conditionals, participles.
+
+</details>
+
+### 3f. People · Places · Events (AI-suggested — review)
+- People: [entities — e.g., [[People/Godhead/God|Godhead/God]]]
+- Places: [entities — e.g., the heavens, the earth]
+- Events: [events — e.g., creation, God speaking, God separating light from darkness]
+
+### 3g. Questions raised (AI-suggested — review)
+1. 
+2. 
+3. 
+
+<details>
+<summary>4. INTERPRETATION — What does it mean?</summary>
+
+### 4a. Answers to observation questions
+| Question (from 3g) | Answer | Evidence |
+|---|---|---|
+| | | |
+
+### 4b. Cross-references
+| Ref | Illuminates? (Y/N) | How |
+|---|---|---|
+| [[Romans_09_24\|Romans 9:24]] | | |
+| [[Romans_09_26\|Romans 9:26]] | | |
+| [[Hosea_01_10\|Hosea 1:10]] | | |
+| [[Zechariah_02_11\|Zechariah 2:11]] | | |
+| [[Romans_10_20\|Romans 10:20]] | | |
+| [[Isaiah_66_18\|Isaiah 66:18]] | | |
+| [[Deuteronomy_31_27\|Deuteronomy 31:27]] | | |
+| [[James_01_14\|James 1:14]] | | |
+| [[James_01_15\|James 1:15]] | | |
+| [[Deuteronomy_29_19\|Deuteronomy 29:19]] | | |
+| [[Isaiah_03_08\|Isaiah 3:8]] | | |
+| [[Deuteronomy_32_16\|Deuteronomy 32:16]] | | |
+| [[Deuteronomy_32_19\|Deuteronomy 32:19]] | | |
+| [[Isaiah_66_17\|Isaiah 66:17]] | | |
+| [[Job_02_05\|Job 2:5]] | | |
+| [[Deuteronomy_14_03\|Deuteronomy 14:3]] | | |
+| [[Ezekiel_04_14\|Ezekiel 4:14]] | | |
+| [[Deuteronomy_14_08\|Deuteronomy 14:8]] | | |
+| [[Deuteronomy_14_21\|Deuteronomy 14:21]] | | |
+| [[Romans_02_17\|Romans 2:17]] | | |
+| [[Romans_02_29\|Romans 2:29]] | | |
+| [[Luke_15_02\|Luke 15:2]] | | |
+| [[1_Peter_05_05\|1 Peter 5:5]] | | |
+| [[Deuteronomy_32_20\|Deuteronomy 32:20]] | | |
+| [[Psalms_079_012\|Psalms 79:12]] | | |
+
+### 4c. Word studies
+| Word | Page | Finding |
+|---|---|---|
+| My servants | [[H5650 - ebed]] | |
+| says | [[H0559 - amar]] | |
+| but you | [[H0859 - attah]] | |
+| . . . | [[H2009 - hinneh]] | |
+| All day long | [[H3605 - kol]] | |
+| the mountains | [[H2022 - har]] | |
+| the LORD | [[H3068 - yehovah]] | |
+| people | [[H5971 - am]] | |
+| call | [[H7121 - qara]] | |
+| My name | [[H8034 - shem]] | |
+| the Lord | [[H0136 - adonay]] | |
+| eating | [[H0398 - akal]] | |
+
+### 4d. Genre-specific questions
+#### Module: Prophets
+**Questions**
+- R1. Who is the prophet, and when did he serve (king, empire, crisis)? Fill in the setting table. →
+- R2. Who is the audience (Israel, Judah, nations, remnant, exiles)? →
+- R3. What is the oracle form (messenger formula, covenant lawsuit, woe, salvation oracle, sign-act, vision, lament, disputation)? →
+- R4. Where does the unit begin and end (formula markers, shift in speaker/theme)? →
+- R5. What sin is named (idolatry, injustice, formalism, pride)? →
+- R6. Which covenant stipulations (Deut 27–32, Lev 26) are invoked? →
+- R7. Which blessings or curses are named? →
+- R8. What is God's stated reason for judgment? →
+- R9. What is the call (repent, return, trust, justice)? →
+- R10. Is a promise conditional or unconditional? →
+- R11. What is the shape: judgment → hope? Where is the pivot? →
+- R12. Who speaks: prophet, God, people? →
+- R13. Which images or metaphors are used? →
+- R14. Is the prediction near, far, or dual? Fill in the fulfillment table. →
+- R15. Which events did the original hearers expect? →
+- R16. Is there messianic or Day-of-the-LORD content? →
+- R17. How did the NT authors quote or apply it? →
+- R18. Is it fulfilled in history, in Christ, or still to come? State the basis for each claim. →
+- R19. What would the original hearers have understood? →
+- R20. What does it reveal about God's justice and mercy? →
+- R21. What parallel texts in Kings, Chronicles, and other prophets help? →
+- R22. What does it call me to do today? →
+
+**Setting table**
+| Item | Notes |
+|---|---|
+| Prophet | |
+| Dates (approx.) | |
+| King(s) | |
+| Region / kingdom | |
+| Empire / threat | |
+| Social-religious situation | |
+| Parallel history (Kings/Chronicles) | |
+| Audience reaction | |
+
+**Fulfillment table**
+| Prediction | Ref | Type (near · far · dual · conditional) | Fulfillment ref | Status | NT citation |
+|---|---|---|---|---|---|
+| | | | | | |
+
+
+### 4e. Original-audience meaning
+One paragraph: what did this mean to those who first received it?
+
+
+### 4f. Main point (one sentence)
+> 
+
+### 4g. Christ and redemptive history
+- Where in the storyline (creation · fall · Israel · Christ · church · consummation)? 
+- How does it point to or fulfill in Christ? 
+- Caution: show the text's own connection; don't force one.
+
+### 4h. Doctrines touched
+| Doctrine | Page | Agrees with the whole counsel of Scripture? |
+|---|---|---|
+| | [[Doctrines Index]] | |
+
+### 4i. Interpretive difficulties & alternative views
+| View | Proponents / basis | Strengths | Weaknesses |
+|---|---|---|---|
+| A | | | |
+| B | | | |
+| C | | | |
+
+> [!check] What this text **cannot** mean
+> - 
+
+</details>
+
+<details>
+<summary>5. APPLICATION — What do I do?</summary>
+
+### 5a. Timeless principle(s)
+1. 
+
+### 5b. SPECK
+| | Response |
+|---|---|
+| **S**in to confess | |
+| **P**romise to claim | |
+| **E**xample to follow | |
+| **C**ommand to obey | |
+| **K**nowledge of God | |
+
+### 5c. Specific, measurable action this week
+| Action | When | How I'll know it's done |
+|---|---|---|
+| | | |
+
+### 5d. Prayer response
+
+
+### 5e. Memory verse
+![[#^text]]
+
+</details>
+
+<details>
+<summary>6. Teaching / Sharing Notes</summary>
+
+| Item | Notes |
+|---|---|
+| Audience | |
+| Big idea (one sentence) | |
+| Outline (3 points max) | |
+| Illustration | |
+| Discussion questions | |
+| Pitfall to avoid | |
+
+</details>
+
+<details>
+<summary>7. Log of changes to my understanding</summary>
+
+| Date | Old view | New view | What changed it |
+|---|---|---|---|
+| 2026-10-31 | | | |
+
+</details>

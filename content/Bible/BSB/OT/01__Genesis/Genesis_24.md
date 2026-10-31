@@ -1,0 +1,82 @@
+---
+type: chapter
+ref: "Genesis 24"
+book: Genesis
+chapter: 24
+verses: 67
+---
+# Genesis 24
+
+## A Wife for Isaac
+
+- [[Genesis_24/Genesis_24_01|Genesis 24:1]]
+- [[Genesis_24/Genesis_24_02|Genesis 24:2]]
+- [[Genesis_24/Genesis_24_03|Genesis 24:3]]
+- [[Genesis_24/Genesis_24_04|Genesis 24:4]]
+- [[Genesis_24/Genesis_24_05|Genesis 24:5]]
+- [[Genesis_24/Genesis_24_06|Genesis 24:6]]
+- [[Genesis_24/Genesis_24_07|Genesis 24:7]]
+- [[Genesis_24/Genesis_24_08|Genesis 24:8]]
+- [[Genesis_24/Genesis_24_09|Genesis 24:9]]
+- [[Genesis_24/Genesis_24_10|Genesis 24:10]]
+- [[Genesis_24/Genesis_24_11|Genesis 24:11]]
+- [[Genesis_24/Genesis_24_12|Genesis 24:12]]
+- [[Genesis_24/Genesis_24_13|Genesis 24:13]]
+- [[Genesis_24/Genesis_24_14|Genesis 24:14]]
+## Rebekah Is Chosen
+
+- [[Genesis_24/Genesis_24_15|Genesis 24:15]]
+- [[Genesis_24/Genesis_24_16|Genesis 24:16]]
+- [[Genesis_24/Genesis_24_17|Genesis 24:17]]
+- [[Genesis_24/Genesis_24_18|Genesis 24:18]]
+- [[Genesis_24/Genesis_24_19|Genesis 24:19]]
+- [[Genesis_24/Genesis_24_20|Genesis 24:20]]
+- [[Genesis_24/Genesis_24_21|Genesis 24:21]]
+- [[Genesis_24/Genesis_24_22|Genesis 24:22]]
+- [[Genesis_24/Genesis_24_23|Genesis 24:23]]
+- [[Genesis_24/Genesis_24_24|Genesis 24:24]]
+- [[Genesis_24/Genesis_24_25|Genesis 24:25]]
+- [[Genesis_24/Genesis_24_26|Genesis 24:26]]
+- [[Genesis_24/Genesis_24_27|Genesis 24:27]]
+- [[Genesis_24/Genesis_24_28|Genesis 24:28]]
+- [[Genesis_24/Genesis_24_29|Genesis 24:29]]
+- [[Genesis_24/Genesis_24_30|Genesis 24:30]]
+- [[Genesis_24/Genesis_24_31|Genesis 24:31]]
+- [[Genesis_24/Genesis_24_32|Genesis 24:32]]
+- [[Genesis_24/Genesis_24_33|Genesis 24:33]]
+- [[Genesis_24/Genesis_24_34|Genesis 24:34]]
+- [[Genesis_24/Genesis_24_35|Genesis 24:35]]
+- [[Genesis_24/Genesis_24_36|Genesis 24:36]]
+- [[Genesis_24/Genesis_24_37|Genesis 24:37]]
+- [[Genesis_24/Genesis_24_38|Genesis 24:38]]
+- [[Genesis_24/Genesis_24_39|Genesis 24:39]]
+- [[Genesis_24/Genesis_24_40|Genesis 24:40]]
+- [[Genesis_24/Genesis_24_41|Genesis 24:41]]
+- [[Genesis_24/Genesis_24_42|Genesis 24:42]]
+- [[Genesis_24/Genesis_24_43|Genesis 24:43]]
+- [[Genesis_24/Genesis_24_44|Genesis 24:44]]
+- [[Genesis_24/Genesis_24_45|Genesis 24:45]]
+- [[Genesis_24/Genesis_24_46|Genesis 24:46]]
+- [[Genesis_24/Genesis_24_47|Genesis 24:47]]
+- [[Genesis_24/Genesis_24_48|Genesis 24:48]]
+- [[Genesis_24/Genesis_24_49|Genesis 24:49]]
+- [[Genesis_24/Genesis_24_50|Genesis 24:50]]
+- [[Genesis_24/Genesis_24_51|Genesis 24:51]]
+- [[Genesis_24/Genesis_24_52|Genesis 24:52]]
+- [[Genesis_24/Genesis_24_53|Genesis 24:53]]
+- [[Genesis_24/Genesis_24_54|Genesis 24:54]]
+- [[Genesis_24/Genesis_24_55|Genesis 24:55]]
+- [[Genesis_24/Genesis_24_56|Genesis 24:56]]
+- [[Genesis_24/Genesis_24_57|Genesis 24:57]]
+- [[Genesis_24/Genesis_24_58|Genesis 24:58]]
+- [[Genesis_24/Genesis_24_59|Genesis 24:59]]
+- [[Genesis_24/Genesis_24_60|Genesis 24:60]]
+- [[Genesis_24/Genesis_24_61|Genesis 24:61]]
+## Isaac Marries Rebekah
+
+- [[Genesis_24/Genesis_24_62|Genesis 24:62]]
+- [[Genesis_24/Genesis_24_63|Genesis 24:63]]
+- [[Genesis_24/Genesis_24_64|Genesis 24:64]]
+- [[Genesis_24/Genesis_24_65|Genesis 24:65]]
+- [[Genesis_24/Genesis_24_66|Genesis 24:66]]
+- [[Genesis_24/Genesis_24_67|Genesis 24:67]]

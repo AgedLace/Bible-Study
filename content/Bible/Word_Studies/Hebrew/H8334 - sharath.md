@@ -1,0 +1,115 @@
+---
+type: strongs
+number: H8334
+lang: H
+lemma: "שָׁרַת"
+translit: "shârath"
+occurrences: 92
+tags: [Word_Study/Hebrew, Word_Study/Hebrew/H8334_sharath]
+---
+# H8334 — שָׁרַת
+
+| Lemma | Translit | Pronunciation | Short definition |
+|---|---|---|---|
+| שָׁרַת | shârath | shaw-rath' | to attend as a menial or worshipper |
+
+## Definition
+
+to attend as a menial or worshipper; figuratively, to contribute to
+
+KJV renders: minister (unto), (do) serve(-ant, -ice, -itor), wait on.
+
+## Verses (92)
+
+- [[1_Chronicles_06_32]]
+- [[1_Chronicles_15_02]]
+- [[1_Chronicles_16_04]]
+- [[1_Chronicles_16_37]]
+- [[1_Chronicles_23_13]]
+- [[1_Chronicles_26_12]]
+- [[1_Chronicles_27_01]]
+- [[1_Chronicles_28_01]]
+- [[1_Kings_01_04]]
+- [[1_Kings_01_15]]
+- [[1_Kings_08_11]]
+- [[1_Kings_10_05]]
+- [[1_Kings_19_21]]
+- [[1_Samuel_02_11]]
+- [[1_Samuel_02_18]]
+- [[1_Samuel_03_01]]
+- [[2_Chronicles_05_14]]
+- [[2_Chronicles_08_14]]
+- [[2_Chronicles_09_04]]
+- [[2_Chronicles_13_10]]
+- [[2_Chronicles_17_19]]
+- [[2_Chronicles_22_08]]
+- [[2_Chronicles_23_06]]
+- [[2_Chronicles_29_11]]
+- [[2_Chronicles_31_02]]
+- [[2_Kings_04_43]]
+- [[2_Kings_06_15]]
+- [[2_Kings_25_14]]
+- [[2_Samuel_13_17]]
+- [[2_Samuel_13_18]]
+- [[Deuteronomy_10_08]]
+- [[Deuteronomy_17_12]]
+- [[Deuteronomy_18_05]]
+- [[Deuteronomy_18_07]]
+- [[Deuteronomy_21_05]]
+- [[Esther_01_10]]
+- [[Esther_02_02]]
+- [[Esther_06_03]]
+- [[Exodus_24_13]]
+- [[Exodus_28_35]]
+- [[Exodus_28_43]]
+- [[Exodus_29_30]]
+- [[Exodus_30_20]]
+- [[Exodus_33_11]]
+- [[Exodus_35_19]]
+- [[Exodus_39_01]]
+- [[Exodus_39_26]]
+- [[Exodus_39_41]]
+- [[Ezekiel_20_32]]
+- [[Ezekiel_40_46]]
+- [[Ezekiel_42_14]]
+- [[Ezekiel_43_19]]
+- [[Ezekiel_44_11]]
+- [[Ezekiel_44_12]]
+- [[Ezekiel_44_15]]
+- [[Ezekiel_44_16]]
+- [[Ezekiel_44_17]]
+- [[Ezekiel_44_19]]
+- [[Ezekiel_44_27]]
+- [[Ezekiel_45_04]]
+- [[Ezekiel_45_05]]
+- [[Ezekiel_46_24]]
+- [[Ezra_08_17]]
+- [[Genesis_39_04]]
+- [[Genesis_40_04]]
+- [[Isaiah_56_06]]
+- [[Isaiah_60_07]]
+- [[Isaiah_60_10]]
+- [[Isaiah_61_06]]
+- [[Jeremiah_33_21]]
+- [[Jeremiah_33_22]]
+- [[Jeremiah_52_18]]
+- [[Joel_01_09]]
+- [[Joel_01_13]]
+- [[Joel_02_17]]
+- [[Joshua_01_01]]
+- [[Nehemiah_10_36]]
+- [[Nehemiah_10_39]]
+- [[Numbers_01_50]]
+- [[Numbers_03_06]]
+- [[Numbers_03_31]]
+- [[Numbers_04_09]]
+- [[Numbers_04_12]]
+- [[Numbers_04_14]]
+- [[Numbers_08_26]]
+- [[Numbers_11_28]]
+- [[Numbers_16_09]]
+- [[Numbers_18_02]]
+- [[Proverbs_29_12]]
+- [[Psalms_101_006]]
+- [[Psalms_103_021]]
+- [[Psalms_104_004]]

@@ -1,0 +1,115 @@
+---
+type: strongs
+number: H1116
+lang: H
+lemma: "בָּמָה"
+translit: "bâmâh"
+occurrences: 92
+tags: [Word_Study/Hebrew, Word_Study/Hebrew/H1116_bamah]
+---
+# H1116 — בָּמָה
+
+| Lemma | Translit | Pronunciation | Short definition |
+|---|---|---|---|
+| בָּמָה | bâmâh | bam-maw' | an elevation |
+
+## Definition
+
+an elevation
+
+KJV renders: height, high place, wave.
+
+## Verses (92)
+
+- [[1_Chronicles_16_39]]
+- [[1_Chronicles_21_29]]
+- [[1_Kings_03_02]]
+- [[1_Kings_03_03]]
+- [[1_Kings_03_04]]
+- [[1_Kings_11_07]]
+- [[1_Kings_12_31]]
+- [[1_Kings_12_32]]
+- [[1_Kings_13_02]]
+- [[1_Kings_13_32]]
+- [[1_Kings_13_33]]
+- [[1_Kings_14_23]]
+- [[1_Kings_15_14]]
+- [[1_Kings_22_43]]
+- [[1_Samuel_09_12]]
+- [[1_Samuel_09_13]]
+- [[1_Samuel_09_14]]
+- [[1_Samuel_09_19]]
+- [[1_Samuel_09_25]]
+- [[1_Samuel_10_05]]
+- [[1_Samuel_10_13]]
+- [[2_Chronicles_01_03]]
+- [[2_Chronicles_01_13]]
+- [[2_Chronicles_11_15]]
+- [[2_Chronicles_14_03]]
+- [[2_Chronicles_14_05]]
+- [[2_Chronicles_15_17]]
+- [[2_Chronicles_17_06]]
+- [[2_Chronicles_20_33]]
+- [[2_Chronicles_21_11]]
+- [[2_Chronicles_28_04]]
+- [[2_Chronicles_28_25]]
+- [[2_Chronicles_31_01]]
+- [[2_Chronicles_32_12]]
+- [[2_Chronicles_33_03]]
+- [[2_Chronicles_33_17]]
+- [[2_Chronicles_33_19]]
+- [[2_Chronicles_34_03]]
+- [[2_Kings_12_03]]
+- [[2_Kings_14_04]]
+- [[2_Kings_15_04]]
+- [[2_Kings_15_35]]
+- [[2_Kings_16_04]]
+- [[2_Kings_17_09]]
+- [[2_Kings_17_11]]
+- [[2_Kings_17_29]]
+- [[2_Kings_17_32]]
+- [[2_Kings_18_04]]
+- [[2_Kings_18_22]]
+- [[2_Kings_21_03]]
+- [[2_Kings_23_05]]
+- [[2_Kings_23_08]]
+- [[2_Kings_23_09]]
+- [[2_Kings_23_13]]
+- [[2_Kings_23_15]]
+- [[2_Kings_23_19]]
+- [[2_Kings_23_20]]
+- [[2_Samuel_01_19]]
+- [[2_Samuel_01_25]]
+- [[2_Samuel_22_34]]
+- [[Amos_04_13]]
+- [[Amos_07_09]]
+- [[Deuteronomy_32_13]]
+- [[Deuteronomy_33_29]]
+- [[Ezekiel_06_03]]
+- [[Ezekiel_06_06]]
+- [[Ezekiel_16_16]]
+- [[Ezekiel_20_29]]
+- [[Ezekiel_36_02]]
+- [[Ezekiel_43_07]]
+- [[Habakkuk_03_19]]
+- [[Hosea_10_08]]
+- [[Isaiah_14_14]]
+- [[Isaiah_15_02]]
+- [[Isaiah_16_12]]
+- [[Isaiah_36_07]]
+- [[Isaiah_58_14]]
+- [[Jeremiah_07_31]]
+- [[Jeremiah_17_03]]
+- [[Jeremiah_19_05]]
+- [[Jeremiah_26_18]]
+- [[Jeremiah_32_35]]
+- [[Jeremiah_48_35]]
+- [[Job_09_08]]
+- [[Leviticus_26_30]]
+- [[Micah_01_03]]
+- [[Micah_01_05]]
+- [[Micah_03_12]]
+- [[Numbers_21_28]]
+- [[Numbers_33_52]]
+- [[Psalms_018_033]]
+- [[Psalms_078_058]]

@@ -1,0 +1,116 @@
+---
+type: strongs
+number: G1849
+lang: G
+lemma: "ἐξουσία"
+translit: "exousía"
+occurrences: 93
+tags: [Word_Study/Greek, Word_Study/Greek/G1849_exousia]
+---
+# G1849 — ἐξουσία
+
+| Lemma | Translit | Pronunciation | Short definition |
+|---|---|---|---|
+| ἐξουσία | exousía |  | privilege |
+
+## Definition
+
+ privilege, i.e. (subjectively) force, capacity, competency, freedom, or (objectively) mastery (concretely, magistrate, superhuman, potentate, token of control), delegated influence
+
+KJV renders: authority, jurisdiction, liberty, power, right, strength
+
+## Verses (93)
+
+- [[1_Corinthians_07_37]]
+- [[1_Corinthians_08_09]]
+- [[1_Corinthians_09_04]]
+- [[1_Corinthians_09_05]]
+- [[1_Corinthians_09_06]]
+- [[1_Corinthians_09_12]]
+- [[1_Corinthians_09_18]]
+- [[1_Corinthians_11_10]]
+- [[1_Corinthians_15_24]]
+- [[1_Peter_03_22]]
+- [[2_Corinthians_10_08]]
+- [[2_Corinthians_13_10]]
+- [[2_Thessalonians_03_09]]
+- [[Acts_01_07]]
+- [[Acts_05_04]]
+- [[Acts_08_19]]
+- [[Acts_09_14]]
+- [[Acts_26_10]]
+- [[Acts_26_12]]
+- [[Acts_26_18]]
+- [[Colossians_01_13]]
+- [[Colossians_01_16]]
+- [[Colossians_02_10]]
+- [[Colossians_02_15]]
+- [[Ephesians_01_21]]
+- [[Ephesians_02_02]]
+- [[Ephesians_03_10]]
+- [[Ephesians_06_12]]
+- [[Hebrews_13_10]]
+- [[John_01_12]]
+- [[John_05_27]]
+- [[John_10_18]]
+- [[John_17_02]]
+- [[John_19_10]]
+- [[John_19_11]]
+- [[Jude_01_25]]
+- [[Luke_04_06]]
+- [[Luke_04_32]]
+- [[Luke_04_36]]
+- [[Luke_05_24]]
+- [[Luke_07_08]]
+- [[Luke_09_01]]
+- [[Luke_10_19]]
+- [[Luke_12_05]]
+- [[Luke_12_11]]
+- [[Luke_19_17]]
+- [[Luke_20_02]]
+- [[Luke_20_08]]
+- [[Luke_20_20]]
+- [[Luke_22_53]]
+- [[Luke_23_07]]
+- [[Mark_01_22]]
+- [[Mark_01_27]]
+- [[Mark_02_10]]
+- [[Mark_03_15]]
+- [[Mark_06_07]]
+- [[Mark_11_28]]
+- [[Mark_11_29]]
+- [[Mark_11_33]]
+- [[Mark_13_34]]
+- [[Matthew_07_29]]
+- [[Matthew_08_09]]
+- [[Matthew_09_06]]
+- [[Matthew_09_08]]
+- [[Matthew_10_01]]
+- [[Matthew_21_23]]
+- [[Matthew_21_24]]
+- [[Matthew_21_27]]
+- [[Matthew_28_18]]
+- [[Revelation_02_26]]
+- [[Revelation_06_08]]
+- [[Revelation_09_03]]
+- [[Revelation_09_10]]
+- [[Revelation_09_19]]
+- [[Revelation_11_06]]
+- [[Revelation_12_10]]
+- [[Revelation_13_02]]
+- [[Revelation_13_04]]
+- [[Revelation_13_05]]
+- [[Revelation_13_07]]
+- [[Revelation_13_12]]
+- [[Revelation_14_18]]
+- [[Revelation_16_09]]
+- [[Revelation_17_12]]
+- [[Revelation_17_13]]
+- [[Revelation_18_01]]
+- [[Revelation_20_06]]
+- [[Revelation_22_14]]
+- [[Romans_09_21]]
+- [[Romans_13_01]]
+- [[Romans_13_02]]
+- [[Romans_13_03]]
+- [[Titus_03_01]]

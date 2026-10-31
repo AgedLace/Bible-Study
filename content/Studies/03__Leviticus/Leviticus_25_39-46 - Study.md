@@ -1,0 +1,302 @@
+---
+type: study
+passage: "Leviticus 25:39-46"
+heading: "Redemption of Bondmen"
+osis: Leviticus 25:39-46
+book: Leviticus
+chapter_start: 25
+genre: law
+module: law
+status: in-progress
+date: 2026-10-31
+has_omitted_variant: false
+tags: [Study/03__Leviticus/Leviticus_25_39-46]
+---
+# Study: Leviticus 25:39-46 — Redemption of Bondmen
+
+> [!warning] Hermeneutical guardrails (read before Section 4)
+> 1. **Scripture interprets Scripture.** Clear passages govern unclear ones; no doctrine rests on one obscure text.
+> 2. **What the text cannot mean.** Anything the original audience could not have understood is suspect (see 4e).
+> 3. **Check against the doctrines index.** Compare conclusions with [[Doctrines Index]] (see 4h).
+> 4. **Label everything:** Scripture / my interpretation / someone else's claim.
+
+<details>
+<summary>0. Prayer & Posture</summary>
+
+- [ ] Prayed for illumination (Ps 119:18) · [ ] Laid down assumptions · [ ] Time set aside: ____ min
+- Prayer: 
+
+</details>
+
+## 1. Passage (BSB)
+### Redemption of Bondmen
+**[[Leviticus_25_39|Leviticus 25:39]]**
+![[Leviticus_25_39#^text]]
+
+**[[Leviticus_25_40|Leviticus 25:40]]**
+![[Leviticus_25_40#^text]]
+
+**[[Leviticus_25_41|Leviticus 25:41]]**
+![[Leviticus_25_41#^text]]
+
+**[[Leviticus_25_42|Leviticus 25:42]]**
+![[Leviticus_25_42#^text]]
+
+**[[Leviticus_25_43|Leviticus 25:43]]**
+![[Leviticus_25_43#^text]]
+
+**[[Leviticus_25_44|Leviticus 25:44]]**
+![[Leviticus_25_44#^text]]
+
+**[[Leviticus_25_45|Leviticus 25:45]]**
+![[Leviticus_25_45#^text]]
+
+**[[Leviticus_25_46|Leviticus 25:46]]**
+![[Leviticus_25_46#^text]]
+
+<details>
+<summary>2. Context</summary>
+
+| Layer | Notes |
+|---|---|
+| | |
+
+
+
+</details>
+
+## 3. OBSERVATION — What does it say?
+### 3a. Read 3×
+| Pass | Speed / method | What I noticed |
+|---|---|---|
+| 1 | Fast, whole passage | |
+| 2 | Slow, mark repeated words, contrasts, connectives | |
+| 3 | Aloud, or a different reading plan | |
+
+<details>
+<summary>3b. Key words</summary>
+
+| Word (BSB) | Original | Translit | Strong's | In passage | In book | Notes |
+See 4c Word studies.
+
+</details>
+
+### 3c. 5 W's + H
+| Question | Answer | Verse |
+|---|---|---|
+| Who | | |
+| What | | |
+| When | | |
+| Where | | |
+| Why | | |
+| How | | |
+
+<details>
+<summary>3d. Structure (mark each feature found)</summary>
+
+| Feature | Found? | Verses / notes |
+|---|---|---|
+| Repetition | | |
+| Contrast | | |
+| Comparison | | |
+| Cause → effect | | |
+| If → then (conditions) | | |
+| Commands | | |
+| Promises | | |
+| Lists | | |
+| Progression / climax | | |
+| Questions | | |
+| Quotations / allusions | | |
+| Shifts (speaker, time, place) | | |
+
+</details>
+
+<details>
+<summary>3e. Grammar flags (from parsing)</summary>
+
+Parsing is in the verse files.
+Watch: conjunctions (therefore, but, so that, for), tense/mood/voice shifts, imperatives, conditionals, participles.
+
+</details>
+
+### 3f. People · Places · Events (AI-suggested — review)
+- People: [entities — e.g., [[People/Godhead/God|Godhead/God]]]
+- Places: [entities — e.g., the heavens, the earth]
+- Events: [events — e.g., creation, God speaking, God separating light from darkness]
+
+### 3g. Questions raised (AI-suggested — review)
+1. 
+2. 
+3. 
+
+<details>
+<summary>4. INTERPRETATION — What does it mean?</summary>
+
+### 4a. Answers to observation questions
+| Question (from 3g) | Answer | Evidence |
+|---|---|---|
+| | | |
+
+### 4b. Cross-references
+| Ref | Illuminates? (Y/N) | How |
+|---|---|---|
+| [[Jeremiah_34_14\|Jeremiah 34:14]] | | |
+| [[Jeremiah_25_14\|Jeremiah 25:14]] | | |
+| [[Exodus_21_02\|Exodus 21:2]] | | |
+| [[Exodus_01_14\|Exodus 1:14]] | | |
+| [[1_Kings_09_22\|1 Kings 9:22]] | | |
+| [[Exodus_21_03\|Exodus 21:3]] | | |
+| [[Titus_02_14\|Titus 2:14]] | | |
+| [[Leviticus_25_28\|Leviticus 25:28]] | | |
+| [[Leviticus_25_10\|Leviticus 25:10]] | | |
+| [[Romans_06_14\|Romans 6:14]] | | |
+| [[John_08_32\|John 8:32]] | | |
+| [[Leviticus_25_55\|Leviticus 25:55]] | | |
+| [[Romans_06_22\|Romans 6:22]] | | |
+| [[1_Corinthians_07_21\|1 Corinthians 7:21]] | | |
+| [[1_Corinthians_07_23\|1 Corinthians 7:23]] | | |
+| [[Ephesians_06_09\|Ephesians 6:9]] | | |
+| [[Exodus_01_17\|Exodus 1:17]] | | |
+| [[Deuteronomy_25_18\|Deuteronomy 25:18]] | | |
+| [[Malachi_03_05\|Malachi 3:5]] | | |
+| [[Colossians_04_01\|Colossians 4:1]] | | |
+| [[Isaiah_14_01\|Isaiah 14:1]] | | |
+| [[Isaiah_14_02\|Isaiah 14:2]] | | |
+| [[Exodus_12_44\|Exodus 12:44]] | | |
+| [[Psalms_002_008\|Psalms 2:8]] | | |
+| [[Psalms_002_009\|Psalms 2:9]] | | |
+
+### 4c. Word studies
+| Word | Page | Finding |
+|---|---|---|
+| among you | [[H5973 - im]] | |
+| slave | [[H5650 - ebed]] | |
+| and his children | [[H1121 - ben]] | |
+| a countryman | [[H0251 - ach]] | |
+| the property | [[H0272 - achuzzah]] | |
+| Let him stay | [[H1961 - hayah]] | |
+| force him | [[H5647 - abad]] | |
+| and maidservants | [[H0519 - amah]] | |
+| out of the land | [[H0776 - erets]] | |
+| are to be released | [[H3318 - yatsa]] | |
+| and sells himself | [[H4376 - makar]] | |
+| his clan | [[H4940 - mishpachah]] | |
+
+### 4d. Genre-specific questions
+#### Module: Law
+**Questions**
+- L1. Where does this law appear in the narrative (before/after Sinai, wilderness, plains of Moab)? →
+- L2. Who is addressed (all Israel, priests, judges, individuals)? →
+- L3. Is it case law (if... then) or apodictic (thou shalt)? →
+- L4. What category (moral, civil, ceremonial)? Is the framework adequate here? →
+- L5. What problem or situation does it address? →
+- L6. What is the stated motive or reason (clause "for I am the LORD", "remember Egypt")? →
+- L7. What does it reveal about God's character (holy, just, merciful)? →
+- L8. How does it protect the vulnerable (poor, widow, alien, slave)? →
+- L9. What is the penalty or remedy, and what does it say about the value protected? →
+- L10. What is the ANE background (law codes, treaty forms)? →
+- L11. Is it tied to the land, temple, or covenant specific to Israel? →
+- L12. What purity or holiness logic is involved (clean/unclean, sacred/common)? →
+- L13. What does the sacrificial or ritual action symbolize? →
+- L14. How does it relate to the Ten Commandments? →
+- L15. What typology points to Christ (Hebrews, Col 2:16–17)? →
+- L16. How does Jesus handle this (Matt 5:17–48; 15; 19)? →
+- L17. How does Paul or Acts handle it (Acts 15, Rom 7–8, Gal 3)? →
+- L18. What principle remains when the specific form does not? →
+- L19. Is the NT repeating, reinterpreting, or setting it aside? →
+- L20. How does the law drive me to Christ? →
+
+**NT handling**
+| Law / principle | OT ref | NT passage | Continued · fulfilled · reinterpreted · set aside | Reason given |
+|---|---|---|---|---|
+| | | | | |
+
+**Law analysis**
+| Item | Notes |
+|---|---|
+| Form (case / apodictic) | |
+| Category | |
+| Motive clause | |
+| Penalty | |
+| Underlying principle | |
+
+
+### 4e. Original-audience meaning
+One paragraph: what did this mean to those who first received it?
+
+
+### 4f. Main point (one sentence)
+> 
+
+### 4g. Christ and redemptive history
+- Where in the storyline (creation · fall · Israel · Christ · church · consummation)? 
+- How does it point to or fulfill in Christ? 
+- Caution: show the text's own connection; don't force one.
+
+### 4h. Doctrines touched
+| Doctrine | Page | Agrees with the whole counsel of Scripture? |
+|---|---|---|
+| | [[Doctrines Index]] | |
+
+### 4i. Interpretive difficulties & alternative views
+| View | Proponents / basis | Strengths | Weaknesses |
+|---|---|---|---|
+| A | | | |
+| B | | | |
+| C | | | |
+
+> [!check] What this text **cannot** mean
+> - 
+
+</details>
+
+<details>
+<summary>5. APPLICATION — What do I do?</summary>
+
+### 5a. Timeless principle(s)
+1. 
+
+### 5b. SPECK
+| | Response |
+|---|---|
+| **S**in to confess | |
+| **P**romise to claim | |
+| **E**xample to follow | |
+| **C**ommand to obey | |
+| **K**nowledge of God | |
+
+### 5c. Specific, measurable action this week
+| Action | When | How I'll know it's done |
+|---|---|---|
+| | | |
+
+### 5d. Prayer response
+
+
+### 5e. Memory verse
+![[#^text]]
+
+</details>
+
+<details>
+<summary>6. Teaching / Sharing Notes</summary>
+
+| Item | Notes |
+|---|---|
+| Audience | |
+| Big idea (one sentence) | |
+| Outline (3 points max) | |
+| Illustration | |
+| Discussion questions | |
+| Pitfall to avoid | |
+
+</details>
+
+<details>
+<summary>7. Log of changes to my understanding</summary>
+
+| Date | Old view | New view | What changed it |
+|---|---|---|---|
+| 2026-10-31 | | | |
+
+</details>

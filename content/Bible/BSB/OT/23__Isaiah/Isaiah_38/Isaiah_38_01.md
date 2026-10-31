@@ -1,0 +1,58 @@
+---
+type: verse
+ref: "Isaiah 38:1"
+book: Isaiah
+book_num: 23
+chapter: 38
+verse: 1
+testament: OT
+strongs: [H3117, H1992, H2470, H2396, H4191, H935, H413, H3470, H1121, H531, H5030, H559, H3541, H3068, H6680, H1004, H3588, H859, H3808, H2421]
+tags: [BSB/OT/23__Isaiah/Isaiah_38/Isaiah_38_01, Word_Study/Hebrew/H3117_yowm, Word_Study/Hebrew/H1992_hem, Word_Study/Hebrew/H2470_chalah, Word_Study/Hebrew/H2396_chizqiyah, Word_Study/Hebrew/H4191_muwth, Word_Study/Hebrew/H0935_bow, Word_Study/Hebrew/H0413_el, Word_Study/Hebrew/H3470_yeshayah, Word_Study/Hebrew/H1121_ben, Word_Study/Hebrew/H0531_amowts, Word_Study/Hebrew/H5030_nabiy, Word_Study/Hebrew/H0559_amar, Word_Study/Hebrew/H3541_koh, Word_Study/Hebrew/H3068_yehovah, Word_Study/Hebrew/H6680_tsavah, Word_Study/Hebrew/H1004_bayith, Word_Study/Hebrew/H3588_kiy, Word_Study/Hebrew/H0859_attah, Word_Study/Hebrew/H3808_lo, Word_Study/Hebrew/H2421_chayah]
+prev: Isaiah_37_38
+next: Isaiah_38_02
+---
+# Isaiah 38:1
+
+## Hezekiah’s Illness and Recovery
+
+> [!quote] BSB
+> "In those days Hezekiah became mortally ill. The prophet Isaiah son of Amoz came to him and said, “This is what the LORD says: ‘Put your house in order, for you are about to die; you will not recover.’”" ^text
+
+[[Isaiah_37_38|← Isaiah 37:38]] · [[Isaiah_38|↑ Isaiah 38]] · [[Isaiah_38_02|Isaiah 38:2 →]]
+
+**Interlinear**
+
+| Word | Translit | Parsing | Gloss | Strong's |
+|---|---|---|---|---|
+| בַּיָּמִ֣ים | bay·yā·mîm | Prep-b, Art + N-mp<br>Preposition-b, Article + Noun - masculine plural | days | [[H3117 - yowm]] |
+| הָהֵ֔ם | hā·hêm | Art + Pro-3mp<br>Article + Pronoun - third person masculine plural | In those | [[H1992 - hem]] |
+| חָלָ֥ה | ḥā·lāh | V-Qal-Perf-3ms<br>Verb - Qal - Perfect - third person masculine singular | ill | [[H2470 - chalah]] |
+| חִזְקִיָּ֖הוּ | ḥiz·qî·yā·hū | N-proper-ms<br>Noun - proper - masculine singular | Hezekiah | [[H2396 - chizqiyah]] |
+| לָמ֑וּת | lā·mūṯ | Prep-l + V-Qal-Inf<br>Preposition-l + Verb - Qal - Infinitive construct | became mortally | [[H4191 - muwth]] |
+| וַיָּב֣וֹא | way·yā·ḇō·w | Conj-w + V-Qal-ConsecImperf-3ms<br>Conjunctive waw + Verb - Qal - Consecutive imperfect - third person masculine singular | came | [[H0935 - bow]] |
+| אֵ֠לָיו | ’ê·lāw | Prep + 3ms<br>Preposition + third person masculine singular | to him | [[H0413 - el]] |
+| יְשַׁעְיָ֨הוּ | yə·ša‘·yā·hū | N-proper-ms<br>Noun - proper - masculine singular | Isaiah | [[H3470 - yeshayah]] |
+| בֶן־ | ḇen- | N-msc<br>Noun - masculine singular construct | son | [[H1121 - ben]] |
+| אָמ֜וֹץ | ’ā·mō·wṣ | N-proper-ms<br>Noun - proper - masculine singular | of Amoz | [[H0531 - amowts]] |
+| הַנָּבִ֗יא | han·nā·ḇî | Art + N-ms<br>Article + Noun - masculine singular | The prophet | [[H5030 - nabiy]] |
+| וַיֹּ֨אמֶר | way·yō·mer | Conj-w + V-Qal-ConsecImperf-3ms<br>Conjunctive waw + Verb - Qal - Consecutive imperfect - third person masculine singular | and said | [[H0559 - amar]] |
+| אֵלָ֜יו | ’ê·lāw | Prep + 3ms<br>Preposition + third person masculine singular | . . . | [[H0413 - el]] |
+| כֹּֽה־ | kōh- | Adv<br>Adverb | This is what | [[H3541 - koh]] |
+| אָמַ֤ר | ’ā·mar | V-Qal-Perf-3ms<br>Verb - Qal - Perfect - third person masculine singular | says | [[H0559 - amar]] |
+| יְהוָה֙ | Yah·weh | N-proper-ms<br>Noun - proper - masculine singular | the LORD | [[H3068 - yehovah]] |
+| צַ֣ו | ṣaw | V-Piel-Imp-ms<br>Verb - Piel - Imperative - masculine singular | in order | [[H6680 - tsavah]] |
+| לְבֵיתֶ֔ךָ | lə·ḇê·ṯe·ḵā | Prep-l + N-msc + 2ms<br>Preposition-l + Noun - masculine singular construct + second person masculine singular | Put your house | [[H1004 - bayith]] |
+| כִּ֛י | kî | Conj<br>Conjunction | for | [[H3588 - kiy]] |
+| מֵ֥ת | mêṯ | V-Qal-Prtcpl-ms<br>Verb - Qal - Participle - masculine singular | are about to die | [[H4191 - muwth]] |
+| אַתָּ֖ה | ’at·tāh | Pro-2ms<br>Pronoun - second person masculine singular | you | [[H0859 - attah]] |
+| וְלֹ֥א | wə·lō | Conj-w + Adv-NegPrt<br>Conjunctive waw + Adverb - Negative particle | you will not | [[H3808 - lo]] |
+| תִֽחְיֶֽה׃ | ṯiḥ·yeh | V-Qal-Imperf-2ms<br>Verb - Qal - Imperfect - second person masculine singular | recover | [[H2421 - chayah]] |
+**Strong's:** [[H3117 - yowm]] · [[H1992 - hem]] · [[H2470 - chalah]] · [[H2396 - chizqiyah]] · [[H4191 - muwth]] · [[H0935 - bow]] · [[H0413 - el]] · [[H3470 - yeshayah]] · [[H1121 - ben]] · [[H0531 - amowts]] · [[H5030 - nabiy]] · [[H0559 - amar]] · [[H0413 - el]] · [[H3541 - koh]] · [[H0559 - amar]] · [[H3068 - yehovah]] · [[H6680 - tsavah]] · [[H1004 - bayith]] · [[H3588 - kiy]] · [[H4191 - muwth]] · [[H0859 - attah]] · [[H3808 - lo]] · [[H2421 - chayah]]
+
+%%XREF-START%%
+## Cross references
+
+Top: [[2_Chronicles_32_24|2 Chronicles 32:24]] · [[Isaiah_01_01|Isaiah 1:1]] · [[Isaiah_37_21|Isaiah 37:21]] · [[2_Samuel_17_23|2 Samuel 17:23]] · [[Acts_09_37|Acts 9:37]]
+
+See [[XRefs/OT/23__Isaiah/Isaiah_38|full list (21)]].
+%%XREF-END%%

@@ -1,0 +1,118 @@
+---
+type: strongs
+number: H3379
+lang: H
+lemma: "יָרׇבְעָם"
+translit: "Yârobʻâm"
+occurrences: 95
+tags: [Word_Study/Hebrew, Word_Study/Hebrew/H3379_yarobam]
+---
+# H3379 — יָרׇבְעָם
+
+| Lemma | Translit | Pronunciation | Short definition |
+|---|---|---|---|
+| יָרׇבְעָם | Yârobʻâm | yaw-rob-awm' | Jarobam |
+
+## Definition
+
+Jarobam, the name of two Israelite kings
+
+KJV renders: Jeroboam.
+
+## Verses (95)
+
+- [[1_Chronicles_05_17]]
+- [[1_Kings_11_26]]
+- [[1_Kings_11_28]]
+- [[1_Kings_11_29]]
+- [[1_Kings_11_31]]
+- [[1_Kings_11_40]]
+- [[1_Kings_12_02]]
+- [[1_Kings_12_03]]
+- [[1_Kings_12_12]]
+- [[1_Kings_12_15]]
+- [[1_Kings_12_20]]
+- [[1_Kings_12_25]]
+- [[1_Kings_12_26]]
+- [[1_Kings_12_32]]
+- [[1_Kings_13_01]]
+- [[1_Kings_13_04]]
+- [[1_Kings_13_33]]
+- [[1_Kings_13_34]]
+- [[1_Kings_14_01]]
+- [[1_Kings_14_02]]
+- [[1_Kings_14_04]]
+- [[1_Kings_14_05]]
+- [[1_Kings_14_06]]
+- [[1_Kings_14_07]]
+- [[1_Kings_14_10]]
+- [[1_Kings_14_11]]
+- [[1_Kings_14_13]]
+- [[1_Kings_14_14]]
+- [[1_Kings_14_16]]
+- [[1_Kings_14_17]]
+- [[1_Kings_14_19]]
+- [[1_Kings_14_20]]
+- [[1_Kings_14_30]]
+- [[1_Kings_15_01]]
+- [[1_Kings_15_06]]
+- [[1_Kings_15_07]]
+- [[1_Kings_15_09]]
+- [[1_Kings_15_25]]
+- [[1_Kings_15_29]]
+- [[1_Kings_15_30]]
+- [[1_Kings_15_34]]
+- [[1_Kings_16_02]]
+- [[1_Kings_16_03]]
+- [[1_Kings_16_07]]
+- [[1_Kings_16_19]]
+- [[1_Kings_16_26]]
+- [[1_Kings_16_31]]
+- [[1_Kings_21_22]]
+- [[1_Kings_22_52]]
+- [[2_Chronicles_09_29]]
+- [[2_Chronicles_10_02]]
+- [[2_Chronicles_10_03]]
+- [[2_Chronicles_10_12]]
+- [[2_Chronicles_10_15]]
+- [[2_Chronicles_11_04]]
+- [[2_Chronicles_11_14]]
+- [[2_Chronicles_12_15]]
+- [[2_Chronicles_13_01]]
+- [[2_Chronicles_13_02]]
+- [[2_Chronicles_13_03]]
+- [[2_Chronicles_13_04]]
+- [[2_Chronicles_13_06]]
+- [[2_Chronicles_13_08]]
+- [[2_Chronicles_13_13]]
+- [[2_Chronicles_13_15]]
+- [[2_Chronicles_13_19]]
+- [[2_Chronicles_13_20]]
+- [[2_Kings_03_03]]
+- [[2_Kings_09_09]]
+- [[2_Kings_10_29]]
+- [[2_Kings_10_31]]
+- [[2_Kings_13_02]]
+- [[2_Kings_13_06]]
+- [[2_Kings_13_11]]
+- [[2_Kings_13_13]]
+- [[2_Kings_14_16]]
+- [[2_Kings_14_23]]
+- [[2_Kings_14_24]]
+- [[2_Kings_14_27]]
+- [[2_Kings_14_28]]
+- [[2_Kings_14_29]]
+- [[2_Kings_15_01]]
+- [[2_Kings_15_08]]
+- [[2_Kings_15_09]]
+- [[2_Kings_15_18]]
+- [[2_Kings_15_24]]
+- [[2_Kings_15_28]]
+- [[2_Kings_17_21]]
+- [[2_Kings_17_22]]
+- [[2_Kings_23_15]]
+- [[Amos_01_01]]
+- [[Amos_07_09]]
+- [[Amos_07_10]]
+- [[Amos_07_11]]
+- [[Hosea_01_01]]

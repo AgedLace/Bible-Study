@@ -1,0 +1,117 @@
+---
+type: strongs
+number: H7637
+lang: H
+lemma: "שְׁבִיעִי"
+translit: "shᵉbîyʻîy"
+occurrences: 94
+tags: [Word_Study/Hebrew, Word_Study/Hebrew/H7637_shebiyiy]
+---
+# H7637 — שְׁבִיעִי
+
+| Lemma | Translit | Pronunciation | Short definition |
+|---|---|---|---|
+| שְׁבִיעִי | shᵉbîyʻîy | sheb-ee-ee' | seventh |
+
+## Definition
+
+seventh
+
+KJV renders: seventh (time).
+
+## Verses (94)
+
+- [[1_Chronicles_02_15]]
+- [[1_Chronicles_12_11]]
+- [[1_Chronicles_24_10]]
+- [[1_Chronicles_25_14]]
+- [[1_Chronicles_26_03]]
+- [[1_Chronicles_26_05]]
+- [[1_Chronicles_27_10]]
+- [[1_Kings_08_02]]
+- [[1_Kings_18_44]]
+- [[1_Kings_20_29]]
+- [[2_Chronicles_05_03]]
+- [[2_Chronicles_07_10]]
+- [[2_Chronicles_23_01]]
+- [[2_Chronicles_31_07]]
+- [[2_Kings_11_04]]
+- [[2_Kings_18_09]]
+- [[2_Kings_25_25]]
+- [[2_Samuel_12_18]]
+- [[Deuteronomy_05_14]]
+- [[Deuteronomy_15_12]]
+- [[Deuteronomy_16_08]]
+- [[Esther_01_10]]
+- [[Exodus_12_15]]
+- [[Exodus_12_16]]
+- [[Exodus_13_06]]
+- [[Exodus_16_26]]
+- [[Exodus_16_27]]
+- [[Exodus_16_29]]
+- [[Exodus_16_30]]
+- [[Exodus_20_10]]
+- [[Exodus_20_11]]
+- [[Exodus_21_02]]
+- [[Exodus_23_11]]
+- [[Exodus_23_12]]
+- [[Exodus_24_16]]
+- [[Exodus_31_15]]
+- [[Exodus_31_17]]
+- [[Exodus_34_21]]
+- [[Exodus_35_02]]
+- [[Ezekiel_20_01]]
+- [[Ezekiel_45_25]]
+- [[Ezra_03_01]]
+- [[Ezra_03_06]]
+- [[Ezra_07_08]]
+- [[Genesis_02_02]]
+- [[Genesis_02_03]]
+- [[Genesis_08_04]]
+- [[Haggai_02_01]]
+- [[Jeremiah_28_17]]
+- [[Jeremiah_41_01]]
+- [[Joshua_06_04]]
+- [[Joshua_06_15]]
+- [[Joshua_06_16]]
+- [[Joshua_19_40]]
+- [[Judges_14_15]]
+- [[Judges_14_17]]
+- [[Judges_14_18]]
+- [[Leviticus_13_05]]
+- [[Leviticus_13_06]]
+- [[Leviticus_13_27]]
+- [[Leviticus_13_32]]
+- [[Leviticus_13_34]]
+- [[Leviticus_13_51]]
+- [[Leviticus_14_09]]
+- [[Leviticus_14_39]]
+- [[Leviticus_16_29]]
+- [[Leviticus_23_03]]
+- [[Leviticus_23_08]]
+- [[Leviticus_23_16]]
+- [[Leviticus_23_24]]
+- [[Leviticus_23_27]]
+- [[Leviticus_23_34]]
+- [[Leviticus_23_39]]
+- [[Leviticus_23_41]]
+- [[Leviticus_25_04]]
+- [[Leviticus_25_09]]
+- [[Leviticus_25_20]]
+- [[Nehemiah_07_73]]
+- [[Nehemiah_08_02]]
+- [[Nehemiah_08_14]]
+- [[Nehemiah_10_31]]
+- [[Numbers_06_09]]
+- [[Numbers_07_48]]
+- [[Numbers_19_12]]
+- [[Numbers_19_19]]
+- [[Numbers_28_25]]
+- [[Numbers_29_01]]
+- [[Numbers_29_07]]
+- [[Numbers_29_12]]
+- [[Numbers_29_32]]
+- [[Numbers_31_19]]
+- [[Numbers_31_24]]
+- [[Zechariah_07_05]]
+- [[Zechariah_08_19]]

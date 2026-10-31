@@ -1,0 +1,117 @@
+---
+type: strongs
+number: H7992
+lang: H
+lemma: "שְׁלִישִׁי"
+translit: "shᵉlîyshîy"
+occurrences: 94
+tags: [Word_Study/Hebrew, Word_Study/Hebrew/H7992_sheliyshiy]
+---
+# H7992 — שְׁלִישִׁי
+
+| Lemma | Translit | Pronunciation | Short definition |
+|---|---|---|---|
+| שְׁלִישִׁי | shᵉlîyshîy | shel-ee-shee' | third |
+
+## Definition
+
+third; feminine athird (part); by extension, a third (day, year or time); specifically, a third-story cell)
+
+KJV renders: third (part, rank, time), three (years old).
+
+## Verses (94)
+
+- [[1_Chronicles_02_13]]
+- [[1_Chronicles_03_02]]
+- [[1_Chronicles_03_15]]
+- [[1_Chronicles_08_01]]
+- [[1_Chronicles_08_39]]
+- [[1_Chronicles_12_09]]
+- [[1_Chronicles_23_19]]
+- [[1_Chronicles_24_08]]
+- [[1_Chronicles_24_23]]
+- [[1_Chronicles_25_10]]
+- [[1_Chronicles_26_02]]
+- [[1_Chronicles_26_04]]
+- [[1_Chronicles_26_11]]
+- [[1_Chronicles_27_05]]
+- [[1_Kings_03_18]]
+- [[1_Kings_06_06]]
+- [[1_Kings_06_08]]
+- [[1_Kings_12_12]]
+- [[1_Kings_18_01]]
+- [[1_Kings_22_02]]
+- [[1_Samuel_03_08]]
+- [[1_Samuel_17_13]]
+- [[1_Samuel_19_21]]
+- [[1_Samuel_20_05]]
+- [[1_Samuel_20_12]]
+- [[1_Samuel_30_01]]
+- [[2_Chronicles_10_12]]
+- [[2_Chronicles_15_10]]
+- [[2_Chronicles_23_04]]
+- [[2_Chronicles_23_05]]
+- [[2_Chronicles_27_05]]
+- [[2_Chronicles_31_07]]
+- [[2_Kings_01_13]]
+- [[2_Kings_11_05]]
+- [[2_Kings_11_06]]
+- [[2_Kings_19_29]]
+- [[2_Kings_20_05]]
+- [[2_Kings_20_08]]
+- [[2_Samuel_01_02]]
+- [[2_Samuel_03_03]]
+- [[2_Samuel_18_02]]
+- [[2_Samuel_23_18]]
+- [[Deuteronomy_23_08]]
+- [[Deuteronomy_26_12]]
+- [[Esther_05_01]]
+- [[Esther_08_09]]
+- [[Exodus_19_01]]
+- [[Exodus_19_11]]
+- [[Exodus_19_16]]
+- [[Exodus_28_19]]
+- [[Exodus_39_12]]
+- [[Ezekiel_05_02]]
+- [[Ezekiel_05_12]]
+- [[Ezekiel_10_14]]
+- [[Ezekiel_21_14]]
+- [[Ezekiel_31_01]]
+- [[Ezekiel_42_03]]
+- [[Ezekiel_46_14]]
+- [[Genesis_01_13]]
+- [[Genesis_02_14]]
+- [[Genesis_06_16]]
+- [[Genesis_22_04]]
+- [[Genesis_31_22]]
+- [[Genesis_32_19]]
+- [[Genesis_34_25]]
+- [[Genesis_40_20]]
+- [[Genesis_42_18]]
+- [[Hosea_06_02]]
+- [[Isaiah_15_05]]
+- [[Isaiah_19_24]]
+- [[Isaiah_37_30]]
+- [[Jeremiah_38_14]]
+- [[Jeremiah_48_34]]
+- [[Job_42_14]]
+- [[Joshua_09_17]]
+- [[Joshua_19_10]]
+- [[Judges_20_30]]
+- [[Leviticus_07_17]]
+- [[Leviticus_07_18]]
+- [[Leviticus_19_06]]
+- [[Leviticus_19_07]]
+- [[Nehemiah_10_32]]
+- [[Numbers_02_24]]
+- [[Numbers_07_24]]
+- [[Numbers_15_06]]
+- [[Numbers_15_07]]
+- [[Numbers_19_12]]
+- [[Numbers_19_19]]
+- [[Numbers_28_14]]
+- [[Numbers_29_20]]
+- [[Numbers_31_19]]
+- [[Zechariah_06_03]]
+- [[Zechariah_13_08]]
+- [[Zechariah_13_09]]

@@ -1,0 +1,298 @@
+---
+type: study
+passage: "Luke 22:24-30"
+heading: "Who Is the Greatest?"
+osis: Luke 22:24-30
+book: Luke
+chapter_start: 22
+genre: gospel
+module: gospel
+status: in-progress
+date: 2026-10-31
+has_omitted_variant: false
+tags: [Study/42__Luke/Luke_22_24-30]
+---
+# Study: Luke 22:24-30 — Who Is the Greatest?
+
+> [!warning] Hermeneutical guardrails (read before Section 4)
+> 1. **Scripture interprets Scripture.** Clear passages govern unclear ones; no doctrine rests on one obscure text.
+> 2. **What the text cannot mean.** Anything the original audience could not have understood is suspect (see 4e).
+> 3. **Check against the doctrines index.** Compare conclusions with [[Doctrines Index]] (see 4h).
+> 4. **Label everything:** Scripture / my interpretation / someone else's claim.
+
+<details>
+<summary>0. Prayer & Posture</summary>
+
+- [ ] Prayed for illumination (Ps 119:18) · [ ] Laid down assumptions · [ ] Time set aside: ____ min
+- Prayer: 
+
+</details>
+
+## 1. Passage (BSB)
+### Who Is the Greatest?
+**[[Luke_22_24|Luke 22:24]]**
+![[Luke_22_24#^text]]
+
+**[[Luke_22_25|Luke 22:25]]**
+![[Luke_22_25#^text]]
+
+**[[Luke_22_26|Luke 22:26]]**
+![[Luke_22_26#^text]]
+
+**[[Luke_22_27|Luke 22:27]]**
+![[Luke_22_27#^text]]
+
+**[[Luke_22_28|Luke 22:28]]**
+![[Luke_22_28#^text]]
+
+**[[Luke_22_29|Luke 22:29]]**
+![[Luke_22_29#^text]]
+
+**[[Luke_22_30|Luke 22:30]]**
+![[Luke_22_30#^text]]
+
+<details>
+<summary>2. Context</summary>
+
+| Layer | Notes |
+|---|---|
+| | |
+
+
+
+</details>
+
+## 3. OBSERVATION — What does it say?
+### 3a. Read 3×
+| Pass | Speed / method | What I noticed |
+|---|---|---|
+| 1 | Fast, whole passage | |
+| 2 | Slow, mark repeated words, contrasts, connectives | |
+| 3 | Aloud, or a different reading plan | |
+
+<details>
+<summary>3b. Key words</summary>
+
+| Word (BSB) | Original | Translit | Strong's | In passage | In book | Notes |
+See 4c Word studies.
+
+</details>
+
+### 3c. 5 W's + H
+| Question | Answer | Verse |
+|---|---|---|
+| Who | | |
+| What | | |
+| When | | |
+| Where | | |
+| Why | | |
+| How | | |
+
+<details>
+<summary>3d. Structure (mark each feature found)</summary>
+
+| Feature | Found? | Verses / notes |
+|---|---|---|
+| Repetition | | |
+| Contrast | | |
+| Comparison | | |
+| Cause → effect | | |
+| If → then (conditions) | | |
+| Commands | | |
+| Promises | | |
+| Lists | | |
+| Progression / climax | | |
+| Questions | | |
+| Quotations / allusions | | |
+| Shifts (speaker, time, place) | | |
+
+</details>
+
+<details>
+<summary>3e. Grammar flags (from parsing)</summary>
+
+Parsing is in the verse files.
+Watch: conjunctions (therefore, but, so that, for), tense/mood/voice shifts, imperatives, conditionals, participles.
+
+</details>
+
+### 3f. People · Places · Events (AI-suggested — review)
+- People: [entities — e.g., [[People/Godhead/God|Godhead/God]]]
+- Places: [entities — e.g., the heavens, the earth]
+- Events: [events — e.g., creation, God speaking, God separating light from darkness]
+
+### 3g. Questions raised (AI-suggested — review)
+1. 
+2. 
+3. 
+
+<details>
+<summary>4. INTERPRETATION — What does it mean?</summary>
+
+### 4a. Answers to observation questions
+| Question (from 3g) | Answer | Evidence |
+|---|---|---|
+| | | |
+
+### 4b. Cross-references
+| Ref | Illuminates? (Y/N) | How |
+|---|---|---|
+| [[Mark_10_37\|Mark 10:37]] | | |
+| [[Mark_10_41\|Mark 10:41]] | | |
+| [[Luke_09_46\|Luke 9:46]] | | |
+| [[Mark_09_34\|Mark 9:34]] | | |
+| [[1_Corinthians_13_04\|1 Corinthians 13:4]] | | |
+| [[Mark_10_45\|Mark 10:45]] | | |
+| [[Matthew_20_25\|Matthew 20:25]] | | |
+| [[Matthew_20_28\|Matthew 20:28]] | | |
+| [[Mark_09_35\|Mark 9:35]] | | |
+| [[Matthew_18_03\|Matthew 18:3]] | | |
+| [[Matthew_18_05\|Matthew 18:5]] | | |
+| [[Romans_12_02\|Romans 12:2]] | | |
+| [[1_Peter_05_05\|1 Peter 5:5]] | | |
+| [[Luke_12_37\|Luke 12:37]] | | |
+| [[Philippians_02_07\|Philippians 2:7]] | | |
+| [[Philippians_02_08\|Philippians 2:8]] | | |
+| [[John_13_05\|John 13:5]] | | |
+| [[John_13_16\|John 13:16]] | | |
+| [[Matthew_24_13\|Matthew 24:13]] | | |
+| [[Acts_01_25\|Acts 1:25]] | | |
+| [[John_08_31\|John 8:31]] | | |
+| [[John_06_67\|John 6:67]] | | |
+| [[John_06_68\|John 6:68]] | | |
+| [[James_02_05\|James 2:5]] | | |
+| [[Luke_19_17\|Luke 19:17]] | | |
+
+### 4c. Word studies
+| Word | Page | Finding |
+|---|---|---|
+| serves | [[G1247 - diakoneo]] | |
+| . . . | [[G1510 - eimi]] | |
+| [the] greatest | [[G3173 - megas]] | |
+| like | [[G5613 - hos]] | |
+| reclines at the table | [[G0345 - anakeimai]] | |
+| a kingdom | [[G0932 - basileia]] | |
+| arose | [[G1096 - ginomai]] | |
+| bestow | [[G1303 - diatithemai]] | |
+| at | [[G1909 - epi]] | |
+| which | [[G5101 - tis]] | |
+| kings | [[G0935 - basileus]] | |
+| who have stood | [[G1265 - diameno]] | |
+
+### 4d. Genre-specific questions
+#### Module: Gospel
+**Questions** (answer with `→`)
+- G1. Where does this fall in the Gospel's structure (birth · Galilee · journey · Jerusalem · passion · resurrection)? →
+- G2. What has just happened, and how does this scene answer or advance it? →
+- G3. Who is present: disciples, crowd, opponents, individuals? How does each respond? →
+- G4. What does the author (not just the scene) want the reader to see here? →
+- G5. Is this narrative, discourse, miracle, controversy, or passion material? →
+- G6. What does Jesus say vs. do? Do the two interpret each other? →
+- G7. Which OT texts are quoted, alluded to, or fulfilled? →
+- G8. Is there a fulfillment formula ("this was to fulfill")? →
+- G9. What does this reveal about the kingdom: already, not yet, or both? →
+- G10. What is revealed about Jesus' identity (titles, authority, claims)? →
+- G11. Who recognizes Jesus rightly or wrongly, and why? →
+- G12. What is the role of faith, unbelief, or misunderstanding? →
+- G13. Is the "Messianic secret" or a command to silence present? Why? →
+- G14. Which parallel accounts exist, and what does each add, omit, or reorder? →
+- G15. What may the differences show about each author's purpose? →
+- G16. What cultural/religious background (Sabbath, purity, temple, Roman rule) matters? →
+- G17. What titles or phrases are distinctive to this Gospel (e.g., "Son of Man", "Kingdom of Heaven")? →
+- G18. What call to discipleship is implied or stated? →
+- G19. How does this scene foreshadow the cross and resurrection? →
+- G20. What would be lost if this passage were removed from the book? →
+
+**Synoptic / Gospel parallels**
+| Gospel | Ref | Wording differences | Added | Omitted | Possible reason |
+|---|---|---|---|---|---|
+| Matthew | | | | | |
+| Mark | | | | | |
+| Luke | | | | | |
+| John | | | | | |
+
+**Who Jesus is revealed to be here**
+| Title / claim / action | Verse | Who says it | Response |
+|---|---|---|---|
+| | | | |
+
+
+### 4e. Original-audience meaning
+One paragraph: what did this mean to those who first received it?
+
+
+### 4f. Main point (one sentence)
+> 
+
+### 4g. Christ and redemptive history
+- Where in the storyline (creation · fall · Israel · Christ · church · consummation)? 
+- How does it point to or fulfill in Christ? 
+- Caution: show the text's own connection; don't force one.
+
+### 4h. Doctrines touched
+| Doctrine | Page | Agrees with the whole counsel of Scripture? |
+|---|---|---|
+| | [[Doctrines Index]] | |
+
+### 4i. Interpretive difficulties & alternative views
+| View | Proponents / basis | Strengths | Weaknesses |
+|---|---|---|---|
+| A | | | |
+| B | | | |
+| C | | | |
+
+> [!check] What this text **cannot** mean
+> - 
+
+</details>
+
+<details>
+<summary>5. APPLICATION — What do I do?</summary>
+
+### 5a. Timeless principle(s)
+1. 
+
+### 5b. SPECK
+| | Response |
+|---|---|
+| **S**in to confess | |
+| **P**romise to claim | |
+| **E**xample to follow | |
+| **C**ommand to obey | |
+| **K**nowledge of God | |
+
+### 5c. Specific, measurable action this week
+| Action | When | How I'll know it's done |
+|---|---|---|
+| | | |
+
+### 5d. Prayer response
+
+
+### 5e. Memory verse
+![[#^text]]
+
+</details>
+
+<details>
+<summary>6. Teaching / Sharing Notes</summary>
+
+| Item | Notes |
+|---|---|
+| Audience | |
+| Big idea (one sentence) | |
+| Outline (3 points max) | |
+| Illustration | |
+| Discussion questions | |
+| Pitfall to avoid | |
+
+</details>
+
+<details>
+<summary>7. Log of changes to my understanding</summary>
+
+| Date | Old view | New view | What changed it |
+|---|---|---|---|
+| 2026-10-31 | | | |
+
+</details>

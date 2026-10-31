@@ -1,0 +1,50 @@
+---
+type: verse
+ref: "Isaiah 36:8"
+book: Isaiah
+book_num: 23
+chapter: 36
+verse: 8
+testament: OT
+strongs: [H6258, H6148, H4994, H854, H113, H4428, H804, H5414, H505, H5483, H518, H3201, H7392, H5921]
+tags: [BSB/OT/23__Isaiah/Isaiah_36/Isaiah_36_08, Word_Study/Hebrew/H6258_attah, Word_Study/Hebrew/H6148_arab, Word_Study/Hebrew/H4994_na, Word_Study/Hebrew/H0854_eth, Word_Study/Hebrew/H0113_adown, Word_Study/Hebrew/H4428_melek, Word_Study/Hebrew/H0804_ashshuwr, Word_Study/Hebrew/H5414_nathan, Word_Study/Hebrew/H0505_eleph, Word_Study/Hebrew/H5483_cuwc, Word_Study/Hebrew/H0518_im, Word_Study/Hebrew/H3201_yakol, Word_Study/Hebrew/H7392_rakab, Word_Study/Hebrew/H5921_al]
+prev: Isaiah_36_07
+next: Isaiah_36_09
+---
+# Isaiah 36:8
+
+> [!quote] BSB
+> "Now, therefore, make a bargain with my master, the king of Assyria. I will give you two thousand horses—if you can put riders on them!" ^text
+
+[[Isaiah_36_07|← Isaiah 36:7]] · [[Isaiah_36|↑ Isaiah 36]] · [[Isaiah_36_09|Isaiah 36:9 →]]
+
+**Interlinear**
+
+| Word | Translit | Parsing | Gloss | Strong's |
+|---|---|---|---|---|
+| וְעַתָּה֙ | wə·‘at·tāh | Conj-w + Adv<br>Conjunctive waw + Adverb | Now, therefore | [[H6258 - attah]] |
+| הִתְעָ֣רֶב | hiṯ·‘ā·reḇ | V-Hitpael-Imp-ms<br>Verb - Hitpael - Imperative - masculine singular | make a bargain | [[H6148 - arab]] |
+| נָ֔א | nā | Interjection<br>Interjection | . . . | [[H4994 - na]] |
+| אֶת־ | ’eṯ- | Prep<br>Preposition | with | [[H0854 - eth]] |
+| אֲדֹנִ֖י | ’ă·ḏō·nî | N-msc + 1cs<br>Noun - masculine singular construct + first person common singular | my master | [[H0113 - adown]] |
+| הַמֶּ֣לֶךְ | ham·me·leḵ | Art + N-msc<br>Article + Noun - masculine singular construct | the king | [[H4428 - melek]] |
+| אַשּׁ֑וּר | ’aš·šūr | N-proper-fs<br>Noun - proper - feminine singular | of Assyria | [[H0804 - ashshuwr]] |
+| וְאֶתְּנָ֤ה | wə·’et·tə·nāh | Conj-w + V-Qal-ConjImperf.Cohort-1cs<br>Conjunctive waw + Verb - Qal - Conjunctive imperfect Cohortative - first person common singular | I will give | [[H5414 - nathan]] |
+| לְךָ֙ | lə·ḵā | Prep + 2ms<br>Preposition + second person masculine singular | you | - |
+| אַלְפַּ֣יִם | ’al·pa·yim | Number-md<br>Number - md | two thousand | [[H0505 - eleph]] |
+| סוּסִ֔ים | sū·sîm | N-mp<br>Noun - masculine plural | horses | [[H5483 - cuwc]] |
+| אִם־ | ’im- | Conj<br>Conjunction | if | [[H0518 - im]] |
+| תּוּכַ֕ל | tū·ḵal | V-Qal-Imperf-2ms<br>Verb - Qal - Imperfect - second person masculine singular | you can | [[H3201 - yakol]] |
+| לָ֥תֶת | lā·ṯeṯ | Prep-l + V-Qal-Inf<br>Preposition-l + Verb - Qal - Infinitive construct | put | [[H5414 - nathan]] |
+| לְךָ֖ | lə·ḵā | Prep + 2ms<br>Preposition + second person masculine singular |  | - |
+| רֹכְבִ֥ים | rō·ḵə·ḇîm | V-Qal-Prtcpl-mp<br>Verb - Qal - Participle - masculine plural | riders | [[H7392 - rakab]] |
+| עֲלֵיהֶֽם׃ | ‘ă·lê·hem | Prep + 3mp<br>Preposition + third person masculine plural | on them | [[H5921 - al]] |
+**Strong's:** [[H6258 - attah]] · [[H6148 - arab]] · [[H4994 - na]] · [[H0854 - eth]] · [[H0113 - adown]] · [[H4428 - melek]] · [[H0804 - ashshuwr]] · [[H5414 - nathan]] · [[H0505 - eleph]] · [[H5483 - cuwc]] · [[H0518 - im]] · [[H3201 - yakol]] · [[H5414 - nathan]] · [[H7392 - rakab]] · [[H5921 - al]]
+
+%%XREF-START%%
+## Cross references
+
+Top: [[Isaiah_10_13|Isaiah 10:13]] · [[Isaiah_10_14|Isaiah 10:14]] · [[Psalms_123_003|Psalms 123:3]] · [[Psalms_123_004|Psalms 123:4]] · [[1_Kings_20_18|1 Kings 20:18]]
+
+See [[XRefs/OT/23__Isaiah/Isaiah_36|full list (14)]].
+%%XREF-END%%

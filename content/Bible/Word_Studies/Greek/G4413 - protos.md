@@ -1,0 +1,115 @@
+---
+type: strongs
+number: G4413
+lang: G
+lemma: "πρῶτος"
+translit: "prōtos"
+occurrences: 92
+tags: [Word_Study/Greek, Word_Study/Greek/G4413_protos]
+---
+# G4413 — πρῶτος
+
+| Lemma | Translit | Pronunciation | Short definition |
+|---|---|---|---|
+| πρῶτος | prōtos |  | foremost (in time |
+
+## Definition
+
+ foremost (in time, place, order or importance)
+
+KJV renders: before, beginning, best, chief(-est), first (of all), former
+
+## Verses (92)
+
+- [[1_Corinthians_14_30]]
+- [[1_Corinthians_15_03]]
+- [[1_Corinthians_15_45]]
+- [[1_Corinthians_15_47]]
+- [[1_John_04_19]]
+- [[1_Timothy_01_15]]
+- [[1_Timothy_01_16]]
+- [[1_Timothy_02_13]]
+- [[1_Timothy_05_12]]
+- [[2_Peter_02_20]]
+- [[2_Timothy_04_16]]
+- [[Acts_01_01]]
+- [[Acts_11_26]]
+- [[Acts_12_10]]
+- [[Acts_13_50]]
+- [[Acts_16_12]]
+- [[Acts_17_04]]
+- [[Acts_20_18]]
+- [[Acts_25_02]]
+- [[Acts_26_23]]
+- [[Acts_27_43]]
+- [[Acts_28_07]]
+- [[Acts_28_17]]
+- [[Ephesians_06_02]]
+- [[Hebrews_08_07]]
+- [[Hebrews_08_13]]
+- [[Hebrews_09_01]]
+- [[Hebrews_09_02]]
+- [[Hebrews_09_06]]
+- [[Hebrews_09_08]]
+- [[Hebrews_09_15]]
+- [[Hebrews_09_18]]
+- [[Hebrews_10_09]]
+- [[John_01_15]]
+- [[John_01_30]]
+- [[John_08_07]]
+- [[John_10_40]]
+- [[John_12_16]]
+- [[John_19_32]]
+- [[John_19_39]]
+- [[John_20_04]]
+- [[John_20_08]]
+- [[Luke_02_02]]
+- [[Luke_11_26]]
+- [[Luke_13_30]]
+- [[Luke_14_18]]
+- [[Luke_15_22]]
+- [[Luke_16_05]]
+- [[Luke_19_16]]
+- [[Luke_19_47]]
+- [[Luke_20_29]]
+- [[Mark_06_21]]
+- [[Mark_09_35]]
+- [[Mark_10_31]]
+- [[Mark_10_44]]
+- [[Mark_12_20]]
+- [[Mark_12_28]]
+- [[Mark_12_29]]
+- [[Mark_14_12]]
+- [[Mark_16_09]]
+- [[Matthew_10_02]]
+- [[Matthew_12_45]]
+- [[Matthew_19_30]]
+- [[Matthew_20_08]]
+- [[Matthew_20_10]]
+- [[Matthew_20_16]]
+- [[Matthew_20_27]]
+- [[Matthew_21_28]]
+- [[Matthew_21_31]]
+- [[Matthew_21_36]]
+- [[Matthew_22_25]]
+- [[Matthew_22_38]]
+- [[Matthew_26_17]]
+- [[Matthew_27_64]]
+- [[Philippians_01_05]]
+- [[Revelation_01_17]]
+- [[Revelation_02_04]]
+- [[Revelation_02_05]]
+- [[Revelation_02_08]]
+- [[Revelation_02_19]]
+- [[Revelation_04_01]]
+- [[Revelation_04_07]]
+- [[Revelation_08_07]]
+- [[Revelation_13_12]]
+- [[Revelation_16_02]]
+- [[Revelation_20_05]]
+- [[Revelation_20_06]]
+- [[Revelation_21_01]]
+- [[Revelation_21_04]]
+- [[Revelation_21_19]]
+- [[Revelation_22_13]]
+- [[Romans_10_19]]

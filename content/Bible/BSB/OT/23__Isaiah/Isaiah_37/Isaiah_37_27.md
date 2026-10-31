@@ -1,0 +1,53 @@
+---
+type: verse
+ref: "Isaiah 37:27"
+book: Isaiah
+book_num: 23
+chapter: 37
+verse: 27
+testament: OT
+strongs: [H3427, H7116, H3027, H2865, H954, H1961, H6212, H7704, H3419, H1877, H2682, H1406, H7709, H6440, H7054]
+tags: [BSB/OT/23__Isaiah/Isaiah_37/Isaiah_37_27, Word_Study/Hebrew/H3427_yashab, Word_Study/Hebrew/H7116_qatser, Word_Study/Hebrew/H3027_yad, Word_Study/Hebrew/H2865_chathath, Word_Study/Hebrew/H0954_buwsh, Word_Study/Hebrew/H1961_hayah, Word_Study/Hebrew/H6212_eseb, Word_Study/Hebrew/H7704_sadeh, Word_Study/Hebrew/H3419_yaraq, Word_Study/Hebrew/H1877_deshe, Word_Study/Hebrew/H2682_chatsiyr, Word_Study/Hebrew/H1406_gag, Word_Study/Hebrew/H7709_shedemah, Word_Study/Hebrew/H6440_paniym, Word_Study/Hebrew/H7054_qamah]
+prev: Isaiah_37_26
+next: Isaiah_37_28
+---
+# Isaiah 37:27
+
+> [!quote] BSB
+> "Therefore their inhabitants, devoid of power, are dismayed and ashamed. They are like plants in the field, tender green shoots, grass on the rooftops, scorched before it is grown." ^text
+
+%%FN-START%%
+> [!note] Footnotes
+- DSS, some MT manuscripts, and some LXX manuscripts (see also 2 Kings 19:26); most MT manuscripts *on the rooftops and terraced fields*
+%%FN-END%%
+
+[[Isaiah_37_26|← Isaiah 37:26]] · [[Isaiah_37|↑ Isaiah 37]] · [[Isaiah_37_28|Isaiah 37:28 →]]
+
+**Interlinear**
+
+| Word | Translit | Parsing | Gloss | Strong's |
+|---|---|---|---|---|
+| וְיֹֽשְׁבֵיהֶן֙ | wə·yō·šə·ḇê·hen | Conj-w + V-Qal-Prtcpl-mpc + 3fp<br>Conjunctive waw + Verb - Qal - Participle - masculine plural construct + third person feminine plural | Therefore their inhabitants | [[H3427 - yashab]] |
+| קִצְרֵי־ | qiṣ·rê- | Adj-mpc<br>Adjective - masculine plural construct | devoid | [[H7116 - qatser]] |
+| יָ֔ד | yāḏ | N-fs<br>Noun - feminine singular | of power | [[H3027 - yad]] |
+| חַ֖תּוּ | ḥat·tū | V-Qal-Perf-3cp<br>Verb - Qal - Perfect - third person common plural | are dismayed | [[H2865 - chathath]] |
+| וָבֹ֑שׁוּ | wā·ḇō·šū | Conj-w + V-Qal-ConjPerf-3cp<br>Conjunctive waw + Verb - Qal - Conjunctive perfect - third person common plural | and ashamed | [[H0954 - buwsh]] |
+| הָי֞וּ | hā·yū | V-Qal-Perf-3cp<br>Verb - Qal - Perfect - third person common plural | They are like | [[H1961 - hayah]] |
+| עֵ֤שֶׂב | ‘ê·śeḇ | N-msc<br>Noun - masculine singular construct | plants | [[H6212 - eseb]] |
+| שָׂדֶה֙ | śā·ḏeh | N-ms<br>Noun - masculine singular | in the field | [[H7704 - sadeh]] |
+| וִ֣ירַק | wî·raq | Conj-w + N-msc<br>Conjunctive waw + Noun - masculine singular construct | tender | [[H3419 - yaraq]] |
+| דֶּ֔שֶׁא | de·še | N-ms<br>Noun - masculine singular | green shoots | [[H1877 - deshe]] |
+| חֲצִ֣יר | ḥă·ṣîr | N-msc<br>Noun - masculine singular construct | grass | [[H2682 - chatsiyr]] |
+| גַּגּ֔וֹת | gag·gō·wṯ | N-mp<br>Noun - masculine plural | on the rooftops | [[H1406 - gag]] |
+| וּשְׁדֵמָ֖ה | ū·šə·ḏê·māh | Conj-w + N-fs<br>Conjunctive waw + Noun - feminine singular | scorched | [[H7709 - shedemah]] |
+| לִפְנֵ֥י | lip̄·nê | Prep-l + N-cpc<br>Preposition-l + Noun - common plural construct | before | [[H6440 - paniym]] |
+| קָמָֽה׃ | qā·māh | N-fs<br>Noun - feminine singular | it is grown | [[H7054 - qamah]] |
+**Strong's:** [[H3427 - yashab]] · [[H7116 - qatser]] · [[H3027 - yad]] · [[H2865 - chathath]] · [[H0954 - buwsh]] · [[H1961 - hayah]] · [[H6212 - eseb]] · [[H7704 - sadeh]] · [[H3419 - yaraq]] · [[H1877 - deshe]] · [[H2682 - chatsiyr]] · [[H1406 - gag]] · [[H7709 - shedemah]] · [[H6440 - paniym]] · [[H7054 - qamah]]
+
+%%XREF-START%%
+## Cross references
+
+Top: [[1_Peter_01_24|1 Peter 1:24]] · [[Numbers_14_09|Numbers 14:9]] · [[Jeremiah_05_10|Jeremiah 5:10]] · [[James_01_10|James 1:10]] · [[James_01_11|James 1:11]]
+
+See [[XRefs/OT/23__Isaiah/Isaiah_37|full list (18)]].
+%%XREF-END%%

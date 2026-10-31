@@ -1,0 +1,63 @@
+---
+type: verse
+ref: "Matthew 24:32"
+book: Matthew
+book_num: 40
+chapter: 24
+verse: 32
+testament: NT
+strongs: [G575, G1161, G3588, G4808, G3129, G3850, G3752, G2235, G2798, G846, G1096, G527, G2532, G5444, G1631, G1097, G3754, G1451, G2330]
+tags: [BSB/NT/40__Matthew/Matthew_24/Matthew_24_32, Word_Study/Greek/G0575_apo, Word_Study/Greek/G1161_de, Word_Study/Greek/G3588_ho, Word_Study/Greek/G4808_syke, Word_Study/Greek/G3129_manthano, Word_Study/Greek/G3850_parabole, Word_Study/Greek/G3752_hotan, Word_Study/Greek/G2235_ede, Word_Study/Greek/G2798_klados, Word_Study/Greek/G0846_autos, Word_Study/Greek/G1096_ginomai, Word_Study/Greek/G0527_apalos, Word_Study/Greek/G2532_kai, Word_Study/Greek/G5444_phyllon, Word_Study/Greek/G1631_ekphyo, Word_Study/Greek/G1097_ginosko, Word_Study/Greek/G3754_hoti, Word_Study/Greek/G1451_engys, Word_Study/Greek/G2330_theros]
+prev: Matthew_24_31
+next: Matthew_24_33
+---
+# Matthew 24:32
+
+## The Lesson of the Fig Tree
+
+> [!quote] BSB
+> "Now learn this lesson from the fig tree: As soon as its branches become tender and sprout leaves, you know that summer is near." ^text
+
+%%FN-START%%
+> [!note] Footnotes
+- Or *this parable*
+%%FN-END%%
+
+[[Matthew_24_31|← Matthew 24:31]] · [[Matthew_24|↑ Matthew 24]] · [[Matthew_24_33|Matthew 24:33 →]]
+
+**Interlinear**
+
+| Word | Translit | Parsing | Gloss | Strong's |
+|---|---|---|---|---|
+| Ἀπὸ | Apo | Prep<br>Preposition | from | [[G0575 - apo]] |
+| δὲ | de | Conj<br>Conjunction | Now | [[G1161 - de]] |
+| τῆς | tēs | Art-GFS<br>Article - Genitive Feminine Singular | the | [[G3588 - ho]] |
+| συκῆς | sykēs | N-GFS<br>Noun - Genitive Feminine Singular | fig tree | [[G4808 - syke]] |
+| μάθετε | mathete | V-AMA-2P<br>Verb - Aorist Imperative Active - 2nd Person Plural | learn | [[G3129 - manthano]] |
+| τὴν | tēn | Art-AFS<br>Article - Accusative Feminine Singular | this | [[G3588 - ho]] |
+| παραβολήν | parabolēn | N-AFS<br>Noun - Accusative Feminine Singular | lesson | [[G3850 - parabole]] |
+| ὅταν | hotan | Conj<br>Conjunction | As soon as | [[G3752 - hotan]] |
+| ἤδη | ēdē | Adv<br>Adverb | . . . | [[G2235 - ede]] |
+| ὁ | ho | Art-NMS<br>Article - Nominative Masculine Singular | - | [[G3588 - ho]] |
+| κλάδος | klados | N-NMS<br>Noun - Nominative Masculine Singular | branches | [[G2798 - klados]] |
+| αὐτῆς | autēs | PPro-GF3S<br>Personal / Possessive Pronoun - Genitive Feminine 3rd Person Singular | its | [[G0846 - autos]] |
+| γένηται | genētai | V-ASM-3S<br>Verb - Aorist Subjunctive Middle - 3rd Person Singular | become | [[G1096 - ginomai]] |
+| ἁπαλὸς | hapalos | Adj-NMS<br>Adjective - Nominative Masculine Singular | tender | [[G0527 - apalos]] |
+| καὶ | kai | Conj<br>Conjunction | and | [[G2532 - kai]] |
+| τὰ | ta | Art-ANP<br>Article - Accusative Neuter Plural | - | [[G3588 - ho]] |
+| φύλλα | phylla | N-ANP<br>Noun - Accusative Neuter Plural | leaves | [[G5444 - phyllon]] |
+| ἐκφύῃ | ekphyē | V-PSA-3S<br>Verb - Present Subjunctive Active - 3rd Person Singular | sprout | [[G1631 - ekphyo]] |
+| γινώσκετε | ginōskete | V-PIA-2P<br>Verb - Present Indicative Active - 2nd Person Plural | you know | [[G1097 - ginosko]] |
+| ὅτι | hoti | Conj<br>Conjunction | that | [[G3754 - hoti]] |
+| ἐγγὺς | engys | Adv<br>Adverb | [is] near | [[G1451 - engys]] |
+| τὸ | to | Art-NNS<br>Article - Nominative Neuter Singular | - | [[G3588 - ho]] |
+| θέρος | theros | N-NNS<br>Noun - Nominative Neuter Singular | summer | [[G2330 - theros]] |
+**Strong's:** [[G0575 - apo]] · [[G1161 - de]] · [[G3588 - ho]] · [[G4808 - syke]] · [[G3129 - manthano]] · [[G3588 - ho]] · [[G3850 - parabole]] · [[G3752 - hotan]] · [[G2235 - ede]] · [[G3588 - ho]] · [[G2798 - klados]] · [[G0846 - autos]] · [[G1096 - ginomai]] · [[G0527 - apalos]] · [[G2532 - kai]] · [[G3588 - ho]] · [[G5444 - phyllon]] · [[G1631 - ekphyo]] · [[G1097 - ginosko]] · [[G3754 - hoti]] · [[G1451 - engys]] · [[G3588 - ho]] · [[G2330 - theros]]
+
+%%XREF-START%%
+## Cross references
+
+Top: [[Mark_13_28|Mark 13:28]] · [[Mark_13_29|Mark 13:29]] · [[Luke_21_29|Luke 21:29]] · [[Luke_21_30|Luke 21:30]]
+
+See [[XRefs/NT/40__Matthew/Matthew_24|full list (4)]].
+%%XREF-END%%

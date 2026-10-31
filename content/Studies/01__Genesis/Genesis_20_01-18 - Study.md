@@ -1,0 +1,337 @@
+---
+type: study
+passage: "Genesis 20:1-18"
+heading: "Abraham, Sarah, and Abimelech"
+osis: Genesis 20:1-18
+book: Genesis
+chapter_start: 20
+genre: ot_narrative
+module: ot_narrative
+status: in-progress
+date: 2026-10-31
+has_omitted_variant: true
+tags: [Study/01__Genesis/Genesis_20_01-18]
+---
+# Study: Genesis 20:1-18 — Abraham, Sarah, and Abimelech
+
+> [!warning] Hermeneutical guardrails (read before Section 4)
+> 1. **Scripture interprets Scripture.** Clear passages govern unclear ones; no doctrine rests on one obscure text.
+> 2. **What the text cannot mean.** Anything the original audience could not have understood is suspect (see 4e).
+> 3. **Check against the doctrines index.** Compare conclusions with [[Doctrines Index]] (see 4h).
+> 4. **Label everything:** Scripture / my interpretation / someone else's claim.
+
+<details>
+<summary>0. Prayer & Posture</summary>
+
+- [ ] Prayed for illumination (Ps 119:18) · [ ] Laid down assumptions · [ ] Time set aside: ____ min
+- Prayer: 
+
+</details>
+
+## 1. Passage (BSB)
+### Abraham, Sarah, and Abimelech
+**[[Genesis_20_01|Genesis 20:1]]**
+![[Genesis_20_01#^text]]
+
+**[[Genesis_20_02|Genesis 20:2]]**
+![[Genesis_20_02#^text]]
+
+**[[Genesis_20_03|Genesis 20:3]]**
+![[Genesis_20_03#^text]]
+
+**[[Genesis_20_04|Genesis 20:4]]**
+![[Genesis_20_04#^text]]
+
+**[[Genesis_20_05|Genesis 20:5]]**
+![[Genesis_20_05#^text]]
+
+**[[Genesis_20_06|Genesis 20:6]]**
+![[Genesis_20_06#^text]]
+
+**[[Genesis_20_07|Genesis 20:7]]**
+![[Genesis_20_07#^text]]
+
+**[[Genesis_20_08|Genesis 20:8]]**
+![[Genesis_20_08#^text]]
+
+**[[Genesis_20_09|Genesis 20:9]]**
+![[Genesis_20_09#^text]]
+
+**[[Genesis_20_10|Genesis 20:10]]**
+![[Genesis_20_10#^text]]
+
+**[[Genesis_20_11|Genesis 20:11]]**
+![[Genesis_20_11#^text]]
+
+**[[Genesis_20_12|Genesis 20:12]]**
+![[Genesis_20_12#^text]]
+
+**[[Genesis_20_13|Genesis 20:13]]**
+![[Genesis_20_13#^text]]
+
+**[[Genesis_20_14|Genesis 20:14]]**
+![[Genesis_20_14#^text]]
+
+**[[Genesis_20_15|Genesis 20:15]]**
+![[Genesis_20_15#^text]]
+
+**[[Genesis_20_16|Genesis 20:16]]**
+![[Genesis_20_16#^text]]
+
+**[[Genesis_20_17|Genesis 20:17]]**
+![[Genesis_20_17#^text]]
+
+**[[Genesis_20_18|Genesis 20:18]]**
+![[Genesis_20_18#^text]]
+
+<details>
+<summary>2. Context</summary>
+
+| Layer | Notes |
+|---|---|
+| **Textual Note** — Genesis 20:16 | Or *a thousand shekels of silver*; that is, approximately 25.1 pounds or 11.4 kilograms of silver |
+
+
+> [!question] Does my argument depend on the variant verse(s) above?
+> - [ ] No — conclusion stands without it/them
+> - [ ] Yes — explain and check parallel passages: 
+
+
+</details>
+
+## 3. OBSERVATION — What does it say?
+### 3a. Read 3×
+| Pass | Speed / method | What I noticed |
+|---|---|---|
+| 1 | Fast, whole passage | |
+| 2 | Slow, mark repeated words, contrasts, connectives | |
+| 3 | Aloud, or a different reading plan | |
+
+<details>
+<summary>3b. Key words</summary>
+
+| Word (BSB) | Original | Translit | Strong's | In passage | In book | Notes |
+See 4c Word studies.
+
+</details>
+
+### 3c. 5 W's + H
+| Question | Answer | Verse |
+|---|---|---|
+| Who | | |
+| What | | |
+| When | | |
+| Where | | |
+| Why | | |
+| How | | |
+
+<details>
+<summary>3d. Structure (mark each feature found)</summary>
+
+| Feature | Found? | Verses / notes |
+|---|---|---|
+| Repetition | | |
+| Contrast | | |
+| Comparison | | |
+| Cause → effect | | |
+| If → then (conditions) | | |
+| Commands | | |
+| Promises | | |
+| Lists | | |
+| Progression / climax | | |
+| Questions | | |
+| Quotations / allusions | | |
+| Shifts (speaker, time, place) | | |
+
+</details>
+
+<details>
+<summary>3e. Grammar flags (from parsing)</summary>
+
+Parsing is in the verse files.
+Watch: conjunctions (therefore, but, so that, for), tense/mood/voice shifts, imperatives, conditionals, participles.
+
+</details>
+
+### 3f. People · Places · Events (AI-suggested — review)
+- People: [entities — e.g., [[People/Godhead/God|Godhead/God]]]
+- Places: [entities — e.g., the heavens, the earth]
+- Events: [events — e.g., creation, God speaking, God separating light from darkness]
+
+### 3g. Questions raised (AI-suggested — review)
+1. 
+2. 
+3. 
+
+<details>
+<summary>4. INTERPRETATION — What does it mean?</summary>
+
+### 4a. Answers to observation questions
+| Question (from 3g) | Answer | Evidence |
+|---|---|---|
+| | | |
+
+### 4b. Cross-references
+| Ref | Illuminates? (Y/N) | How |
+|---|---|---|
+| [[Genesis_16_07\|Genesis 16:7]] | | |
+| [[Genesis_26_26\|Genesis 26:26]] | | |
+| [[Numbers_13_26\|Numbers 13:26]] | | |
+| [[Genesis_13_01\|Genesis 13:1]] | | |
+| [[Genesis_24_62\|Genesis 24:62]] | | |
+| [[Genesis_26_01\|Genesis 26:1]] | | |
+| [[2_Chronicles_20_37\|2 Chronicles 20:37]] | | |
+| [[Genesis_26_16\|Genesis 26:16]] | | |
+| [[Ephesians_04_25\|Ephesians 4:25]] | | |
+| [[Genesis_20_12\|Genesis 20:12]] | | |
+| [[Genesis_41_01\|Genesis 41:1]] | | |
+| [[Genesis_41_36\|Genesis 41:36]] | | |
+| [[Ezekiel_33_14\|Ezekiel 33:14]] | | |
+| [[Ezekiel_33_15\|Ezekiel 33:15]] | | |
+| [[Jonah_03_04\|Jonah 3:4]] | | |
+| [[Genesis_20_17\|Genesis 20:17]] | | |
+| [[Genesis_20_18\|Genesis 20:18]] | | |
+| [[Genesis_18_23\|Genesis 18:23]] | | |
+| [[Genesis_18_25\|Genesis 18:25]] | | |
+| [[2_Samuel_04_11\|2 Samuel 4:11]] | | |
+| [[Joshua_22_22\|Joshua 22:22]] | | |
+| [[Psalms_025_021\|Psalms 25:21]] | | |
+| [[1_Thessalonians_02_10\|1 Thessalonians 2:10]] | | |
+| [[1_Chronicles_29_17\|1 Chronicles 29:17]] | | |
+| [[Daniel_06_22\|Daniel 6:22]] | | |
+
+### 4c. Word studies
+| Word | Page | Finding |
+|---|---|---|
+| said | [[H0559 - amar]] | |
+| She | [[H1931 - huw]] | |
+| Abimelech | [[H0040 - abiymelek]] | |
+| Abraham | [[H0085 - abraham]] | |
+| wife | [[H0802 - ishshah]] | |
+| all | [[H3605 - kol]] | |
+| I have done | [[H6213 - asah]] | |
+| God | [[H0430 - elohiym]] | |
+| . . . | [[H1571 - gam]] | |
+| Sarah | [[H8283 - sarah]] | |
+| had happened | [[H1697 - dabar]] | |
+| - | [[H2009 - hinneh]] | |
+
+### 4d. Genre-specific questions
+#### Module: OT Narrative
+**Questions**
+- N1. Where is this in the book's larger movement and the covenant story? →
+- N2. What are the scenes, and where do they change (time, place, characters)? →
+- N3. What are the setting, tension, climax, and resolution? →
+- N4. Who is the narrator, and what does he evaluate vs. only report? →
+- N5. Which words or phrases repeat (Leitwort)? →
+- N6. How are characters introduced and described? →
+- N7. What is said by characters vs. by the narrator? →
+- N8. Where is God acting even when not named? →
+- N9. Which divine speech or action is explicit? →
+- N10. Is the character a model, a warning, or neither? (descriptive ≠ prescriptive) →
+- N11. What is not said (gaps), and what is implied? →
+- N12. How does the story connect to earlier covenants (Abrahamic, Mosaic, Davidic)? →
+- N13. What typology or foreshadowing points to Christ? (Use only what the text supports.) →
+- N14. What literary patterns appear (chiasm, inclusio, type scenes, doublets)? →
+- N15. What does this reveal about God's character? →
+- N16. What does it reveal about human nature and sin? →
+- N17. How does it advance the promise (seed, land, blessing, kingdom)? →
+- N18. What is the cultural or ANE background? →
+- N19. How does the NT use or refer to this story? →
+- N20. What does the story ask of its readers? →
+
+**Plot arc**
+| Stage | Verses | What happens |
+|---|---|---|
+| Setting | | |
+| Inciting event | | |
+| Rising tension | | |
+| Climax | | |
+| Resolution | | |
+| Epilogue / aftermath | | |
+
+**Characters**
+| Character | Role | Faith / failure | Narrator's evaluation | Model / warning / neither |
+|---|---|---|---|---|
+| | | | | |
+
+
+### 4e. Original-audience meaning
+One paragraph: what did this mean to those who first received it?
+
+
+### 4f. Main point (one sentence)
+> 
+
+### 4g. Christ and redemptive history
+- Where in the storyline (creation · fall · Israel · Christ · church · consummation)? 
+- How does it point to or fulfill in Christ? 
+- Caution: show the text's own connection; don't force one.
+
+### 4h. Doctrines touched
+| Doctrine | Page | Agrees with the whole counsel of Scripture? |
+|---|---|---|
+| | [[Doctrines Index]] | |
+
+### 4i. Interpretive difficulties & alternative views
+| View | Proponents / basis | Strengths | Weaknesses |
+|---|---|---|---|
+| A | | | |
+| B | | | |
+| C | | | |
+
+> [!check] What this text **cannot** mean
+> - 
+
+</details>
+
+<details>
+<summary>5. APPLICATION — What do I do?</summary>
+
+### 5a. Timeless principle(s)
+1. 
+
+### 5b. SPECK
+| | Response |
+|---|---|
+| **S**in to confess | |
+| **P**romise to claim | |
+| **E**xample to follow | |
+| **C**ommand to obey | |
+| **K**nowledge of God | |
+
+### 5c. Specific, measurable action this week
+| Action | When | How I'll know it's done |
+|---|---|---|
+| | | |
+
+### 5d. Prayer response
+
+
+### 5e. Memory verse
+![[#^text]]
+
+</details>
+
+<details>
+<summary>6. Teaching / Sharing Notes</summary>
+
+| Item | Notes |
+|---|---|
+| Audience | |
+| Big idea (one sentence) | |
+| Outline (3 points max) | |
+| Illustration | |
+| Discussion questions | |
+| Pitfall to avoid | |
+
+</details>
+
+<details>
+<summary>7. Log of changes to my understanding</summary>
+
+| Date | Old view | New view | What changed it |
+|---|---|---|---|
+| 2026-10-31 | | | |
+
+</details>

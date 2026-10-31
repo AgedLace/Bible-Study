@@ -1,0 +1,53 @@
+---
+type: verse
+ref: "Ezekiel 14:16"
+book: Ezekiel
+book_num: 26
+chapter: 14
+verse: 16
+testament: OT
+strongs: [H7969, H582, H428, H8432, H2416, H589, H5002, H136, H3069, H518, H1121, H1323, H5337, H1992, H905, H776, H1961, H8077]
+tags: [BSB/OT/26__Ezekiel/Ezekiel_14/Ezekiel_14_16, Word_Study/Hebrew/H7969_shalowsh, Word_Study/Hebrew/H0582_enowsh, Word_Study/Hebrew/H0428_el-leh, Word_Study/Hebrew/H8432_tavek, Word_Study/Hebrew/H2416_chay, Word_Study/Hebrew/H0589_aniy, Word_Study/Hebrew/H5002_neum, Word_Study/Hebrew/H0136_adonay, Word_Study/Hebrew/H3069_yehovih, Word_Study/Hebrew/H0518_im, Word_Study/Hebrew/H1121_ben, Word_Study/Hebrew/H1323_bath, Word_Study/Hebrew/H5337_natsal, Word_Study/Hebrew/H1992_hem, Word_Study/Hebrew/H0905_bad, Word_Study/Hebrew/H0776_erets, Word_Study/Hebrew/H1961_hayah, Word_Study/Hebrew/H8077_shemamah]
+prev: Ezekiel_14_15
+next: Ezekiel_14_17
+---
+# Ezekiel 14:16
+
+> [!quote] BSB
+> "then as surely as I live, declares the Lord GOD, even if these three men were in it, they could not deliver their own sons or daughters. They alone would be delivered, but the land would be desolate." ^text
+
+[[Ezekiel_14_15|← Ezekiel 14:15]] · [[Ezekiel_14|↑ Ezekiel 14]] · [[Ezekiel_14_17|Ezekiel 14:17 →]]
+
+**Interlinear**
+
+| Word | Translit | Parsing | Gloss | Strong's |
+|---|---|---|---|---|
+| שְׁלֹ֨שֶׁת | šə·lō·šeṯ | Number-msc<br>Number - masculine singular construct | three | [[H7969 - shalowsh]] |
+| הָאֲנָשִׁ֣ים | hā·’ă·nā·šîm | Art + N-mp<br>Article + Noun - masculine plural | men | [[H0582 - enowsh]] |
+| הָאֵלֶּה֮ | hā·’êl·leh | Art + Pro-cp<br>Article + Pronoun - common plural | even if these | [[H0428 - el-leh]] |
+| בְּתוֹכָהּ֒ | bə·ṯō·w·ḵāh | Prep-b + N-msc + 3fs<br>Preposition-b + Noun - masculine singular construct + third person feminine singular | were in it | [[H8432 - tavek]] |
+| חַי־ | ḥay- | N-ms<br>Noun - masculine singular | as I live | [[H2416 - chay]] |
+| אָ֗נִי | ’ā·nî | Pro-1cs<br>Pronoun - first person common singular | then as surely | [[H0589 - aniy]] |
+| נְאֻם֙ | nə·’um | N-msc<br>Noun - masculine singular construct | declares | [[H5002 - neum]] |
+| אֲדֹנָ֣י | ’ă·ḏō·nāy | N-proper-ms<br>Noun - proper - masculine singular | the Lord | [[H0136 - adonay]] |
+| יְהוִ֔ה | Yah·weh | N-proper-ms<br>Noun - proper - masculine singular | GOD | [[H3069 - yehovih]] |
+| אִם־ | ’im- | Conj<br>Conjunction | they could not | [[H0518 - im]] |
+| בָּנִ֥ים | bā·nîm | N-mp<br>Noun - masculine plural | their own sons | [[H1121 - ben]] |
+| וְאִם־ | wə·’im- | Conj<br>Conjunction | or | [[H0518 - im]] |
+| בָּנ֖וֹת | bā·nō·wṯ | N-fp<br>Noun - feminine plural | daughters | [[H1323 - bath]] |
+| יַצִּ֑ילוּ | yaṣ·ṣî·lū | V-Hifil-Imperf-3mp<br>Verb - Hifil - Imperfect - third person masculine plural | deliver | [[H5337 - natsal]] |
+| הֵ֤מָּה | hêm·māh | Pro-3mp<br>Pronoun - third person masculine plural | They | [[H1992 - hem]] |
+| לְבַדָּם֙ | lə·ḇad·dām | Prep-l + N-msc + 3mp<br>Preposition-l + Noun - masculine singular construct + third person masculine plural | alone | [[H0905 - bad]] |
+| יִנָּצֵ֔לוּ | yin·nā·ṣê·lū | V-Nifal-Imperf-3mp<br>Verb - Nifal - Imperfect - third person masculine plural | would be delivered | [[H5337 - natsal]] |
+| וְהָאָ֖רֶץ | wə·hā·’ā·reṣ | Conj-w, Art + N-fs<br>Conjunctive waw, Article + Noun - feminine singular | but the land | [[H0776 - erets]] |
+| תִּהְיֶ֥ה | tih·yeh | V-Qal-Imperf-3fs<br>Verb - Qal - Imperfect - third person feminine singular | would be | [[H1961 - hayah]] |
+| שְׁמָמָֽה׃ | šə·mā·māh | N-fs<br>Noun - feminine singular | desolate | [[H8077 - shemamah]] |
+**Strong's:** [[H7969 - shalowsh]] · [[H0582 - enowsh]] · [[H0428 - el-leh]] · [[H8432 - tavek]] · [[H2416 - chay]] · [[H0589 - aniy]] · [[H5002 - neum]] · [[H0136 - adonay]] · [[H3069 - yehovih]] · [[H0518 - im]] · [[H1121 - ben]] · [[H0518 - im]] · [[H1323 - bath]] · [[H5337 - natsal]] · [[H1992 - hem]] · [[H0905 - bad]] · [[H5337 - natsal]] · [[H0776 - erets]] · [[H1961 - hayah]] · [[H8077 - shemamah]]
+
+%%XREF-START%%
+## Cross references
+
+Top: [[James_05_16|James 5:16]] · [[Ezekiel_33_11|Ezekiel 33:11]] · [[Job_22_20|Job 22:20]] · [[Ezekiel_14_18|Ezekiel 14:18]] · [[Genesis_19_29|Genesis 19:29]]
+
+See [[XRefs/OT/26__Ezekiel/Ezekiel_14|full list (16)]].
+%%XREF-END%%

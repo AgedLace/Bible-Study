@@ -1,0 +1,115 @@
+---
+type: strongs
+number: G5399
+lang: G
+lemma: "φοβέω"
+translit: "phobéō"
+occurrences: 92
+tags: [Word_Study/Greek, Word_Study/Greek/G5399_phobeo]
+---
+# G5399 — φοβέω
+
+| Lemma | Translit | Pronunciation | Short definition |
+|---|---|---|---|
+| φοβέω | phobéō |  | to frighten |
+
+## Definition
+
+ to frighten, i.e. (passively) to be alarmed; by analogy, to be in awe of, i.e. revere
+
+KJV renders: be (+ sore) afraid, fear (exceedingly), reverence
+
+## Verses (92)
+
+- [[1_John_04_18]]
+- [[1_Peter_02_17]]
+- [[1_Peter_03_06]]
+- [[1_Peter_03_14]]
+- [[2_Corinthians_11_03]]
+- [[2_Corinthians_12_20]]
+- [[Acts_05_26]]
+- [[Acts_09_26]]
+- [[Acts_10_02]]
+- [[Acts_10_22]]
+- [[Acts_10_35]]
+- [[Acts_13_16]]
+- [[Acts_13_26]]
+- [[Acts_16_38]]
+- [[Acts_18_09]]
+- [[Acts_22_29]]
+- [[Acts_23_10]]
+- [[Acts_27_17]]
+- [[Acts_27_24]]
+- [[Acts_27_29]]
+- [[Colossians_03_22]]
+- [[Ephesians_05_33]]
+- [[Galatians_02_12]]
+- [[Galatians_04_11]]
+- [[Hebrews_04_01]]
+- [[Hebrews_11_23]]
+- [[Hebrews_11_27]]
+- [[Hebrews_13_06]]
+- [[John_06_19]]
+- [[John_06_20]]
+- [[John_09_22]]
+- [[John_12_15]]
+- [[John_19_08]]
+- [[Luke_01_13]]
+- [[Luke_01_30]]
+- [[Luke_01_50]]
+- [[Luke_02_09]]
+- [[Luke_02_10]]
+- [[Luke_05_10]]
+- [[Luke_08_25]]
+- [[Luke_08_35]]
+- [[Luke_08_50]]
+- [[Luke_09_34]]
+- [[Luke_09_45]]
+- [[Luke_12_04]]
+- [[Luke_12_05]]
+- [[Luke_12_07]]
+- [[Luke_12_32]]
+- [[Luke_18_02]]
+- [[Luke_18_04]]
+- [[Luke_19_21]]
+- [[Luke_20_19]]
+- [[Luke_22_02]]
+- [[Luke_23_40]]
+- [[Mark_04_41]]
+- [[Mark_05_15]]
+- [[Mark_05_33]]
+- [[Mark_05_36]]
+- [[Mark_06_20]]
+- [[Mark_06_50]]
+- [[Mark_09_32]]
+- [[Mark_10_32]]
+- [[Mark_11_18]]
+- [[Mark_11_32]]
+- [[Mark_12_12]]
+- [[Mark_16_08]]
+- [[Matthew_01_20]]
+- [[Matthew_02_22]]
+- [[Matthew_09_08]]
+- [[Matthew_10_26]]
+- [[Matthew_10_28]]
+- [[Matthew_10_31]]
+- [[Matthew_14_05]]
+- [[Matthew_14_27]]
+- [[Matthew_14_30]]
+- [[Matthew_17_06]]
+- [[Matthew_17_07]]
+- [[Matthew_21_26]]
+- [[Matthew_21_46]]
+- [[Matthew_25_25]]
+- [[Matthew_27_54]]
+- [[Matthew_28_05]]
+- [[Matthew_28_10]]
+- [[Revelation_01_17]]
+- [[Revelation_02_10]]
+- [[Revelation_11_18]]
+- [[Revelation_14_07]]
+- [[Revelation_15_04]]
+- [[Revelation_19_05]]
+- [[Romans_11_20]]
+- [[Romans_13_03]]
+- [[Romans_13_04]]

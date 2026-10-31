@@ -1,0 +1,117 @@
+---
+type: strongs
+number: H1481
+lang: H
+lemma: "גּוּר"
+translit: "gûwr"
+occurrences: 94
+tags: [Word_Study/Hebrew, Word_Study/Hebrew/H1481_guwr]
+---
+# H1481 — גּוּר
+
+| Lemma | Translit | Pronunciation | Short definition |
+|---|---|---|---|
+| גּוּר | gûwr | goor | properly |
+
+## Definition
+
+properly, to turn aside from the road (for a lodging or any other purpose), i.e. sojourn (as a guest); also to shrink, fear (as in a strange place); also to gather forhostility (as afraid)
+
+KJV renders: abide, assemble, be afraid, dwell, fear, gather (together), inhabitant, remain, sojourn, stand in awe, (be) stranger, surely.
+
+## Verses (94)
+
+- [[1_Chronicles_16_19]]
+- [[1_Kings_17_20]]
+- [[1_Samuel_18_15]]
+- [[2_Chronicles_15_09]]
+- [[2_Kings_08_01]]
+- [[2_Kings_08_02]]
+- [[2_Samuel_04_03]]
+- [[Deuteronomy_01_17]]
+- [[Deuteronomy_18_06]]
+- [[Deuteronomy_18_22]]
+- [[Deuteronomy_26_05]]
+- [[Deuteronomy_32_27]]
+- [[Exodus_03_22]]
+- [[Exodus_06_04]]
+- [[Exodus_12_48]]
+- [[Exodus_12_49]]
+- [[Ezekiel_14_07]]
+- [[Ezekiel_47_22]]
+- [[Ezekiel_47_23]]
+- [[Ezra_01_04]]
+- [[Genesis_12_10]]
+- [[Genesis_19_09]]
+- [[Genesis_20_01]]
+- [[Genesis_21_23]]
+- [[Genesis_21_34]]
+- [[Genesis_26_03]]
+- [[Genesis_32_04]]
+- [[Genesis_35_27]]
+- [[Genesis_47_04]]
+- [[Hosea_10_05]]
+- [[Isaiah_05_17]]
+- [[Isaiah_11_06]]
+- [[Isaiah_16_04]]
+- [[Isaiah_23_07]]
+- [[Isaiah_33_14]]
+- [[Isaiah_52_04]]
+- [[Isaiah_54_15]]
+- [[Jeremiah_30_23]]
+- [[Jeremiah_35_07]]
+- [[Jeremiah_42_15]]
+- [[Jeremiah_42_17]]
+- [[Jeremiah_42_22]]
+- [[Jeremiah_43_02]]
+- [[Jeremiah_43_05]]
+- [[Jeremiah_44_08]]
+- [[Jeremiah_44_12]]
+- [[Jeremiah_44_14]]
+- [[Jeremiah_44_28]]
+- [[Jeremiah_49_18]]
+- [[Jeremiah_49_33]]
+- [[Jeremiah_50_40]]
+- [[Job_19_15]]
+- [[Job_19_29]]
+- [[Job_28_04]]
+- [[Job_41_25]]
+- [[Joshua_20_09]]
+- [[Judges_05_17]]
+- [[Judges_17_07]]
+- [[Judges_17_08]]
+- [[Judges_17_09]]
+- [[Judges_19_01]]
+- [[Judges_19_16]]
+- [[Lamentations_04_15]]
+- [[Leviticus_16_29]]
+- [[Leviticus_17_08]]
+- [[Leviticus_17_10]]
+- [[Leviticus_17_12]]
+- [[Leviticus_17_13]]
+- [[Leviticus_18_26]]
+- [[Leviticus_19_33]]
+- [[Leviticus_19_34]]
+- [[Leviticus_20_02]]
+- [[Leviticus_25_06]]
+- [[Leviticus_25_45]]
+- [[Numbers_09_14]]
+- [[Numbers_15_14]]
+- [[Numbers_15_15]]
+- [[Numbers_15_16]]
+- [[Numbers_15_26]]
+- [[Numbers_15_29]]
+- [[Numbers_19_10]]
+- [[Numbers_22_03]]
+- [[Psalms_005_004]]
+- [[Psalms_015_001]]
+- [[Psalms_022_023]]
+- [[Psalms_033_008]]
+- [[Psalms_056_006]]
+- [[Psalms_059_003]]
+- [[Psalms_061_004]]
+- [[Psalms_105_012]]
+- [[Psalms_105_023]]
+- [[Psalms_120_005]]
+- [[Psalms_140_002]]
+- [[Ruth_01_01]]
