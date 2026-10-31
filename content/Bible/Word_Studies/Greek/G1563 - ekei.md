@@ -1,0 +1,117 @@
+---
+type: strongs
+number: G1563
+lang: G
+lemma: "ἐκεῖ"
+translit: "ekeî"
+occurrences: 94
+tags: [Word_Study/Greek, Word_Study/Greek/G1563_ekei]
+---
+# G1563 — ἐκεῖ
+
+| Lemma | Translit | Pronunciation | Short definition |
+|---|---|---|---|
+| ἐκεῖ | ekeî |  | there |
+
+## Definition
+
+ there; by extension, thither
+
+KJV renders: there, thither(-ward), (to) yonder (place)
+
+## Verses (94)
+
+- [[Acts_09_33]]
+- [[Acts_16_01]]
+- [[Acts_17_14]]
+- [[Acts_19_21]]
+- [[Acts_25_09]]
+- [[Acts_25_14]]
+- [[Hebrews_07_08]]
+- [[James_02_03]]
+- [[James_03_16]]
+- [[James_04_13]]
+- [[John_02_01]]
+- [[John_02_06]]
+- [[John_02_12]]
+- [[John_03_22]]
+- [[John_03_23]]
+- [[John_04_06]]
+- [[John_04_40]]
+- [[John_05_05]]
+- [[John_06_03]]
+- [[John_06_22]]
+- [[John_06_24]]
+- [[John_10_40]]
+- [[John_10_42]]
+- [[John_11_08]]
+- [[John_11_15]]
+- [[John_11_31]]
+- [[John_12_02]]
+- [[John_12_09]]
+- [[John_12_26]]
+- [[John_18_02]]
+- [[John_18_03]]
+- [[John_19_42]]
+- [[Luke_02_06]]
+- [[Luke_06_06]]
+- [[Luke_08_32]]
+- [[Luke_09_04]]
+- [[Luke_10_06]]
+- [[Luke_11_26]]
+- [[Luke_12_18]]
+- [[Luke_12_34]]
+- [[Luke_13_28]]
+- [[Luke_15_13]]
+- [[Luke_17_21]]
+- [[Luke_17_23]]
+- [[Luke_17_37]]
+- [[Luke_21_02]]
+- [[Luke_22_12]]
+- [[Luke_23_33]]
+- [[Mark_01_38]]
+- [[Mark_02_06]]
+- [[Mark_03_01]]
+- [[Mark_05_11]]
+- [[Mark_06_05]]
+- [[Mark_06_10]]
+- [[Mark_06_33]]
+- [[Mark_11_05]]
+- [[Mark_13_21]]
+- [[Mark_14_15]]
+- [[Mark_16_07]]
+- [[Matthew_02_13]]
+- [[Matthew_02_15]]
+- [[Matthew_02_22]]
+- [[Matthew_05_24]]
+- [[Matthew_06_21]]
+- [[Matthew_08_12]]
+- [[Matthew_12_45]]
+- [[Matthew_13_42]]
+- [[Matthew_13_50]]
+- [[Matthew_13_58]]
+- [[Matthew_14_23]]
+- [[Matthew_15_29]]
+- [[Matthew_17_20]]
+- [[Matthew_18_20]]
+- [[Matthew_19_02]]
+- [[Matthew_21_17]]
+- [[Matthew_22_11]]
+- [[Matthew_22_13]]
+- [[Matthew_24_28]]
+- [[Matthew_24_51]]
+- [[Matthew_25_30]]
+- [[Matthew_26_36]]
+- [[Matthew_26_71]]
+- [[Matthew_27_36]]
+- [[Matthew_27_47]]
+- [[Matthew_27_55]]
+- [[Matthew_27_61]]
+- [[Matthew_28_07]]
+- [[Revelation_02_14]]
+- [[Revelation_12_06]]
+- [[Revelation_12_14]]
+- [[Revelation_21_25]]
+- [[Romans_09_26]]
+- [[Romans_15_24]]
+- [[Titus_03_12]]

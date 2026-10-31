@@ -1,0 +1,54 @@
+---
+type: verse
+ref: "2 Chronicles 10:9"
+book: 2 Chronicles
+book_num: 14
+chapter: 10
+verse: 9
+testament: OT
+strongs: [H559, H413, H4100, H859, H3289, H7725, H1697, H853, H5971, H2088, H834, H1696, H7043, H4480, H5923, H5414, H1, H5921]
+tags: [BSB/OT/14__2_Chronicles/2_Chronicles_10/2_Chronicles_10_09, Word_Study/Hebrew/H0559_amar, Word_Study/Hebrew/H0413_el, Word_Study/Hebrew/H4100_mah, Word_Study/Hebrew/H0859_attah, Word_Study/Hebrew/H3289_yaats, Word_Study/Hebrew/H7725_shuwb, Word_Study/Hebrew/H1697_dabar, Word_Study/Hebrew/H0853_eth, Word_Study/Hebrew/H5971_am, Word_Study/Hebrew/H2088_zeh, Word_Study/Hebrew/H0834_asher, Word_Study/Hebrew/H1696_dabar, Word_Study/Hebrew/H7043_qalal, Word_Study/Hebrew/H4480_min, Word_Study/Hebrew/H5923_ol, Word_Study/Hebrew/H5414_nathan, Word_Study/Hebrew/H0001_ab, Word_Study/Hebrew/H5921_al]
+prev: 2_Chronicles_10_08
+next: 2_Chronicles_10_10
+---
+# 2 Chronicles 10:9
+
+> [!quote] BSB
+> "He asked them, “What message do you advise that we send back to these people who have spoken to me, saying, ‘Lighten the yoke your father put on us’?”" ^text
+
+[[2_Chronicles_10_08|← 2 Chronicles 10:8]] · [[2_Chronicles_10|↑ 2 Chronicles 10]] · [[2_Chronicles_10_10|2 Chronicles 10:10 →]]
+
+**Interlinear**
+
+| Word | Translit | Parsing | Gloss | Strong's |
+|---|---|---|---|---|
+| וַיֹּ֣אמֶר | way·yō·mer | Conj-w + V-Qal-ConsecImperf-3ms<br>Conjunctive waw + Verb - Qal - Consecutive imperfect - third person masculine singular | He asked | [[H0559 - amar]] |
+| אֲלֵהֶ֗ם | ’ă·lê·hem | Prep + 3mp<br>Preposition + third person masculine plural | them | [[H0413 - el]] |
+| מָ֚ה | māh | Interrog<br>Interrogative | What | [[H4100 - mah]] |
+| אַתֶּ֣ם | ’at·tem | Pro-2mp<br>Pronoun - second person masculine plural | do you | [[H0859 - attah]] |
+| נֽוֹעָצִ֔ים | nō·w·‘ā·ṣîm | V-Nifal-Prtcpl-mp<br>Verb - Nifal - Participle - masculine plural | advise | [[H3289 - yaats]] |
+| וְנָשִׁ֥יב | wə·nā·šîḇ | Conj-w + V-Hifil-ConjImperf-1cp<br>Conjunctive waw + Verb - Hifil - Conjunctive imperfect - first person common plural | that we send back | [[H7725 - shuwb]] |
+| דָּבָ֖ר | dā·ḇār | N-ms<br>Noun - masculine singular | message | [[H1697 - dabar]] |
+| אֶת־ | ’eṯ- | DirObjM<br>Direct object marker | - | [[H0853 - eth]] |
+| הָעָ֣ם | hā·‘ām | Art + N-ms<br>Article + Noun - masculine singular | people | [[H5971 - am]] |
+| הַזֶּ֑ה | haz·zeh | Art + Pro-ms<br>Article + Pronoun - masculine singular | to these | [[H2088 - zeh]] |
+| אֲשֶׁ֨ר | ’ă·šer | Pro-r<br>Pronoun - relative | who | [[H0834 - asher]] |
+| דִּבְּר֤וּ | dib·bə·rū | V-Piel-Perf-3cp<br>Verb - Piel - Perfect - third person common plural | have spoken | [[H1696 - dabar]] |
+| אֵלַי֙ | ’ê·lay | Prep + 1cs<br>Preposition + first person common singular | to me | [[H0413 - el]] |
+| לֵאמֹ֔ר | lê·mōr | Prep-l + V-Qal-Inf<br>Preposition-l + Verb - Qal - Infinitive construct | saying | [[H0559 - amar]] |
+| הָקֵל֙ | hā·qêl | V-Hifil-Imp-ms<br>Verb - Hifil - Imperative - masculine singular | Lighten | [[H7043 - qalal]] |
+| מִן־ | min- | Prep<br>Preposition | . . . | [[H4480 - min]] |
+| הָעֹ֔ל | hā·‘ōl | Art + N-ms<br>Article + Noun - masculine singular | the yoke | [[H5923 - ol]] |
+| אֲשֶׁר־ | ’ă·šer- | Pro-r<br>Pronoun - relative | - | [[H0834 - asher]] |
+| נָתַ֥ן | nā·ṯan | V-Qal-Perf-3ms<br>Verb - Qal - Perfect - third person masculine singular | put | [[H5414 - nathan]] |
+| אָבִ֖יךָ | ’ā·ḇî·ḵā | N-msc + 2ms<br>Noun - masculine singular construct + second person masculine singular | your father | [[H0001 - ab]] |
+| עָלֵֽינוּ׃ | ‘ā·lê·nū | Prep + 1cp<br>Preposition + first person common plural | on us | [[H5921 - al]] |
+**Strong's:** [[H0559 - amar]] · [[H0413 - el]] · [[H4100 - mah]] · [[H0859 - attah]] · [[H3289 - yaats]] · [[H7725 - shuwb]] · [[H1697 - dabar]] · [[H0853 - eth]] · [[H5971 - am]] · [[H2088 - zeh]] · [[H0834 - asher]] · [[H1696 - dabar]] · [[H0413 - el]] · [[H0559 - amar]] · [[H7043 - qalal]] · [[H4480 - min]] · [[H5923 - ol]] · [[H0834 - asher]] · [[H5414 - nathan]] · [[H0001 - ab]] · [[H5921 - al]]
+
+%%XREF-START%%
+## Cross references
+
+Top: [[1_Kings_22_06|1 Kings 22:6]] · [[1_Kings_22_08|1 Kings 22:8]] · [[2_Samuel_17_05|2 Samuel 17:5]] · [[2_Samuel_17_06|2 Samuel 17:6]] · [[2_Chronicles_10_06|2 Chronicles 10:6]]
+
+See [[XRefs/OT/14__2_Chronicles/2_Chronicles_10|full list (5)]].
+%%XREF-END%%

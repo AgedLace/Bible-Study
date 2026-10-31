@@ -1,0 +1,516 @@
+---
+type: xref-index
+ref: "1 Kings 14 cross references"
+book: 1 Kings
+chapter: 14
+verses: 31
+xrefs: 414
+---
+# 1 Kings 14 cross references
+
+## 1 Kings 14:1 (9)
+
+- [[1_Kings_13_33|1 Kings 13:33]]
+- [[1_Kings_13_34|1 Kings 13:34]]
+- [[Exodus_20_05|Exodus 20:5]]
+- [[2_Samuel_12_15|2 Samuel 12:15]]
+- [[1_Samuel_04_19|1 Samuel 4:19]]
+- [[1_Samuel_04_20|1 Samuel 4:20]]
+- [[1_Samuel_31_02|1 Samuel 31:2]]
+- [[1_Kings_14_12|1 Kings 14:12]]
+- [[1_Kings_14_13|1 Kings 14:13]]
+
+## 1 Kings 14:2 (10)
+
+- [[Luke_12_02|Luke 12:2]]
+- [[1_Kings_14_05|1 Kings 14:5]]
+- [[1_Kings_14_06|1 Kings 14:6]]
+- [[1_Samuel_28_08|1 Samuel 28:8]]
+- [[2_Samuel_14_02|2 Samuel 14:2]]
+- [[1_Kings_11_29|1 Kings 11:29]]
+- [[1_Kings_11_38|1 Kings 11:38]]
+- [[1_Kings_22_30|1 Kings 22:30]]
+- [[2_Chronicles_18_29|2 Chronicles 18:29]]
+- [[Joshua_18_01|Joshua 18:1]]
+
+## 1 Kings 14:3 (14)
+
+- [[John_04_47|John 4:47]]
+- [[John_04_48|John 4:48]]
+- [[2_Kings_01_02|2 Kings 1:2]]
+- [[John_11_03|John 11:3]]
+- [[2_Kings_04_42|2 Kings 4:42]]
+- [[1_Kings_13_07|1 Kings 13:7]]
+- [[2_Kings_08_07|2 Kings 8:7]]
+- [[2_Kings_08_09|2 Kings 8:9]]
+- [[1_Samuel_09_07|1 Samuel 9:7]]
+- [[1_Samuel_09_08|1 Samuel 9:8]]
+- [[2_Kings_05_05|2 Kings 5:5]]
+- [[2_Kings_05_15|2 Kings 5:15]]
+- [[Luke_07_02|Luke 7:2]]
+- [[Luke_07_03|Luke 7:3]]
+
+## 1 Kings 14:4 (14)
+
+- [[Ecclesiastes_12_03|Ecclesiastes 12:3]]
+- [[Genesis_48_10|Genesis 48:10]]
+- [[Psalms_090_010|Psalms 90:10]]
+- [[1_Samuel_04_03|1 Samuel 4:3]]
+- [[1_Samuel_04_04|1 Samuel 4:4]]
+- [[1_Samuel_04_15|1 Samuel 4:15]]
+- [[1_Samuel_03_02|1 Samuel 3:2]]
+- [[Deuteronomy_34_07|Deuteronomy 34:7]]
+- [[Joshua_18_01|Joshua 18:1]]
+- [[Genesis_27_01|Genesis 27:1]]
+- [[Jeremiah_07_12|Jeremiah 7:12]]
+- [[Jeremiah_07_14|Jeremiah 7:14]]
+- [[1_Kings_11_29|1 Kings 11:29]]
+- [[1_Kings_14_02|1 Kings 14:2]]
+
+## 1 Kings 14:5 (9)
+
+- [[2_Kings_04_27|2 Kings 4:27]]
+- [[Proverbs_21_30|Proverbs 21:30]]
+- [[Amos_03_07|Amos 3:7]]
+- [[Psalms_139_001|Psalms 139:1]]
+- [[Psalms_139_004|Psalms 139:4]]
+- [[2_Kings_06_08|2 Kings 6:8]]
+- [[2_Kings_06_12|2 Kings 6:12]]
+- [[Acts_10_19|Acts 10:19]]
+- [[Acts_10_20|Acts 10:20]]
+
+## 1 Kings 14:6 (35)
+
+- [[Hebrews_04_13|Hebrews 4:13]]
+- [[Luke_20_20|Luke 20:20]]
+- [[Luke_20_23|Luke 20:23]]
+- [[1_Kings_14_10|1 Kings 14:10]]
+- [[1_Kings_14_11|1 Kings 14:11]]
+- [[Mark_14_21|Mark 14:21]]
+- [[Acts_05_09|Acts 5:9]]
+- [[Acts_05_10|Acts 5:10]]
+- [[Daniel_04_19|Daniel 4:19]]
+- [[Daniel_04_25|Daniel 4:25]]
+- [[Jeremiah_21_02|Jeremiah 21:2]]
+- [[Jeremiah_21_07|Jeremiah 21:7]]
+- [[Daniel_05_17|Daniel 5:17]]
+- [[Daniel_05_28|Daniel 5:28]]
+- [[Ezekiel_14_07|Ezekiel 14:7]]
+- [[Ezekiel_14_08|Ezekiel 14:8]]
+- [[1_Kings_14_05|1 Kings 14:5]]
+- [[Psalms_033_010|Psalms 33:10]]
+- [[1_Kings_14_02|1 Kings 14:2]]
+- [[1_Kings_20_42|1 Kings 20:42]]
+- [[Ezekiel_02_04|Ezekiel 2:4]]
+- [[Ezekiel_02_05|Ezekiel 2:5]]
+- [[1_Samuel_28_18|1 Samuel 28:18]]
+- [[Ezekiel_14_03|Ezekiel 14:3]]
+- [[Ezekiel_14_05|Ezekiel 14:5]]
+- [[1_Samuel_15_26|1 Samuel 15:26]]
+- [[Acts_05_03|Acts 5:3]]
+- [[Acts_05_05|Acts 5:5]]
+- [[1_Kings_21_18|1 Kings 21:18]]
+- [[1_Kings_21_24|1 Kings 21:24]]
+- [[1_Kings_22_08|1 Kings 22:8]]
+- [[Job_05_13|Job 5:13]]
+- [[1_Samuel_15_16|1 Samuel 15:16]]
+- [[1_Kings_13_20|1 Kings 13:20]]
+- [[1_Kings_13_22|1 Kings 13:22]]
+
+## 1 Kings 14:7 (7)
+
+- [[1_Kings_12_24|1 Kings 12:24]]
+- [[2_Samuel_12_07|2 Samuel 12:7]]
+- [[2_Samuel_12_08|2 Samuel 12:8]]
+- [[1_Samuel_02_27|1 Samuel 2:27]]
+- [[1_Samuel_02_30|1 Samuel 2:30]]
+- [[1_Samuel_15_16|1 Samuel 15:16]]
+- [[1_Kings_16_02|1 Kings 16:2]]
+
+## 1 Kings 14:8 (10)
+
+- [[1_Kings_03_14|1 Kings 3:14]]
+- [[2_Chronicles_28_01|2 Chronicles 28:1]]
+- [[Acts_13_22|Acts 13:22]]
+- [[Acts_13_36|Acts 13:36]]
+- [[1_Kings_15_05|1 Kings 15:5]]
+- [[1_Kings_11_33|1 Kings 11:33]]
+- [[1_Kings_11_38|1 Kings 11:38]]
+- [[1_Kings_11_30|1 Kings 11:30]]
+- [[1_Kings_11_31|1 Kings 11:31]]
+- [[2_Chronicles_17_03|2 Chronicles 17:3]]
+
+## 1 Kings 14:9 (38)
+
+- [[1_Kings_16_31|1 Kings 16:31]]
+- [[Ezekiel_23_35|Ezekiel 23:35]]
+- [[Deuteronomy_09_24|Deuteronomy 9:24]]
+- [[1_Corinthians_10_22|1 Corinthians 10:22]]
+- [[1_Kings_14_16|1 Kings 14:16]]
+- [[Isaiah_44_09|Isaiah 44:9]]
+- [[Isaiah_44_20|Isaiah 44:20]]
+- [[Deuteronomy_09_08|Deuteronomy 9:8]]
+- [[Deuteronomy_09_16|Deuteronomy 9:16]]
+- [[2_Chronicles_33_06|2 Chronicles 33:6]]
+- [[1_Kings_15_34|1 Kings 15:34]]
+- [[1_Kings_13_33|1 Kings 13:33]]
+- [[1_Kings_13_34|1 Kings 13:34]]
+- [[1_Kings_14_22|1 Kings 14:22]]
+- [[Nehemiah_09_26|Nehemiah 9:26]]
+- [[Exodus_34_17|Exodus 34:17]]
+- [[Ezekiel_08_17|Ezekiel 8:17]]
+- [[Psalms_106_019|Psalms 106:19]]
+- [[Psalms_106_020|Psalms 106:20]]
+- [[2_Chronicles_11_15|2 Chronicles 11:15]]
+- [[Psalms_115_004|Psalms 115:4]]
+- [[Psalms_115_008|Psalms 115:8]]
+- [[Judges_05_08|Judges 5:8]]
+- [[Jeremiah_10_14|Jeremiah 10:14]]
+- [[Jeremiah_10_16|Jeremiah 10:16]]
+- [[2_Kings_23_26|2 Kings 23:26]]
+- [[Jeremiah_07_09|Jeremiah 7:9]]
+- [[Jeremiah_07_10|Jeremiah 7:10]]
+- [[Psalms_106_029|Psalms 106:29]]
+- [[2_Kings_21_03|2 Kings 21:3]]
+- [[Psalms_078_040|Psalms 78:40]]
+- [[Deuteronomy_32_16|Deuteronomy 32:16]]
+- [[Deuteronomy_32_17|Deuteronomy 32:17]]
+- [[1_Kings_12_28|1 Kings 12:28]]
+- [[Psalms_078_056|Psalms 78:56]]
+- [[Psalms_050_017|Psalms 50:17]]
+- [[Deuteronomy_32_21|Deuteronomy 32:21]]
+- [[Ezekiel_08_03|Ezekiel 8:3]]
+
+## 1 Kings 14:10 (25)
+
+- [[1_Samuel_25_22|1 Samuel 25:22]]
+- [[Psalms_083_010|Psalms 83:10]]
+- [[Isaiah_14_19|Isaiah 14:19]]
+- [[2_Kings_14_26|2 Kings 14:26]]
+- [[Jeremiah_08_02|Jeremiah 8:2]]
+- [[Job_20_07|Job 20:7]]
+- [[2_Kings_09_08|2 Kings 9:8]]
+- [[2_Kings_09_09|2 Kings 9:9]]
+- [[2_Kings_21_13|2 Kings 21:13]]
+- [[1_Kings_15_25|1 Kings 15:25]]
+- [[1_Kings_15_30|1 Kings 15:30]]
+- [[Malachi_02_03|Malachi 2:3]]
+- [[1_Kings_16_11|1 Kings 16:11]]
+- [[Ezekiel_26_04|Ezekiel 26:4]]
+- [[2_Kings_09_37|2 Kings 9:37]]
+- [[Amos_03_06|Amos 3:6]]
+- [[Deuteronomy_32_36|Deuteronomy 32:36]]
+- [[1_Samuel_25_34|1 Samuel 25:34]]
+- [[1_Samuel_02_30|1 Samuel 2:30]]
+- [[Isaiah_05_25|Isaiah 5:25]]
+- [[Zephaniah_01_17|Zephaniah 1:17]]
+- [[1_Kings_21_21|1 Kings 21:21]]
+- [[Isaiah_14_23|Isaiah 14:23]]
+- [[Luke_14_34|Luke 14:34]]
+- [[Luke_14_35|Luke 14:35]]
+
+## 1 Kings 14:11 (10)
+
+- [[Jeremiah_15_03|Jeremiah 15:3]]
+- [[Revelation_19_17|Revelation 19:17]]
+- [[Revelation_19_18|Revelation 19:18]]
+- [[1_Kings_21_19|1 Kings 21:19]]
+- [[Isaiah_66_24|Isaiah 66:24]]
+- [[1_Kings_16_04|1 Kings 16:4]]
+- [[Ezekiel_39_17|Ezekiel 39:17]]
+- [[Ezekiel_39_19|Ezekiel 39:19]]
+- [[1_Kings_21_23|1 Kings 21:23]]
+- [[1_Kings_21_24|1 Kings 21:24]]
+
+## 1 Kings 14:12 (7)
+
+- [[1_Kings_14_16|1 Kings 14:16]]
+- [[1_Kings_14_17|1 Kings 14:17]]
+- [[2_Kings_01_06|2 Kings 1:6]]
+- [[2_Kings_01_16|2 Kings 1:16]]
+- [[1_Kings_14_03|1 Kings 14:3]]
+- [[John_04_50|John 4:50]]
+- [[John_04_52|John 4:52]]
+
+## 1 Kings 14:13 (11)
+
+- [[2_Peter_02_08|2 Peter 2:8]]
+- [[2_Peter_02_09|2 Peter 2:9]]
+- [[2_Chronicles_12_12|2 Chronicles 12:12]]
+- [[Jeremiah_22_18|Jeremiah 22:18]]
+- [[Job_19_28|Job 19:28]]
+- [[Philemon_01_06|Philemon 1:6]]
+- [[Numbers_20_29|Numbers 20:29]]
+- [[2_Chronicles_19_03|2 Chronicles 19:3]]
+- [[Ezekiel_18_14|Ezekiel 18:14]]
+- [[Ezekiel_18_32|Ezekiel 18:32]]
+- [[Jeremiah_22_10|Jeremiah 22:10]]
+
+## 1 Kings 14:14 (9)
+
+- [[Ecclesiastes_08_11|Ecclesiastes 8:11]]
+- [[James_05_09|James 5:9]]
+- [[2_Peter_02_03|2 Peter 2:3]]
+- [[Ezekiel_12_22|Ezekiel 12:22]]
+- [[Ezekiel_12_28|Ezekiel 12:28]]
+- [[Ezekiel_07_02|Ezekiel 7:2]]
+- [[Ezekiel_07_07|Ezekiel 7:7]]
+- [[1_Kings_15_27|1 Kings 15:27]]
+- [[1_Kings_15_29|1 Kings 15:29]]
+
+## 1 Kings 14:15 (37)
+
+- [[Exodus_34_13|Exodus 34:13]]
+- [[Exodus_34_14|Exodus 34:14]]
+- [[Amos_02_09|Amos 2:9]]
+- [[Deuteronomy_04_26|Deuteronomy 4:26]]
+- [[Deuteronomy_04_27|Deuteronomy 4:27]]
+- [[2_Kings_17_23|2 Kings 17:23]]
+- [[Proverbs_02_22|Proverbs 2:22]]
+- [[Joshua_23_15|Joshua 23:15]]
+- [[Joshua_23_16|Joshua 23:16]]
+- [[Psalms_052_005|Psalms 52:5]]
+- [[Deuteronomy_29_24|Deuteronomy 29:24]]
+- [[Deuteronomy_29_28|Deuteronomy 29:28]]
+- [[1_Kings_14_09|1 Kings 14:9]]
+- [[Matthew_15_13|Matthew 15:13]]
+- [[2_Kings_15_29|2 Kings 15:29]]
+- [[Leviticus_26_32|Leviticus 26:32]]
+- [[Leviticus_26_34|Leviticus 26:34]]
+- [[Leviticus_26_43|Leviticus 26:43]]
+- [[Luke_07_24|Luke 7:24]]
+- [[Deuteronomy_28_63|Deuteronomy 28:63]]
+- [[Deuteronomy_28_68|Deuteronomy 28:68]]
+- [[2_Kings_18_11|2 Kings 18:11]]
+- [[2_Kings_18_12|2 Kings 18:12]]
+- [[Zephaniah_02_04|Zephaniah 2:4]]
+- [[2_Kings_17_06|2 Kings 17:6]]
+- [[2_Kings_17_07|2 Kings 17:7]]
+- [[1_Samuel_12_25|1 Samuel 12:25]]
+- [[Isaiah_01_28|Isaiah 1:28]]
+- [[Isaiah_01_29|Isaiah 1:29]]
+- [[Matthew_11_07|Matthew 11:7]]
+- [[Acts_07_43|Acts 7:43]]
+- [[Amos_05_27|Amos 5:27]]
+- [[Deuteronomy_28_36|Deuteronomy 28:36]]
+- [[1_Kings_14_23|1 Kings 14:23]]
+- [[1_Kings_14_24|1 Kings 14:24]]
+- [[Deuteronomy_12_03|Deuteronomy 12:3]]
+- [[Deuteronomy_12_04|Deuteronomy 12:4]]
+
+## 1 Kings 14:16 (19)
+
+- [[Matthew_18_07|Matthew 18:7]]
+- [[Hosea_09_16|Hosea 9:16]]
+- [[Hosea_09_17|Hosea 9:17]]
+- [[1_Kings_16_02|1 Kings 16:2]]
+- [[1_Kings_13_34|1 Kings 13:34]]
+- [[1_Kings_12_30|1 Kings 12:30]]
+- [[Isaiah_40_24|Isaiah 40:24]]
+- [[Psalms_081_012|Psalms 81:12]]
+- [[Romans_14_13|Romans 14:13]]
+- [[Hosea_09_11|Hosea 9:11]]
+- [[Hosea_09_12|Hosea 9:12]]
+- [[Exodus_32_21|Exodus 32:21]]
+- [[1_Kings_15_34|1 Kings 15:34]]
+- [[Jeremiah_05_31|Jeremiah 5:31]]
+- [[Hosea_05_11|Hosea 5:11]]
+- [[Hosea_05_12|Hosea 5:12]]
+- [[Micah_06_16|Micah 6:16]]
+- [[1_Kings_15_30|1 Kings 15:30]]
+- [[Exodus_32_35|Exodus 32:35]]
+
+## 1 Kings 14:17 (14)
+
+- [[1_Samuel_04_18|1 Samuel 4:18]]
+- [[1_Samuel_04_20|1 Samuel 4:20]]
+- [[Joshua_12_24|Joshua 12:24]]
+- [[Song_of_Solomon_06_04|Song of Solomon 6:4]]
+- [[1_Kings_16_23|1 Kings 16:23]]
+- [[1_Kings_14_12|1 Kings 14:12]]
+- [[1_Kings_14_13|1 Kings 14:13]]
+- [[1_Samuel_02_20|1 Samuel 2:20]]
+- [[1_Samuel_02_34|1 Samuel 2:34]]
+- [[1_Kings_15_33|1 Kings 15:33]]
+- [[1_Kings_15_21|1 Kings 15:21]]
+- [[1_Kings_16_06|1 Kings 16:6]]
+- [[1_Kings_16_09|1 Kings 16:9]]
+- [[1_Kings_16_15|1 Kings 16:15]]
+
+## 1 Kings 14:18 (1)
+
+- [[1_Kings_14_13|1 Kings 14:13]]
+
+## 1 Kings 14:19 (12)
+
+- [[1_Chronicles_27_24|1 Chronicles 27:24]]
+- [[1_Kings_22_39|1 Kings 22:39]]
+- [[1_Kings_16_27|1 Kings 16:27]]
+- [[Esther_06_01|Esther 6:1]]
+- [[1_Kings_16_14|1 Kings 16:14]]
+- [[1_Kings_16_05|1 Kings 16:5]]
+- [[1_Kings_16_20|1 Kings 16:20]]
+- [[1_Kings_14_29|1 Kings 14:29]]
+- [[1_Kings_14_30|1 Kings 14:30]]
+- [[1_Kings_15_31|1 Kings 15:31]]
+- [[2_Chronicles_13_02|2 Chronicles 13:2]]
+- [[2_Chronicles_13_20|2 Chronicles 13:20]]
+
+## 1 Kings 14:20 (7)
+
+- [[Job_14_12|Job 14:12]]
+- [[1_Kings_15_25|1 Kings 15:25]]
+- [[1_Kings_15_31|1 Kings 15:31]]
+- [[Psalms_003_005|Psalms 3:5]]
+- [[1_Kings_11_43|1 Kings 11:43]]
+- [[Psalms_004_008|Psalms 4:8]]
+- [[1_Kings_02_10|1 Kings 2:10]]
+
+## 1 Kings 14:21 (19)
+
+- [[Exodus_20_24|Exodus 20:24]]
+- [[Deuteronomy_12_05|Deuteronomy 12:5]]
+- [[Isaiah_12_06|Isaiah 12:6]]
+- [[Deuteronomy_12_21|Deuteronomy 12:21]]
+- [[2_Chronicles_12_13|2 Chronicles 12:13]]
+- [[1_Kings_11_32|1 Kings 11:32]]
+- [[1_Kings_08_16|1 Kings 8:16]]
+- [[Psalms_132_013|Psalms 132:13]]
+- [[Psalms_132_014|Psalms 132:14]]
+- [[1_Kings_08_44|1 Kings 8:44]]
+- [[Deuteronomy_23_03|Deuteronomy 23:3]]
+- [[Psalms_087_001|Psalms 87:1]]
+- [[Psalms_087_002|Psalms 87:2]]
+- [[Psalms_078_068|Psalms 78:68]]
+- [[Psalms_078_069|Psalms 78:69]]
+- [[1_Kings_11_36|1 Kings 11:36]]
+- [[1_Kings_11_43|1 Kings 11:43]]
+- [[2_Chronicles_13_07|2 Chronicles 13:7]]
+- [[1_Kings_14_31|1 Kings 14:31]]
+
+## 1 Kings 14:22 (21)
+
+- [[1_Kings_16_30|1 Kings 16:30]]
+- [[1_Kings_14_09|1 Kings 14:9]]
+- [[Deuteronomy_04_24|Deuteronomy 4:24]]
+- [[2_Chronicles_12_14|2 Chronicles 12:14]]
+- [[Isaiah_65_03|Isaiah 65:3]]
+- [[Isaiah_65_04|Isaiah 65:4]]
+- [[2_Kings_21_11|2 Kings 21:11]]
+- [[Psalms_078_058|Psalms 78:58]]
+- [[2_Kings_17_19|2 Kings 17:19]]
+- [[Judges_04_01|Judges 4:1]]
+- [[1_Corinthians_10_22|1 Corinthians 10:22]]
+- [[Judges_03_12|Judges 3:12]]
+- [[Jeremiah_03_07|Jeremiah 3:7]]
+- [[Jeremiah_03_11|Jeremiah 3:11]]
+- [[Ezekiel_16_47|Ezekiel 16:47]]
+- [[Ezekiel_16_48|Ezekiel 16:48]]
+- [[Deuteronomy_32_16|Deuteronomy 32:16]]
+- [[Deuteronomy_32_21|Deuteronomy 32:21]]
+- [[2_Chronicles_12_01|2 Chronicles 12:1]]
+- [[Deuteronomy_29_28|Deuteronomy 29:28]]
+- [[Judges_03_07|Judges 3:7]]
+
+## 1 Kings 14:23 (19)
+
+- [[Jeremiah_17_02|Jeremiah 17:2]]
+- [[Jeremiah_02_20|Jeremiah 2:20]]
+- [[Ezekiel_20_28|Ezekiel 20:28]]
+- [[Ezekiel_20_29|Ezekiel 20:29]]
+- [[2_Chronicles_28_04|2 Chronicles 28:4]]
+- [[Jeremiah_03_13|Jeremiah 3:13]]
+- [[2_Kings_21_03|2 Kings 21:3]]
+- [[2_Kings_21_07|2 Kings 21:7]]
+- [[1_Kings_03_02|1 Kings 3:2]]
+- [[Ezekiel_16_24|Ezekiel 16:24]]
+- [[Ezekiel_16_25|Ezekiel 16:25]]
+- [[Isaiah_57_05|Isaiah 57:5]]
+- [[2_Kings_17_09|2 Kings 17:9]]
+- [[2_Kings_17_10|2 Kings 17:10]]
+- [[Deuteronomy_16_22|Deuteronomy 16:22]]
+- [[Leviticus_26_01|Leviticus 26:1]]
+- [[1_Kings_14_15|1 Kings 14:15]]
+- [[Deuteronomy_12_02|Deuteronomy 12:2]]
+- [[Micah_05_14|Micah 5:14]]
+
+## 1 Kings 14:24 (9)
+
+- [[Deuteronomy_23_17|Deuteronomy 23:17]]
+- [[Genesis_19_05|Genesis 19:5]]
+- [[1_Corinthians_06_09|1 Corinthians 6:9]]
+- [[Romans_01_24|Romans 1:24]]
+- [[Romans_01_27|Romans 1:27]]
+- [[1_Kings_15_12|1 Kings 15:12]]
+- [[Judges_19_22|Judges 19:22]]
+- [[2_Kings_23_07|2 Kings 23:7]]
+- [[1_Kings_22_46|1 Kings 22:46]]
+
+## 1 Kings 14:25 (4)
+
+- [[2_Chronicles_12_02|2 Chronicles 12:2]]
+- [[2_Chronicles_12_04|2 Chronicles 12:4]]
+- [[2_Chronicles_12_09|2 Chronicles 12:9]]
+- [[1_Kings_11_40|1 Kings 11:40]]
+
+## 1 Kings 14:26 (15)
+
+- [[Ecclesiastes_02_18|Ecclesiastes 2:18]]
+- [[Ecclesiastes_02_19|Ecclesiastes 2:19]]
+- [[1_Kings_15_18|1 Kings 15:18]]
+- [[1_Kings_10_16|1 Kings 10:16]]
+- [[1_Kings_10_17|1 Kings 10:17]]
+- [[2_Chronicles_12_09|2 Chronicles 12:9]]
+- [[2_Chronicles_12_11|2 Chronicles 12:11]]
+- [[1_Kings_07_51|1 Kings 7:51]]
+- [[Psalms_089_035|Psalms 89:35]]
+- [[Psalms_089_045|Psalms 89:45]]
+- [[Proverbs_23_05|Proverbs 23:5]]
+- [[Psalms_039_006|Psalms 39:6]]
+- [[2_Chronicles_09_15|2 Chronicles 9:15]]
+- [[2_Chronicles_09_16|2 Chronicles 9:16]]
+- [[2_Kings_24_13|2 Kings 24:13]]
+
+## 1 Kings 14:27 (8)
+
+- [[1_Kings_18_46|1 Kings 18:46]]
+- [[1_Kings_14_05|1 Kings 14:5]]
+- [[1_Samuel_08_11|1 Samuel 8:11]]
+- [[2_Samuel_15_01|2 Samuel 15:1]]
+- [[1_Samuel_22_17|1 Samuel 22:17]]
+- [[Lamentations_04_01|Lamentations 4:1]]
+- [[Lamentations_04_02|Lamentations 4:2]]
+- [[1_Kings_14_01|1 Kings 14:1]]
+
+## 1 Kings 14:28 (1)
+
+- [[2_Chronicles_12_11|2 Chronicles 12:11]]
+
+## 1 Kings 14:29 (6)
+
+- [[1_Kings_11_41|1 Kings 11:41]]
+- [[1_Kings_14_19|1 Kings 14:19]]
+- [[1_Kings_22_45|1 Kings 22:45]]
+- [[2_Chronicles_12_15|2 Chronicles 12:15]]
+- [[2_Chronicles_12_16|2 Chronicles 12:16]]
+- [[1_Kings_15_23|1 Kings 15:23]]
+
+## 1 Kings 14:30 (5)
+
+- [[1_Kings_12_24|1 Kings 12:24]]
+- [[1_Kings_15_06|1 Kings 15:6]]
+- [[1_Kings_15_07|1 Kings 15:7]]
+- [[1_Kings_12_21|1 Kings 12:21]]
+- [[2_Chronicles_12_15|2 Chronicles 12:15]]
+
+## 1 Kings 14:31 (9)
+
+- [[1_Chronicles_03_10|1 Chronicles 3:10]]
+- [[1_Kings_11_43|1 Kings 11:43]]
+- [[1_Kings_15_24|1 Kings 15:24]]
+- [[1_Kings_14_20|1 Kings 14:20]]
+- [[1_Kings_14_21|1 Kings 14:21]]
+- [[Matthew_01_07|Matthew 1:7]]
+- [[1_Kings_15_03|1 Kings 15:3]]
+- [[2_Chronicles_12_16|2 Chronicles 12:16]]
+- [[1_Kings_22_50|1 Kings 22:50]]

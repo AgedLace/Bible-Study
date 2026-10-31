@@ -1,0 +1,115 @@
+---
+type: strongs
+number: H7323
+lang: H
+lemma: "רוּץ"
+translit: "rûwts"
+occurrences: 92
+tags: [Word_Study/Hebrew, Word_Study/Hebrew/H7323_ruwts]
+---
+# H7323 — רוּץ
+
+| Lemma | Translit | Pronunciation | Short definition |
+|---|---|---|---|
+| רוּץ | rûwts | roots | to run (for whatever reason |
+
+## Definition
+
+to run (for whatever reason, especially to rush)
+
+KJV renders: break down, divide speedily, footman, guard, bring hastily, (make) run (away, through), post.
+
+## Verses (92)
+
+- [[1_Kings_01_05]]
+- [[1_Kings_14_27]]
+- [[1_Kings_14_28]]
+- [[1_Kings_18_46]]
+- [[1_Kings_19_20]]
+- [[1_Samuel_03_05]]
+- [[1_Samuel_04_12]]
+- [[1_Samuel_08_11]]
+- [[1_Samuel_10_23]]
+- [[1_Samuel_17_17]]
+- [[1_Samuel_17_22]]
+- [[1_Samuel_17_48]]
+- [[1_Samuel_17_51]]
+- [[1_Samuel_20_06]]
+- [[1_Samuel_20_36]]
+- [[1_Samuel_22_17]]
+- [[2_Chronicles_12_10]]
+- [[2_Chronicles_12_11]]
+- [[2_Chronicles_23_12]]
+- [[2_Chronicles_30_06]]
+- [[2_Chronicles_30_10]]
+- [[2_Chronicles_35_13]]
+- [[2_Kings_04_22]]
+- [[2_Kings_04_26]]
+- [[2_Kings_05_20]]
+- [[2_Kings_05_21]]
+- [[2_Kings_10_25]]
+- [[2_Kings_11_04]]
+- [[2_Kings_11_06]]
+- [[2_Kings_11_11]]
+- [[2_Kings_11_13]]
+- [[2_Kings_11_19]]
+- [[2_Kings_23_12]]
+- [[2_Samuel_15_01]]
+- [[2_Samuel_18_19]]
+- [[2_Samuel_18_21]]
+- [[2_Samuel_18_22]]
+- [[2_Samuel_18_23]]
+- [[2_Samuel_18_24]]
+- [[2_Samuel_18_26]]
+- [[2_Samuel_22_30]]
+- [[Amos_06_12]]
+- [[Daniel_08_06]]
+- [[Esther_03_13]]
+- [[Esther_03_15]]
+- [[Esther_08_10]]
+- [[Esther_08_14]]
+- [[Genesis_18_02]]
+- [[Genesis_18_07]]
+- [[Genesis_24_17]]
+- [[Genesis_24_20]]
+- [[Genesis_24_28]]
+- [[Genesis_24_29]]
+- [[Genesis_29_12]]
+- [[Genesis_29_13]]
+- [[Genesis_33_04]]
+- [[Genesis_41_14]]
+- [[Habakkuk_02_02]]
+- [[Haggai_01_09]]
+- [[Isaiah_40_31]]
+- [[Isaiah_55_05]]
+- [[Isaiah_59_07]]
+- [[Jeremiah_12_05]]
+- [[Jeremiah_23_21]]
+- [[Jeremiah_49_19]]
+- [[Jeremiah_50_44]]
+- [[Jeremiah_51_31]]
+- [[Job_09_25]]
+- [[Job_15_26]]
+- [[Job_16_14]]
+- [[Joel_02_04]]
+- [[Joel_02_07]]
+- [[Joel_02_09]]
+- [[Joshua_07_22]]
+- [[Joshua_08_19]]
+- [[Judges_07_21]]
+- [[Judges_13_10]]
+- [[Nahum_02_04]]
+- [[Numbers_11_27]]
+- [[Numbers_16_47]]
+- [[Proverbs_01_16]]
+- [[Proverbs_04_12]]
+- [[Proverbs_06_18]]
+- [[Proverbs_18_10]]
+- [[Psalms_018_029]]
+- [[Psalms_019_005]]
+- [[Psalms_059_004]]
+- [[Psalms_068_031]]
+- [[Psalms_119_032]]
+- [[Psalms_147_015]]
+- [[Song_of_Solomon_01_04]]
+- [[Zechariah_02_04]]

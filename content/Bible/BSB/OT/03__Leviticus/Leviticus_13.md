@@ -1,0 +1,72 @@
+---
+type: chapter
+ref: "Leviticus 13"
+book: Leviticus
+chapter: 13
+verses: 59
+---
+# Leviticus 13
+
+## Laws about Skin Diseases
+
+- [[Leviticus_13/Leviticus_13_01|Leviticus 13:1]]
+- [[Leviticus_13/Leviticus_13_02|Leviticus 13:2]]
+- [[Leviticus_13/Leviticus_13_03|Leviticus 13:3]]
+- [[Leviticus_13/Leviticus_13_04|Leviticus 13:4]]
+- [[Leviticus_13/Leviticus_13_05|Leviticus 13:5]]
+- [[Leviticus_13/Leviticus_13_06|Leviticus 13:6]]
+- [[Leviticus_13/Leviticus_13_07|Leviticus 13:7]]
+- [[Leviticus_13/Leviticus_13_08|Leviticus 13:8]]
+- [[Leviticus_13/Leviticus_13_09|Leviticus 13:9]]
+- [[Leviticus_13/Leviticus_13_10|Leviticus 13:10]]
+- [[Leviticus_13/Leviticus_13_11|Leviticus 13:11]]
+- [[Leviticus_13/Leviticus_13_12|Leviticus 13:12]]
+- [[Leviticus_13/Leviticus_13_13|Leviticus 13:13]]
+- [[Leviticus_13/Leviticus_13_14|Leviticus 13:14]]
+- [[Leviticus_13/Leviticus_13_15|Leviticus 13:15]]
+- [[Leviticus_13/Leviticus_13_16|Leviticus 13:16]]
+- [[Leviticus_13/Leviticus_13_17|Leviticus 13:17]]
+- [[Leviticus_13/Leviticus_13_18|Leviticus 13:18]]
+- [[Leviticus_13/Leviticus_13_19|Leviticus 13:19]]
+- [[Leviticus_13/Leviticus_13_20|Leviticus 13:20]]
+- [[Leviticus_13/Leviticus_13_21|Leviticus 13:21]]
+- [[Leviticus_13/Leviticus_13_22|Leviticus 13:22]]
+- [[Leviticus_13/Leviticus_13_23|Leviticus 13:23]]
+- [[Leviticus_13/Leviticus_13_24|Leviticus 13:24]]
+- [[Leviticus_13/Leviticus_13_25|Leviticus 13:25]]
+- [[Leviticus_13/Leviticus_13_26|Leviticus 13:26]]
+- [[Leviticus_13/Leviticus_13_27|Leviticus 13:27]]
+- [[Leviticus_13/Leviticus_13_28|Leviticus 13:28]]
+- [[Leviticus_13/Leviticus_13_29|Leviticus 13:29]]
+- [[Leviticus_13/Leviticus_13_30|Leviticus 13:30]]
+- [[Leviticus_13/Leviticus_13_31|Leviticus 13:31]]
+- [[Leviticus_13/Leviticus_13_32|Leviticus 13:32]]
+- [[Leviticus_13/Leviticus_13_33|Leviticus 13:33]]
+- [[Leviticus_13/Leviticus_13_34|Leviticus 13:34]]
+- [[Leviticus_13/Leviticus_13_35|Leviticus 13:35]]
+- [[Leviticus_13/Leviticus_13_36|Leviticus 13:36]]
+- [[Leviticus_13/Leviticus_13_37|Leviticus 13:37]]
+- [[Leviticus_13/Leviticus_13_38|Leviticus 13:38]]
+- [[Leviticus_13/Leviticus_13_39|Leviticus 13:39]]
+- [[Leviticus_13/Leviticus_13_40|Leviticus 13:40]]
+- [[Leviticus_13/Leviticus_13_41|Leviticus 13:41]]
+- [[Leviticus_13/Leviticus_13_42|Leviticus 13:42]]
+- [[Leviticus_13/Leviticus_13_43|Leviticus 13:43]]
+- [[Leviticus_13/Leviticus_13_44|Leviticus 13:44]]
+- [[Leviticus_13/Leviticus_13_45|Leviticus 13:45]]
+- [[Leviticus_13/Leviticus_13_46|Leviticus 13:46]]
+## Laws about Mildew
+
+- [[Leviticus_13/Leviticus_13_47|Leviticus 13:47]]
+- [[Leviticus_13/Leviticus_13_48|Leviticus 13:48]]
+- [[Leviticus_13/Leviticus_13_49|Leviticus 13:49]]
+- [[Leviticus_13/Leviticus_13_50|Leviticus 13:50]]
+- [[Leviticus_13/Leviticus_13_51|Leviticus 13:51]]
+- [[Leviticus_13/Leviticus_13_52|Leviticus 13:52]]
+- [[Leviticus_13/Leviticus_13_53|Leviticus 13:53]]
+- [[Leviticus_13/Leviticus_13_54|Leviticus 13:54]]
+- [[Leviticus_13/Leviticus_13_55|Leviticus 13:55]]
+- [[Leviticus_13/Leviticus_13_56|Leviticus 13:56]]
+- [[Leviticus_13/Leviticus_13_57|Leviticus 13:57]]
+- [[Leviticus_13/Leviticus_13_58|Leviticus 13:58]]
+- [[Leviticus_13/Leviticus_13_59|Leviticus 13:59]]

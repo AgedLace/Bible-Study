@@ -1,0 +1,52 @@
+---
+type: verse
+ref: "Isaiah 37:3"
+book: Isaiah
+book_num: 23
+chapter: 37
+verse: 3
+testament: OT
+strongs: [H559, H413, H3541, H2396, H3117, H6869, H8433, H5007, H2088, H3588, H935, H1121, H5704, H4866, H3581, H369, H3205]
+tags: [BSB/OT/23__Isaiah/Isaiah_37/Isaiah_37_03, Word_Study/Hebrew/H0559_amar, Word_Study/Hebrew/H0413_el, Word_Study/Hebrew/H3541_koh, Word_Study/Hebrew/H2396_chizqiyah, Word_Study/Hebrew/H3117_yowm, Word_Study/Hebrew/H6869_tsarah, Word_Study/Hebrew/H8433_towkechah, Word_Study/Hebrew/H5007_neatsah, Word_Study/Hebrew/H2088_zeh, Word_Study/Hebrew/H3588_kiy, Word_Study/Hebrew/H0935_bow, Word_Study/Hebrew/H1121_ben, Word_Study/Hebrew/H5704_ad, Word_Study/Hebrew/H4866_mishber, Word_Study/Hebrew/H3581_koach, Word_Study/Hebrew/H0369_ayin, Word_Study/Hebrew/H3205_yalad]
+prev: Isaiah_37_02
+next: Isaiah_37_04
+---
+# Isaiah 37:3
+
+> [!quote] BSB
+> "to tell him, “This is what Hezekiah says: Today is a day of distress, rebuke, and disgrace; for children have come to the point of birth, but there is no strength to deliver them." ^text
+
+[[Isaiah_37_02|← Isaiah 37:2]] · [[Isaiah_37|↑ Isaiah 37]] · [[Isaiah_37_04|Isaiah 37:4 →]]
+
+**Interlinear**
+
+| Word | Translit | Parsing | Gloss | Strong's |
+|---|---|---|---|---|
+| וַיֹּאמְר֣וּ | way·yō·mə·rū | Conj-w + V-Qal-ConsecImperf-3mp<br>Conjunctive waw + Verb - Qal - Consecutive imperfect - third person masculine plural | to tell | [[H0559 - amar]] |
+| אֵלָ֗יו | ’ê·lāw | Prep + 3ms<br>Preposition + third person masculine singular | him | [[H0413 - el]] |
+| כֹּ֚ה | kōh | Adv<br>Adverb | This is what | [[H3541 - koh]] |
+| אָמַ֣ר | ’ā·mar | V-Qal-Perf-3ms<br>Verb - Qal - Perfect - third person masculine singular | says | [[H0559 - amar]] |
+| חִזְקִיָּ֔הוּ | ḥiz·qî·yā·hū | N-proper-ms<br>Noun - proper - masculine singular | Hezekiah | [[H2396 - chizqiyah]] |
+| יוֹם־ | yō·wm- | N-msc<br>Noun - masculine singular construct | Today | [[H3117 - yowm]] |
+| צָרָ֧ה | ṣā·rāh | N-fs<br>Noun - feminine singular | of distress | [[H6869 - tsarah]] |
+| וְתוֹכֵחָ֛ה | wə·ṯō·w·ḵê·ḥāh | Conj-w + N-fs<br>Conjunctive waw + Noun - feminine singular | rebuke | [[H8433 - towkechah]] |
+| וּנְאָצָ֖ה | ū·nə·’ā·ṣāh | Conj-w + N-fs<br>Conjunctive waw + Noun - feminine singular | and disgrace | [[H5007 - neatsah]] |
+| הַיּ֣וֹם | hay·yō·wm | Art + N-ms<br>Article + Noun - masculine singular | is a day | [[H3117 - yowm]] |
+| הַזֶּ֑ה | haz·zeh | Art + Pro-ms<br>Article + Pronoun - masculine singular | . . . | [[H2088 - zeh]] |
+| כִּ֣י | kî | Conj<br>Conjunction | for | [[H3588 - kiy]] |
+| בָ֤אוּ | ḇā·’ū | V-Qal-Perf-3cp<br>Verb - Qal - Perfect - third person common plural | have come | [[H0935 - bow]] |
+| בָנִים֙ | ḇā·nîm | N-mp<br>Noun - masculine plural | children | [[H1121 - ben]] |
+| עַד־ | ‘aḏ- | Prep<br>Preposition | to the point of | [[H5704 - ad]] |
+| מַשְׁבֵּ֔ר | maš·bêr | N-ms<br>Noun - masculine singular | birth | [[H4866 - mishber]] |
+| וְכֹ֥חַ | wə·ḵō·aḥ | Conj-w + N-ms<br>Conjunctive waw + Noun - masculine singular | strength | [[H3581 - koach]] |
+| אַ֖יִן | ’a·yin | Adv<br>Adverb | but there is no | [[H0369 - ayin]] |
+| לְלֵדָֽה׃ | lə·lê·ḏāh | Prep-l + V-Qal-Inf + 3fs<br>Preposition-l + Verb - Qal - Infinitive construct + third person feminine singular | to deliver them | [[H3205 - yalad]] |
+**Strong's:** [[H0559 - amar]] · [[H0413 - el]] · [[H3541 - koh]] · [[H0559 - amar]] · [[H2396 - chizqiyah]] · [[H3117 - yowm]] · [[H6869 - tsarah]] · [[H8433 - towkechah]] · [[H5007 - neatsah]] · [[H3117 - yowm]] · [[H2088 - zeh]] · [[H3588 - kiy]] · [[H0935 - bow]] · [[H1121 - ben]] · [[H5704 - ad]] · [[H4866 - mishber]] · [[H3581 - koach]] · [[H0369 - ayin]] · [[H3205 - yalad]]
+
+%%XREF-START%%
+## Cross references
+
+Top: [[Revelation_03_19|Revelation 3:19]] · [[Psalms_091_015|Psalms 91:15]] · [[Jeremiah_30_07|Jeremiah 30:7]] · [[2_Kings_19_03|2 Kings 19:3]] · [[Isaiah_33_02|Isaiah 33:2]]
+
+See [[XRefs/OT/23__Isaiah/Isaiah_37|full list (18)]].
+%%XREF-END%%

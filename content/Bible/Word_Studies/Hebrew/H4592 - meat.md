@@ -1,0 +1,115 @@
+---
+type: strongs
+number: H4592
+lang: H
+lemma: "מְעַט"
+translit: "mᵉʻaṭ"
+occurrences: 92
+tags: [Word_Study/Hebrew, Word_Study/Hebrew/H4592_meat]
+---
+# H4592 — מְעַט
+
+| Lemma | Translit | Pronunciation | Short definition |
+|---|---|---|---|
+| מְעַט | mᵉʻaṭ | meh-at' | a little or few (often adverbial or compar.) |
+
+## Definition
+
+a little or few (often adverbial or compar.)
+
+KJV renders: almost (some, very) few(-er, -est), lightly, little (while), (very) small (matter, thing), some, soon, very.
+
+## Verses (92)
+
+- [[1_Chronicles_16_19]]
+- [[1_Kings_17_10]]
+- [[1_Kings_17_12]]
+- [[1_Samuel_14_06]]
+- [[1_Samuel_14_29]]
+- [[1_Samuel_14_43]]
+- [[1_Samuel_17_28]]
+- [[2_Chronicles_12_07]]
+- [[2_Chronicles_29_34]]
+- [[2_Kings_10_18]]
+- [[2_Samuel_12_08]]
+- [[2_Samuel_16_01]]
+- [[2_Samuel_19_36]]
+- [[Daniel_11_23]]
+- [[Daniel_11_34]]
+- [[Deuteronomy_07_07]]
+- [[Deuteronomy_07_22]]
+- [[Deuteronomy_26_05]]
+- [[Deuteronomy_28_38]]
+- [[Deuteronomy_28_62]]
+- [[Ecclesiastes_05_02]]
+- [[Ecclesiastes_05_12]]
+- [[Ecclesiastes_09_14]]
+- [[Ecclesiastes_10_01]]
+- [[Exodus_17_04]]
+- [[Exodus_23_30]]
+- [[Ezekiel_05_03]]
+- [[Ezekiel_11_16]]
+- [[Ezekiel_16_20]]
+- [[Ezekiel_16_47]]
+- [[Ezekiel_34_18]]
+- [[Ezra_09_08]]
+- [[Genesis_18_04]]
+- [[Genesis_24_17]]
+- [[Genesis_24_43]]
+- [[Genesis_26_10]]
+- [[Genesis_30_15]]
+- [[Genesis_30_30]]
+- [[Genesis_43_02]]
+- [[Genesis_43_11]]
+- [[Genesis_44_25]]
+- [[Genesis_47_09]]
+- [[Haggai_01_06]]
+- [[Haggai_01_09]]
+- [[Haggai_02_06]]
+- [[Hosea_01_04]]
+- [[Hosea_08_10]]
+- [[Isaiah_01_09]]
+- [[Isaiah_07_13]]
+- [[Isaiah_10_07]]
+- [[Isaiah_10_25]]
+- [[Isaiah_16_14]]
+- [[Isaiah_26_20]]
+- [[Isaiah_29_17]]
+- [[Jeremiah_42_02]]
+- [[Jeremiah_51_33]]
+- [[Job_10_20]]
+- [[Job_15_11]]
+- [[Job_24_24]]
+- [[Job_32_22]]
+- [[Joshua_07_03]]
+- [[Joshua_22_17]]
+- [[Judges_04_19]]
+- [[Leviticus_25_52]]
+- [[Nehemiah_02_12]]
+- [[Nehemiah_07_04]]
+- [[Numbers_13_18]]
+- [[Numbers_16_09]]
+- [[Numbers_16_13]]
+- [[Numbers_26_54]]
+- [[Numbers_26_56]]
+- [[Numbers_33_54]]
+- [[Numbers_35_08]]
+- [[Proverbs_05_14]]
+- [[Proverbs_06_10]]
+- [[Proverbs_10_20]]
+- [[Proverbs_15_16]]
+- [[Proverbs_16_08]]
+- [[Proverbs_24_33]]
+- [[Psalms_002_012]]
+- [[Psalms_008_005]]
+- [[Psalms_037_010]]
+- [[Psalms_037_016]]
+- [[Psalms_073_002]]
+- [[Psalms_081_014]]
+- [[Psalms_094_017]]
+- [[Psalms_105_012]]
+- [[Psalms_109_008]]
+- [[Psalms_119_087]]
+- [[Ruth_02_07]]
+- [[Song_of_Solomon_03_04]]
+- [[Zechariah_01_15]]

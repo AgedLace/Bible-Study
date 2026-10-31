@@ -1,0 +1,116 @@
+---
+type: strongs
+number: H2543
+lang: H
+lemma: "חֲמוֹר"
+translit: "chămôwr"
+occurrences: 93
+tags: [Word_Study/Hebrew, Word_Study/Hebrew/H2543_chamowr]
+---
+# H2543 — חֲמוֹר
+
+| Lemma | Translit | Pronunciation | Short definition |
+|---|---|---|---|
+| חֲמוֹר | chămôwr | kham-ore' | a male ass (from its dun red) |
+
+## Definition
+
+a male ass (from its dun red)
+
+KJV renders: (he) ass.
+
+## Verses (93)
+
+- [[1_Chronicles_05_21]]
+- [[1_Chronicles_12_40]]
+- [[1_Kings_02_40]]
+- [[1_Kings_13_13]]
+- [[1_Kings_13_23]]
+- [[1_Kings_13_24]]
+- [[1_Kings_13_27]]
+- [[1_Kings_13_28]]
+- [[1_Kings_13_29]]
+- [[1_Samuel_08_16]]
+- [[1_Samuel_12_03]]
+- [[1_Samuel_15_03]]
+- [[1_Samuel_16_20]]
+- [[1_Samuel_22_19]]
+- [[1_Samuel_25_18]]
+- [[1_Samuel_25_20]]
+- [[1_Samuel_25_23]]
+- [[1_Samuel_25_42]]
+- [[1_Samuel_27_09]]
+- [[2_Chronicles_28_15]]
+- [[2_Kings_06_25]]
+- [[2_Kings_07_07]]
+- [[2_Kings_07_10]]
+- [[2_Samuel_16_01]]
+- [[2_Samuel_16_02]]
+- [[2_Samuel_17_23]]
+- [[2_Samuel_19_26]]
+- [[Deuteronomy_05_14]]
+- [[Deuteronomy_05_21]]
+- [[Deuteronomy_22_03]]
+- [[Deuteronomy_22_04]]
+- [[Deuteronomy_22_10]]
+- [[Deuteronomy_28_31]]
+- [[Exodus_04_20]]
+- [[Exodus_09_03]]
+- [[Exodus_13_13]]
+- [[Exodus_20_17]]
+- [[Exodus_21_33]]
+- [[Exodus_22_04]]
+- [[Exodus_22_09]]
+- [[Exodus_22_10]]
+- [[Exodus_23_04]]
+- [[Exodus_23_05]]
+- [[Exodus_23_12]]
+- [[Exodus_34_20]]
+- [[Ezekiel_23_20]]
+- [[Ezra_02_67]]
+- [[Genesis_12_16]]
+- [[Genesis_22_03]]
+- [[Genesis_22_05]]
+- [[Genesis_24_35]]
+- [[Genesis_30_43]]
+- [[Genesis_32_05]]
+- [[Genesis_34_28]]
+- [[Genesis_36_24]]
+- [[Genesis_42_26]]
+- [[Genesis_42_27]]
+- [[Genesis_43_18]]
+- [[Genesis_43_24]]
+- [[Genesis_44_03]]
+- [[Genesis_44_13]]
+- [[Genesis_45_23]]
+- [[Genesis_47_17]]
+- [[Genesis_49_14]]
+- [[Isaiah_01_03]]
+- [[Isaiah_21_07]]
+- [[Isaiah_32_20]]
+- [[Jeremiah_22_19]]
+- [[Job_24_03]]
+- [[Joshua_06_21]]
+- [[Joshua_07_24]]
+- [[Joshua_09_04]]
+- [[Joshua_15_18]]
+- [[Judges_01_14]]
+- [[Judges_06_04]]
+- [[Judges_15_15]]
+- [[Judges_15_16]]
+- [[Judges_19_03]]
+- [[Judges_19_10]]
+- [[Judges_19_19]]
+- [[Judges_19_21]]
+- [[Judges_19_28]]
+- [[Nehemiah_07_69]]
+- [[Nehemiah_13_15]]
+- [[Numbers_16_15]]
+- [[Numbers_31_28]]
+- [[Numbers_31_30]]
+- [[Numbers_31_34]]
+- [[Numbers_31_39]]
+- [[Numbers_31_45]]
+- [[Proverbs_26_03]]
+- [[Zechariah_09_09]]
+- [[Zechariah_14_15]]

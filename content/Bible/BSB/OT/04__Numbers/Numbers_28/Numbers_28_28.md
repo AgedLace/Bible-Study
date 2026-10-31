@@ -1,0 +1,45 @@
+---
+type: verse
+ref: "Numbers 28:28"
+book: Numbers
+book_num: 4
+chapter: 28
+verse: 28
+testament: OT
+strongs: [H4503, H5560, H1101, H8081, H7969, H6241, H6499, H259, H8147, H352]
+tags: [BSB/OT/04__Numbers/Numbers_28/Numbers_28_28, Word_Study/Hebrew/H4503_minchah, Word_Study/Hebrew/H5560_coleth, Word_Study/Hebrew/H1101_balal, Word_Study/Hebrew/H8081_shemen, Word_Study/Hebrew/H7969_shalowsh, Word_Study/Hebrew/H6241_issarown, Word_Study/Hebrew/H6499_par, Word_Study/Hebrew/H0259_echad, Word_Study/Hebrew/H8147_shenayim, Word_Study/Hebrew/H0352_ayil]
+prev: Numbers_28_27
+next: Numbers_28_29
+---
+# Numbers 28:28
+
+> [!quote] BSB
+> "together with their grain offerings of fine flour mixed with oil—three-tenths of an ephah with each bull, two-tenths of an ephah with the ram," ^text
+
+[[Numbers_28_27|← Numbers 28:27]] · [[Numbers_28|↑ Numbers 28]] · [[Numbers_28_29|Numbers 28:29 →]]
+
+**Interlinear**
+
+| Word | Translit | Parsing | Gloss | Strong's |
+|---|---|---|---|---|
+| וּמִנְחָתָ֔ם | ū·min·ḥā·ṯām | Conj-w + N-fsc + 3mp<br>Conjunctive waw + Noun - feminine singular construct + third person masculine plural | together with their grain offerings | [[H4503 - minchah]] |
+| סֹ֖לֶת | sō·leṯ | N-fs<br>Noun - feminine singular | of fine flour | [[H5560 - coleth]] |
+| בְּלוּלָ֣ה | bə·lū·lāh | V-Qal-QalPassPrtcpl-fs<br>Verb - Qal - QalPassParticiple - feminine singular | mixed | [[H1101 - balal]] |
+| בַשָּׁ֑מֶן | ḇaš·šā·men | Prep-b, Art + N-ms<br>Preposition-b, Article + Noun - masculine singular | with oil | [[H8081 - shemen]] |
+| שְׁלֹשָׁ֤ה | šə·lō·šāh | Number-ms<br>Number - masculine singular | three-tenths [of an ephah] | [[H7969 - shalowsh]] |
+| עֶשְׂרֹנִים֙ | ‘eś·rō·nîm | N-mp<br>Noun - masculine plural | . . . | [[H6241 - issarown]] |
+| לַפָּ֣ר | lap·pār | Prep-l, Art + N-ms<br>Preposition-l, Article + Noun - masculine singular | bull | [[H6499 - par]] |
+| הָֽאֶחָ֔ד | hā·’e·ḥāḏ | Art + Number-ms<br>Article + Number - masculine singular | with each | [[H0259 - echad]] |
+| שְׁנֵי֙ | šə·nê | Number-mdc<br>Number - masculine dual construct | two-tenths [of an ephah] | [[H8147 - shenayim]] |
+| עֶשְׂרֹנִ֔ים | ‘eś·rō·nîm | N-mp<br>Noun - masculine plural | . . . | [[H6241 - issarown]] |
+| לָאַ֖יִל | lā·’a·yil | Prep-l, Art + N-ms<br>Preposition-l, Article + Noun - masculine singular | with the ram | [[H0352 - ayil]] |
+| הָאֶחָֽד׃ | hā·’e·ḥāḏ | Art + Number-ms<br>Article + Number - masculine singular | . . . | [[H0259 - echad]] |
+**Strong's:** [[H4503 - minchah]] · [[H5560 - coleth]] · [[H1101 - balal]] · [[H8081 - shemen]] · [[H7969 - shalowsh]] · [[H6241 - issarown]] · [[H6499 - par]] · [[H0259 - echad]] · [[H8147 - shenayim]] · [[H6241 - issarown]] · [[H0352 - ayil]] · [[H0259 - echad]]
+
+%%XREF-START%%
+## Cross references
+
+Top: —
+
+See [[XRefs/OT/04__Numbers/Numbers_28|full list (0)]].
+%%XREF-END%%

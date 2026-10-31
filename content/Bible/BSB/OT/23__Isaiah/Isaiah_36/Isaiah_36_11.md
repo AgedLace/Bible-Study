@@ -1,0 +1,62 @@
+---
+type: verse
+ref: "Isaiah 36:11"
+book: Isaiah
+book_num: 23
+chapter: 36
+verse: 11
+testament: OT
+strongs: [H559, H471, H7644, H3098, H413, H7262, H1696, H4994, H5650, H762, H3588, H8085, H587, H408, H3066, H241, H5971, H834, H5921, H2346]
+tags: [BSB/OT/23__Isaiah/Isaiah_36/Isaiah_36_11, Word_Study/Hebrew/H0559_amar, Word_Study/Hebrew/H0471_elyaqiym, Word_Study/Hebrew/H7644_shebna, Word_Study/Hebrew/H3098_yowach, Word_Study/Hebrew/H0413_el, Word_Study/Hebrew/H7262_rabshaqeh, Word_Study/Hebrew/H1696_dabar, Word_Study/Hebrew/H4994_na, Word_Study/Hebrew/H5650_ebed, Word_Study/Hebrew/H0762_aramiyth, Word_Study/Hebrew/H3588_kiy, Word_Study/Hebrew/H8085_shama, Word_Study/Hebrew/H0587_anachnuw, Word_Study/Hebrew/H0408_al, Word_Study/Hebrew/H3066_yehuwdiyth, Word_Study/Hebrew/H0241_ozen, Word_Study/Hebrew/H5971_am, Word_Study/Hebrew/H0834_asher, Word_Study/Hebrew/H5921_al, Word_Study/Hebrew/H2346_chowmah]
+prev: Isaiah_36_10
+next: Isaiah_36_12
+---
+# Isaiah 36:11
+
+> [!quote] BSB
+> "Then Eliakim, Shebna, and Joah said to the Rabshakeh, “Please speak to your servants in Aramaic, since we understand it. Do not speak to us in Hebrew in the hearing of the people on the wall.”" ^text
+
+%%FN-START%%
+> [!note] Footnotes
+- Or *in the dialect of Judah*; also in verse 13
+%%FN-END%%
+
+[[Isaiah_36_10|← Isaiah 36:10]] · [[Isaiah_36|↑ Isaiah 36]] · [[Isaiah_36_12|Isaiah 36:12 →]]
+
+**Interlinear**
+
+| Word | Translit | Parsing | Gloss | Strong's |
+|---|---|---|---|---|
+| וַיֹּ֣אמֶר | way·yō·mer | Conj-w + V-Qal-ConsecImperf-3ms<br>Conjunctive waw + Verb - Qal - Consecutive imperfect - third person masculine singular | said | [[H0559 - amar]] |
+| אֶלְיָקִים֩ | ’el·yā·qîm | N-proper-ms<br>Noun - proper - masculine singular | Then Eliakim | [[H0471 - elyaqiym]] |
+| וְשֶׁבְנָ֨א | wə·šeḇ·nā | Conj-w + N-proper-ms<br>Conjunctive waw + Noun - proper - masculine singular | Shebna | [[H7644 - shebna]] |
+| וְיוֹאָ֜ח | wə·yō·w·’āḥ | Conj-w + N-proper-ms<br>Conjunctive waw + Noun - proper - masculine singular | and Joah | [[H3098 - yowach]] |
+| אֶל־ | ’el- | Prep<br>Preposition | to | [[H0413 - el]] |
+| רַב־ | raḇ- | N-ms<br>Noun - masculine singular | vvv | [[H7262 - rabshaqeh]] |
+| שָׁקֵ֗ה | šā·qêh | N-ms<br>Noun - masculine singular | the Rabshakeh | [[H7262 - rabshaqeh]] |
+| דַּבֶּר־ | dab·ber- | V-Piel-Imp-ms<br>Verb - Piel - Imperative - masculine singular | speak | [[H1696 - dabar]] |
+| נָ֤א | nā | Interjection<br>Interjection | Please | [[H4994 - na]] |
+| אֶל־ | ’el- | Prep<br>Preposition | to | [[H0413 - el]] |
+| עֲבָדֶ֙יךָ֙ | ‘ă·ḇā·ḏe·ḵā | N-mpc + 2ms<br>Noun - masculine plural construct + second person masculine singular | your servants | [[H5650 - ebed]] |
+| אֲרָמִ֔ית | ’ă·rā·mîṯ | N-proper-fs<br>Noun - proper - feminine singular | in Aramaic | [[H0762 - aramiyth]] |
+| כִּ֥י | kî | Conj<br>Conjunction | since | [[H3588 - kiy]] |
+| שֹׁמְעִ֖ים | šō·mə·‘îm | V-Qal-Prtcpl-mp<br>Verb - Qal - Participle - masculine plural | understand it | [[H8085 - shama]] |
+| אֲנָ֑חְנוּ | ’ă·nā·ḥə·nū | Pro-1cp<br>Pronoun - first person common plural | we | [[H0587 - anachnuw]] |
+| וְאַל־ | wə·’al- | Conj-w + Adv<br>Conjunctive waw + Adverb | Do not | [[H0408 - al]] |
+| תְּדַבֵּ֤ר | tə·ḏab·bêr | V-Piel-Imperf-2ms<br>Verb - Piel - Imperfect - second person masculine singular | speak | [[H1696 - dabar]] |
+| אֵלֵ֙ינוּ֙ | ’ê·lê·nū | Prep + 1cp<br>Preposition + first person common plural | to us | [[H0413 - el]] |
+| יְהוּדִ֔ית | yə·hū·ḏîṯ | N-proper-fs<br>Noun - proper - feminine singular | in Hebrew | [[H3066 - yehuwdiyth]] |
+| בְּאָזְנֵ֣י | bə·’ā·zə·nê | Prep-b + N-fdc<br>Preposition-b + Noun - feminine dual construct | in the hearing | [[H0241 - ozen]] |
+| הָעָ֔ם | hā·‘ām | Art + N-ms<br>Article + Noun - masculine singular | of the people | [[H5971 - am]] |
+| אֲשֶׁ֖ר | ’ă·šer | Pro-r<br>Pronoun - relative | - | [[H0834 - asher]] |
+| עַל־ | ‘al- | Prep<br>Preposition | on | [[H5921 - al]] |
+| הַחוֹמָֽה׃ | ha·ḥō·w·māh | Art + N-fs<br>Article + Noun - feminine singular | the wall | [[H2346 - chowmah]] |
+**Strong's:** [[H0559 - amar]] · [[H0471 - elyaqiym]] · [[H7644 - shebna]] · [[H3098 - yowach]] · [[H0413 - el]] · [[H7262 - rabshaqeh]] · [[H7262 - rabshaqeh]] · [[H1696 - dabar]] · [[H4994 - na]] · [[H0413 - el]] · [[H5650 - ebed]] · [[H0762 - aramiyth]] · [[H3588 - kiy]] · [[H8085 - shama]] · [[H0587 - anachnuw]] · [[H0408 - al]] · [[H1696 - dabar]] · [[H0413 - el]] · [[H3066 - yehuwdiyth]] · [[H0241 - ozen]] · [[H5971 - am]] · [[H0834 - asher]] · [[H5921 - al]] · [[H2346 - chowmah]]
+
+%%XREF-START%%
+## Cross references
+
+Top: [[Daniel_02_04|Daniel 2:4]] · [[2_Kings_18_26|2 Kings 18:26]] · [[2_Kings_18_27|2 Kings 18:27]] · [[Ezra_04_07|Ezra 4:7]]
+
+See [[XRefs/OT/23__Isaiah/Isaiah_36|full list (4)]].
+%%XREF-END%%

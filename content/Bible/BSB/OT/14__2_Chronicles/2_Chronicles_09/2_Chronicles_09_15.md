@@ -1,0 +1,53 @@
+---
+type: verse
+ref: "2 Chronicles 9:15"
+book: 2 Chronicles
+book_num: 14
+chapter: 9
+verse: 15
+testament: OT
+strongs: [H6213, H4428, H8010, H3967, H6793, H2091, H7820, H8337, H5927, H5921, H259]
+tags: [BSB/OT/14__2_Chronicles/2_Chronicles_09/2_Chronicles_09_15, Word_Study/Hebrew/H6213_asah, Word_Study/Hebrew/H4428_melek, Word_Study/Hebrew/H8010_shelomoh, Word_Study/Hebrew/H3967_meah, Word_Study/Hebrew/H6793_tsinnah, Word_Study/Hebrew/H2091_zahab, Word_Study/Hebrew/H7820_shachat, Word_Study/Hebrew/H8337_shesh, Word_Study/Hebrew/H5927_alah, Word_Study/Hebrew/H5921_al, Word_Study/Hebrew/H0259_echad]
+prev: 2_Chronicles_09_14
+next: 2_Chronicles_09_16
+---
+# 2 Chronicles 9:15
+
+> [!quote] BSB
+> "King Solomon made two hundred large shields of hammered gold; six hundred shekels of hammered gold went into each shield." ^text
+
+%%FN-START%%
+> [!note] Footnotes
+- *600 shekels* is approximately 15.1 pounds or 6.8 kilograms of gold.
+%%FN-END%%
+
+[[2_Chronicles_09_14|← 2 Chronicles 9:14]] · [[2_Chronicles_09|↑ 2 Chronicles 9]] · [[2_Chronicles_09_16|2 Chronicles 9:16 →]]
+
+**Interlinear**
+
+| Word | Translit | Parsing | Gloss | Strong's |
+|---|---|---|---|---|
+| וַיַּ֨עַשׂ | way·ya·‘aś | Conj-w + V-Qal-ConsecImperf-3ms<br>Conjunctive waw + Verb - Qal - Consecutive imperfect - third person masculine singular | made | [[H6213 - asah]] |
+| הַמֶּ֧לֶךְ | ham·me·leḵ | Art + N-ms<br>Article + Noun - masculine singular | King | [[H4428 - melek]] |
+| שְׁלֹמֹ֛ה | šə·lō·mōh | N-proper-ms<br>Noun - proper - masculine singular | Solomon | [[H8010 - shelomoh]] |
+| מָאתַ֥יִם | mā·ṯa·yim | Number-fd<br>Number - fd | two hundred | [[H3967 - meah]] |
+| צִנָּ֖ה | ṣin·nāh | N-fs<br>Noun - feminine singular | large shields | [[H6793 - tsinnah]] |
+| זָהָ֣ב | zā·hāḇ | N-ms<br>Noun - masculine singular | gold | [[H2091 - zahab]] |
+| שָׁח֑וּט | šā·ḥūṭ | V-Qal-QalPassPrtcpl-ms<br>Verb - Qal - QalPassParticiple - masculine singular | of hammered | [[H7820 - shachat]] |
+| שֵׁ֤שׁ | šêš | Number-fs<br>Number - feminine singular | six | [[H8337 - shesh]] |
+| מֵאוֹת֙ | mê·’ō·wṯ | Number-fp<br>Number - feminine plural | hundred [shekels] | [[H3967 - meah]] |
+| זָהָ֣ב | zā·hāḇ | N-ms<br>Noun - masculine singular | gold | [[H2091 - zahab]] |
+| שָׁח֔וּט | šā·ḥūṭ | V-Qal-QalPassPrtcpl-ms<br>Verb - Qal - QalPassParticiple - masculine singular | of hammered | [[H7820 - shachat]] |
+| יַעֲלֶ֖ה | ya·‘ă·leh | V-Hifil-Imperf-3ms<br>Verb - Hifil - Imperfect - third person masculine singular | went | [[H5927 - alah]] |
+| עַל־ | ‘al- | Prep<br>Preposition | into | [[H5921 - al]] |
+| הַצִּנָּ֥ה | haṣ·ṣin·nāh | Art + N-fs<br>Article + Noun - feminine singular | shield | [[H6793 - tsinnah]] |
+| הָאֶחָֽת׃ | hā·’e·ḥāṯ | Art + Number-fs<br>Article + Number - feminine singular | each | [[H0259 - echad]] |
+**Strong's:** [[H6213 - asah]] · [[H4428 - melek]] · [[H8010 - shelomoh]] · [[H3967 - meah]] · [[H6793 - tsinnah]] · [[H2091 - zahab]] · [[H7820 - shachat]] · [[H8337 - shesh]] · [[H3967 - meah]] · [[H2091 - zahab]] · [[H7820 - shachat]] · [[H5927 - alah]] · [[H5921 - al]] · [[H6793 - tsinnah]] · [[H0259 - echad]]
+
+%%XREF-START%%
+## Cross references
+
+Top: [[2_Chronicles_12_09|2 Chronicles 12:9]] · [[2_Chronicles_12_10|2 Chronicles 12:10]] · [[1_Kings_10_16|1 Kings 10:16]] · [[1_Kings_10_17|1 Kings 10:17]]
+
+See [[XRefs/OT/14__2_Chronicles/2_Chronicles_09|full list (4)]].
+%%XREF-END%%

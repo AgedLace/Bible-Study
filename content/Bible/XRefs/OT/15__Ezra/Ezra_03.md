@@ -1,0 +1,245 @@
+---
+type: xref-index
+ref: "Ezra 3 cross references"
+book: Ezra
+chapter: 3
+verses: 13
+xrefs: 197
+---
+# Ezra 3 cross references
+
+## Ezra 3:1 (16)
+
+- [[Nehemiah_07_73|Nehemiah 7:73]]
+- [[Nehemiah_08_02|Nehemiah 8:2]]
+- [[Acts_04_32|Acts 4:32]]
+- [[Zephaniah_03_09|Zephaniah 3:9]]
+- [[Nehemiah_08_14|Nehemiah 8:14]]
+- [[Exodus_23_14|Exodus 23:14]]
+- [[Exodus_23_17|Exodus 23:17]]
+- [[1_Corinthians_01_10|1 Corinthians 1:10]]
+- [[Leviticus_23_24|Leviticus 23:24]]
+- [[Judges_20_01|Judges 20:1]]
+- [[Leviticus_23_27|Leviticus 23:27]]
+- [[Leviticus_23_44|Leviticus 23:44]]
+- [[Numbers_29_01|Numbers 29:1]]
+- [[Numbers_29_40|Numbers 29:40]]
+- [[Leviticus_16_29|Leviticus 16:29]]
+- [[Acts_02_46|Acts 2:46]]
+
+## Ezra 3:2 (28)
+
+- [[Zechariah_06_11|Zechariah 6:11]]
+- [[Ezra_02_02|Ezra 2:2]]
+- [[Zechariah_03_01|Zechariah 3:1]]
+- [[Haggai_01_12|Haggai 1:12]]
+- [[Nehemiah_12_08|Nehemiah 12:8]]
+- [[Haggai_02_02|Haggai 2:2]]
+- [[Haggai_02_04|Haggai 2:4]]
+- [[Haggai_02_21|Haggai 2:21]]
+- [[Luke_03_27|Luke 3:27]]
+- [[Numbers_28_03|Numbers 28:3]]
+- [[Numbers_28_31|Numbers 28:31]]
+- [[Zechariah_04_06|Zechariah 4:6]]
+- [[Zechariah_04_10|Zechariah 4:10]]
+- [[Haggai_01_01|Haggai 1:1]]
+- [[Matthew_01_12|Matthew 1:12]]
+- [[Matthew_01_13|Matthew 1:13]]
+- [[Deuteronomy_12_05|Deuteronomy 12:5]]
+- [[Deuteronomy_12_07|Deuteronomy 12:7]]
+- [[1_Chronicles_03_17|1 Chronicles 3:17]]
+- [[Exodus_20_24|Exodus 20:24]]
+- [[Exodus_20_25|Exodus 20:25]]
+- [[Haggai_02_23|Haggai 2:23]]
+- [[Zechariah_03_08|Zechariah 3:8]]
+- [[Nehemiah_12_01|Nehemiah 12:1]]
+- [[2_Chronicles_06_06|2 Chronicles 6:6]]
+- [[Haggai_01_14|Haggai 1:14]]
+- [[1_Chronicles_03_19|1 Chronicles 3:19]]
+- [[Psalms_078_068|Psalms 78:68]]
+
+## Ezra 3:3 (14)
+
+- [[Exodus_29_38|Exodus 29:38]]
+- [[Exodus_29_42|Exodus 29:42]]
+- [[2_Chronicles_04_01|2 Chronicles 4:1]]
+- [[Numbers_28_02|Numbers 28:2]]
+- [[Numbers_28_08|Numbers 28:8]]
+- [[Psalms_027_001|Psalms 27:1]]
+- [[Psalms_027_002|Psalms 27:2]]
+- [[Ezra_04_11|Ezra 4:11]]
+- [[Ezra_04_16|Ezra 4:16]]
+- [[Psalms_056_002|Psalms 56:2]]
+- [[Psalms_056_004|Psalms 56:4]]
+- [[Ezra_08_21|Ezra 8:21]]
+- [[Ezra_08_22|Ezra 8:22]]
+- [[Ezra_04_04|Ezra 4:4]]
+
+## Ezra 3:4 (14)
+
+- [[John_07_02|John 7:2]]
+- [[Exodus_23_16|Exodus 23:16]]
+- [[John_07_37|John 7:37]]
+- [[Jeremiah_52_34|Jeremiah 52:34]]
+- [[Exodus_29_38|Exodus 29:38]]
+- [[Leviticus_23_34|Leviticus 23:34]]
+- [[Leviticus_23_36|Leviticus 23:36]]
+- [[Exodus_05_13|Exodus 5:13]]
+- [[Numbers_29_12|Numbers 29:12]]
+- [[Numbers_29_38|Numbers 29:38]]
+- [[Zechariah_14_16|Zechariah 14:16]]
+- [[Zechariah_14_19|Zechariah 14:19]]
+- [[Nehemiah_08_14|Nehemiah 8:14]]
+- [[Nehemiah_08_17|Nehemiah 8:17]]
+
+## Ezra 3:5 (16)
+
+- [[Numbers_29_02|Numbers 29:2]]
+- [[Exodus_29_38|Exodus 29:38]]
+- [[Exodus_29_42|Exodus 29:42]]
+- [[Leviticus_01_03|Leviticus 1:3]]
+- [[Numbers_28_27|Numbers 28:27]]
+- [[Numbers_29_39|Numbers 29:39]]
+- [[Numbers_28_03|Numbers 28:3]]
+- [[Numbers_28_11|Numbers 28:11]]
+- [[Deuteronomy_12_17|Deuteronomy 12:17]]
+- [[Deuteronomy_12_06|Deuteronomy 12:6]]
+- [[Numbers_28_14|Numbers 28:14]]
+- [[Numbers_29_13|Numbers 29:13]]
+- [[Numbers_29_08|Numbers 29:8]]
+- [[Numbers_28_19|Numbers 28:19]]
+- [[2_Chronicles_29_31|2 Chronicles 29:31]]
+- [[2_Chronicles_29_32|2 Chronicles 29:32]]
+
+## Ezra 3:6 (0)
+
+
+## Ezra 3:7 (21)
+
+- [[Jonah_01_03|Jonah 1:3]]
+- [[Acts_09_36|Acts 9:36]]
+- [[2_Chronicles_24_12|2 Chronicles 24:12]]
+- [[2_Chronicles_24_13|2 Chronicles 24:13]]
+- [[Acts_12_20|Acts 12:20]]
+- [[Acts_10_05|Acts 10:5]]
+- [[Acts_10_06|Acts 10:6]]
+- [[2_Chronicles_02_10|2 Chronicles 2:10]]
+- [[2_Chronicles_02_16|2 Chronicles 2:16]]
+- [[Ezekiel_27_17|Ezekiel 27:17]]
+- [[1_Kings_05_09|1 Kings 5:9]]
+- [[1_Kings_05_11|1 Kings 5:11]]
+- [[Ezra_06_03|Ezra 6:3]]
+- [[Ezra_06_05|Ezra 6:5]]
+- [[Ezra_01_02|Ezra 1:2]]
+- [[Ezra_01_04|Ezra 1:4]]
+- [[1_Kings_05_06|1 Kings 5:6]]
+- [[2_Kings_12_11|2 Kings 12:11]]
+- [[2_Kings_12_12|2 Kings 12:12]]
+- [[2_Kings_22_05|2 Kings 22:5]]
+- [[2_Kings_22_06|2 Kings 22:6]]
+
+## Ezra 3:8 (5)
+
+- [[Numbers_04_03|Numbers 4:3]]
+- [[Ezra_04_03|Ezra 4:3]]
+- [[1_Chronicles_23_04|1 Chronicles 23:4]]
+- [[1_Chronicles_23_24|1 Chronicles 23:24]]
+- [[1_Chronicles_23_32|1 Chronicles 23:32]]
+
+## Ezra 3:9 (3)
+
+- [[Nehemiah_07_43|Nehemiah 7:43]]
+- [[Ezra_02_40|Ezra 2:40]]
+- [[Ezra_03_08|Ezra 3:8]]
+
+## Ezra 3:10 (22)
+
+- [[1_Chronicles_15_24|1 Chronicles 15:24]]
+- [[1_Chronicles_16_42|1 Chronicles 16:42]]
+- [[1_Samuel_22_18|1 Samuel 22:18]]
+- [[1_Chronicles_16_04|1 Chronicles 16:4]]
+- [[1_Chronicles_16_07|1 Chronicles 16:7]]
+- [[Zechariah_04_10|Zechariah 4:10]]
+- [[Nehemiah_12_24|Nehemiah 12:24]]
+- [[Nehemiah_12_26|Nehemiah 12:26]]
+- [[Exodus_28_40|Exodus 28:40]]
+- [[Exodus_28_42|Exodus 28:42]]
+- [[1_Chronicles_23_05|1 Chronicles 23:5]]
+- [[1_Chronicles_25_01|1 Chronicles 25:1]]
+- [[1_Chronicles_25_07|1 Chronicles 25:7]]
+- [[2_Chronicles_29_25|2 Chronicles 29:25]]
+- [[2_Chronicles_29_26|2 Chronicles 29:26]]
+- [[Numbers_10_01|Numbers 10:1]]
+- [[Numbers_10_10|Numbers 10:10]]
+- [[1_Chronicles_16_37|1 Chronicles 16:37]]
+- [[1_Chronicles_06_31|1 Chronicles 6:31]]
+- [[1_Chronicles_06_48|1 Chronicles 6:48]]
+- [[1_Chronicles_15_27|1 Chronicles 15:27]]
+- [[2_Chronicles_35_15|2 Chronicles 35:15]]
+
+## Ezra 3:11 (32)
+
+- [[Psalms_135_003|Psalms 135:3]]
+- [[Nehemiah_12_24|Nehemiah 12:24]]
+- [[Isaiah_12_06|Isaiah 12:6]]
+- [[Psalms_024_007|Psalms 24:7]]
+- [[Psalms_024_010|Psalms 24:10]]
+- [[Psalms_047_001|Psalms 47:1]]
+- [[Revelation_21_10|Revelation 21:10]]
+- [[Revelation_21_14|Revelation 21:14]]
+- [[Psalms_145_001|Psalms 145:1]]
+- [[Psalms_145_011|Psalms 145:11]]
+- [[Psalms_047_005|Psalms 47:5]]
+- [[1_Chronicles_16_41|1 Chronicles 16:41]]
+- [[Psalms_107_001|Psalms 107:1]]
+- [[Luke_01_50|Luke 1:50]]
+- [[Isaiah_44_23|Isaiah 44:23]]
+- [[Joshua_06_10|Joshua 6:10]]
+- [[Nehemiah_12_40|Nehemiah 12:40]]
+- [[Zechariah_09_09|Zechariah 9:9]]
+- [[2_Chronicles_07_03|2 Chronicles 7:3]]
+- [[Exodus_15_21|Exodus 15:21]]
+- [[1_Chronicles_16_34|1 Chronicles 16:34]]
+- [[Psalms_102_013|Psalms 102:13]]
+- [[Psalms_102_014|Psalms 102:14]]
+- [[Psalms_136_001|Psalms 136:1]]
+- [[Psalms_136_026|Psalms 136:26]]
+- [[Psalms_106_001|Psalms 106:1]]
+- [[Psalms_118_001|Psalms 118:1]]
+- [[Joshua_06_16|Joshua 6:16]]
+- [[Psalms_103_017|Psalms 103:17]]
+- [[Joshua_06_05|Joshua 6:5]]
+- [[Isaiah_06_03|Isaiah 6:3]]
+- [[Jeremiah_33_11|Jeremiah 33:11]]
+
+## Ezra 3:12 (12)
+
+- [[Matthew_13_31|Matthew 13:31]]
+- [[Matthew_13_32|Matthew 13:32]]
+- [[Job_08_07|Job 8:7]]
+- [[Psalms_126_006|Psalms 126:6]]
+- [[Zechariah_04_10|Zechariah 4:10]]
+- [[Isaiah_60_22|Isaiah 60:22]]
+- [[Daniel_02_34|Daniel 2:34]]
+- [[Daniel_02_35|Daniel 2:35]]
+- [[Isaiah_41_14|Isaiah 41:14]]
+- [[Jeremiah_31_08|Jeremiah 31:8]]
+- [[Jeremiah_31_09|Jeremiah 31:9]]
+- [[Haggai_02_03|Haggai 2:3]]
+
+## Ezra 3:13 (14)
+
+- [[Judges_02_05|Judges 2:5]]
+- [[Psalms_100_001|Psalms 100:1]]
+- [[Psalms_100_002|Psalms 100:2]]
+- [[Nehemiah_12_43|Nehemiah 12:43]]
+- [[1_Samuel_04_05|1 Samuel 4:5]]
+- [[Psalms_005_011|Psalms 5:11]]
+- [[1_Kings_01_45|1 Kings 1:45]]
+- [[Jeremiah_33_11|Jeremiah 33:11]]
+- [[Luke_19_37|Luke 19:37]]
+- [[Luke_19_40|Luke 19:40]]
+- [[Exodus_32_17|Exodus 32:17]]
+- [[Exodus_32_18|Exodus 32:18]]
+- [[Zechariah_04_07|Zechariah 4:7]]
+- [[1_Kings_01_40|1 Kings 1:40]]

@@ -1,0 +1,48 @@
+---
+type: verse
+ref: "2 Chronicles 18:21"
+book: 2 Chronicles
+book_num: 14
+chapter: 18
+verse: 21
+testament: OT
+strongs: [H559, H3318, H1961, H7307, H8267, H6310, H3605, H5030, H6601, H1571, H3201, H6213, H3651]
+tags: [BSB/OT/14__2_Chronicles/2_Chronicles_18/2_Chronicles_18_21, Word_Study/Hebrew/H0559_amar, Word_Study/Hebrew/H3318_yatsa, Word_Study/Hebrew/H1961_hayah, Word_Study/Hebrew/H7307_ruwach, Word_Study/Hebrew/H8267_sheqer, Word_Study/Hebrew/H6310_peh, Word_Study/Hebrew/H3605_kol, Word_Study/Hebrew/H5030_nabiy, Word_Study/Hebrew/H6601_pathah, Word_Study/Hebrew/H1571_gam, Word_Study/Hebrew/H3201_yakol, Word_Study/Hebrew/H6213_asah, Word_Study/Hebrew/H3651_ken]
+prev: 2_Chronicles_18_20
+next: 2_Chronicles_18_22
+---
+# 2 Chronicles 18:21
+
+> [!quote] BSB
+> "And he replied, ‘I will go out and be a lying spirit in the mouths of all his prophets.’ ‘You will surely entice him and prevail,’ said the LORD. ‘Go and do it.’" ^text
+
+[[2_Chronicles_18_20|← 2 Chronicles 18:20]] · [[2_Chronicles_18|↑ 2 Chronicles 18]] · [[2_Chronicles_18_22|2 Chronicles 18:22 →]]
+
+**Interlinear**
+
+| Word | Translit | Parsing | Gloss | Strong's |
+|---|---|---|---|---|
+| וַיֹּ֗אמֶר | way·yō·mer | Conj-w + V-Qal-ConsecImperf-3ms<br>Conjunctive waw + Verb - Qal - Consecutive imperfect - third person masculine singular | And he replied | [[H0559 - amar]] |
+| אֵצֵא֙ | ’ê·ṣê | V-Qal-Imperf-1cs<br>Verb - Qal - Imperfect - first person common singular | I will go out | [[H3318 - yatsa]] |
+| וְהָיִ֙יתִי֙ | wə·hā·yî·ṯî | Conj-w + V-Qal-ConjPerf-1cs<br>Conjunctive waw + Verb - Qal - Conjunctive perfect - first person common singular | and be | [[H1961 - hayah]] |
+| לְר֣וּחַ | lə·rū·aḥ | Prep-l + N-csc<br>Preposition-l + Noun - common singular construct | spirit | [[H7307 - ruwach]] |
+| שֶׁ֔קֶר | še·qer | N-ms<br>Noun - masculine singular | a lying | [[H8267 - sheqer]] |
+| בְּפִ֖י | bə·p̄î | Prep-b + N-msc<br>Preposition-b + Noun - masculine singular construct | in the mouths | [[H6310 - peh]] |
+| כָּל־ | kāl- | N-msc<br>Noun - masculine singular construct | of all | [[H3605 - kol]] |
+| נְבִיאָ֑יו | nə·ḇî·’āw | N-mpc + 3ms<br>Noun - masculine plural construct + third person masculine singular | his prophets | [[H5030 - nabiy]] |
+| וַיֹּ֗אמֶר | way·yō·mer | Conj-w + V-Qal-ConsecImperf-3ms<br>Conjunctive waw + Verb - Qal - Consecutive imperfect - third person masculine singular | said [the LORD] | [[H0559 - amar]] |
+| תְּפַתֶּה֙ | tə·p̄at·teh | V-Piel-Imperf-2ms<br>Verb - Piel - Imperfect - second person masculine singular | You will surely entice him | [[H6601 - pathah]] |
+| וְגַם־ | wə·ḡam- | Conj<br>Conjunction | and | [[H1571 - gam]] |
+| תּוּכָ֔ל | tū·ḵāl | V-Qal-Imperf-2ms<br>Verb - Qal - Imperfect - second person masculine singular | prevail | [[H3201 - yakol]] |
+| צֵ֖א | ṣê | V-Qal-Imp-ms<br>Verb - Qal - Imperative - masculine singular | Go | [[H3318 - yatsa]] |
+| וַעֲשֵׂה־ | wa·‘ă·śêh- | Conj-w + V-Qal-Imp-ms<br>Conjunctive waw + Verb - Qal - Imperative - masculine singular | and do | [[H6213 - asah]] |
+| כֵֽן׃ | ḵên | Adv<br>Adverb | it | [[H3651 - ken]] |
+**Strong's:** [[H0559 - amar]] · [[H3318 - yatsa]] · [[H1961 - hayah]] · [[H7307 - ruwach]] · [[H8267 - sheqer]] · [[H6310 - peh]] · [[H3605 - kol]] · [[H5030 - nabiy]] · [[H0559 - amar]] · [[H6601 - pathah]] · [[H1571 - gam]] · [[H3201 - yakol]] · [[H3318 - yatsa]] · [[H6213 - asah]] · [[H3651 - ken]]
+
+%%XREF-START%%
+## Cross references
+
+Top: [[Genesis_03_04|Genesis 3:4]] · [[Genesis_03_05|Genesis 3:5]] · [[1_John_04_06|1 John 4:6]] · [[Revelation_12_09|Revelation 12:9]] · [[Revelation_13_14|Revelation 13:14]]
+
+See [[XRefs/OT/14__2_Chronicles/2_Chronicles_18|full list (15)]].
+%%XREF-END%%

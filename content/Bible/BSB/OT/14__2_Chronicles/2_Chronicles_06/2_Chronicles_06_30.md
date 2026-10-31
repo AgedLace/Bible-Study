@@ -1,0 +1,56 @@
+---
+type: verse
+ref: "2 Chronicles 6:30"
+book: 2 Chronicles
+book_num: 14
+chapter: 6
+verse: 30
+testament: OT
+strongs: [H859, H8085, H4480, H8064, H4349, H3427, H5545, H5414, H376, H3605, H1870, H834, H3045, H853, H3824, H3588, H905, H1121, H120]
+tags: [BSB/OT/14__2_Chronicles/2_Chronicles_06/2_Chronicles_06_30, Word_Study/Hebrew/H0859_attah, Word_Study/Hebrew/H8085_shama, Word_Study/Hebrew/H4480_min, Word_Study/Hebrew/H8064_shamayim, Word_Study/Hebrew/H4349_makown, Word_Study/Hebrew/H3427_yashab, Word_Study/Hebrew/H5545_calach, Word_Study/Hebrew/H5414_nathan, Word_Study/Hebrew/H0376_iysh, Word_Study/Hebrew/H3605_kol, Word_Study/Hebrew/H1870_derek, Word_Study/Hebrew/H0834_asher, Word_Study/Hebrew/H3045_yada, Word_Study/Hebrew/H0853_eth, Word_Study/Hebrew/H3824_lebab, Word_Study/Hebrew/H3588_kiy, Word_Study/Hebrew/H0905_bad, Word_Study/Hebrew/H1121_ben, Word_Study/Hebrew/H0120_adam]
+prev: 2_Chronicles_06_29
+next: 2_Chronicles_06_31
+---
+# 2 Chronicles 6:30
+
+> [!quote] BSB
+> "be heard by You from heaven, Your dwelling place. And may You forgive and repay each man according to all his ways, since You know his heart—for You alone know the hearts of men—" ^text
+
+[[2_Chronicles_06_29|← 2 Chronicles 6:29]] · [[2_Chronicles_06|↑ 2 Chronicles 6]] · [[2_Chronicles_06_31|2 Chronicles 6:31 →]]
+
+**Interlinear**
+
+| Word | Translit | Parsing | Gloss | Strong's |
+|---|---|---|---|---|
+| וְ֠אַתָּה | wə·’at·tāh | Conj-w + Pro-2ms<br>Conjunctive waw + Pronoun - second person masculine singular | by You | [[H0859 - attah]] |
+| תִּשְׁמַ֨ע | tiš·ma‘ | V-Qal-Imperf-2ms<br>Verb - Qal - Imperfect - second person masculine singular | be heard | [[H8085 - shama]] |
+| מִן־ | min- | Prep<br>Preposition | from | [[H4480 - min]] |
+| הַשָּׁמַ֜יִם | haš·šā·ma·yim | Art + N-mp<br>Article + Noun - masculine plural | heaven | [[H8064 - shamayim]] |
+| מְכ֤וֹן | mə·ḵō·wn | N-msc<br>Noun - masculine singular construct | place | [[H4349 - makown]] |
+| שִׁבְתֶּ֙ךָ֙ | šiḇ·te·ḵā | V-Qal-Inf + 2ms<br>Verb - Qal - Infinitive construct + second person masculine singular | Your dwelling | [[H3427 - yashab]] |
+| וְסָ֣לַחְתָּ֔ | wə·sā·laḥ·tā | Conj-w + V-Qal-ConjPerf-2ms<br>Conjunctive waw + Verb - Qal - Conjunctive perfect - second person masculine singular | And may You forgive | [[H5545 - calach]] |
+| וְנָתַתָּ֤ה | wə·nā·ṯat·tāh | Conj-w + V-Qal-ConjPerf-2ms<br>Conjunctive waw + Verb - Qal - Conjunctive perfect - second person masculine singular | and repay | [[H5414 - nathan]] |
+| לָאִישׁ֙ | lā·’îš | Prep-l, Art + N-ms<br>Preposition-l, Article + Noun - masculine singular | each man | [[H0376 - iysh]] |
+| כְּכָל־ | kə·ḵāl- | Prep-k + N-msc<br>Preposition-k + Noun - masculine singular construct | according to all | [[H3605 - kol]] |
+| דְּרָכָ֔יו | də·rā·ḵāw | N-cpc + 3ms<br>Noun - common plural construct + third person masculine singular | his ways | [[H1870 - derek]] |
+| אֲשֶׁ֥ר | ’ă·šer | Pro-r<br>Pronoun - relative | since | [[H0834 - asher]] |
+| תֵּדַ֖ע | tê·ḏa‘ | V-Qal-Imperf-2ms<br>Verb - Qal - Imperfect - second person masculine singular | You know | [[H3045 - yada]] |
+| אֶת־ | ’eṯ- | DirObjM<br>Direct object marker | - | [[H0853 - eth]] |
+| לְבָב֑וֹ | lə·ḇā·ḇōw | N-msc + 3ms<br>Noun - masculine singular construct + third person masculine singular | his heart | [[H3824 - lebab]] |
+| כִּ֤י | kî | Conj<br>Conjunction | for | [[H3588 - kiy]] |
+| אַתָּה֙ | ’at·tāh | Pro-2ms<br>Pronoun - second person masculine singular | You | [[H0859 - attah]] |
+| לְבַדְּךָ֣ | lə·ḇad·də·ḵā | Prep-l + N-msc + 2ms<br>Preposition-l + Noun - masculine singular construct + second person masculine singular | alone | [[H0905 - bad]] |
+| יָדַ֔עְתָּ | yā·ḏa‘·tā | V-Qal-Perf-2ms<br>Verb - Qal - Perfect - second person masculine singular | know | [[H3045 - yada]] |
+| אֶת־ | ’eṯ- | DirObjM<br>Direct object marker | - | [[H0853 - eth]] |
+| לְבַ֖ב | lə·ḇaḇ | N-msc<br>Noun - masculine singular construct | the hearts | [[H3824 - lebab]] |
+| בְּנֵ֥י | bə·nê | N-mpc<br>Noun - masculine plural construct | vvv | [[H1121 - ben]] |
+| הָאָדָֽם׃ | hā·’ā·ḏām | Art + N-ms<br>Article + Noun - masculine singular | of men | [[H0120 - adam]] |
+**Strong's:** [[H0859 - attah]] · [[H8085 - shama]] · [[H4480 - min]] · [[H8064 - shamayim]] · [[H4349 - makown]] · [[H3427 - yashab]] · [[H5545 - calach]] · [[H5414 - nathan]] · [[H0376 - iysh]] · [[H3605 - kol]] · [[H1870 - derek]] · [[H0834 - asher]] · [[H3045 - yada]] · [[H0853 - eth]] · [[H3824 - lebab]] · [[H3588 - kiy]] · [[H0859 - attah]] · [[H0905 - bad]] · [[H3045 - yada]] · [[H0853 - eth]] · [[H3824 - lebab]] · [[H1121 - ben]] · [[H0120 - adam]]
+
+%%XREF-START%%
+## Cross references
+
+Top: [[1_Kings_08_39|1 Kings 8:39]] · [[Ezekiel_18_30|Ezekiel 18:30]] · [[Matthew_16_27|Matthew 16:27]] · [[1_Samuel_16_07|1 Samuel 16:7]] · [[Psalms_062_012|Psalms 62:12]]
+
+See [[XRefs/OT/14__2_Chronicles/2_Chronicles_06|full list (15)]].
+%%XREF-END%%

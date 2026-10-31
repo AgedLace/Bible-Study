@@ -1,0 +1,24 @@
+---
+type: strongs
+number: H1490
+lang: H
+lemma: "גִּזְבָּר"
+translit: "gizbâr"
+occurrences: 1
+tags: [Word_Study/Hebrew, Word_Study/Hebrew/H1490_gizbar]
+---
+# H1490 — גִּזְבָּר
+
+| Lemma | Translit | Pronunciation | Short definition |
+|---|---|---|---|
+| גִּזְבָּר | gizbâr | ghiz-bawr' | treasurer |
+
+## Definition
+
+{treasurer}
+
+KJV renders: treasurer.
+
+## Verses (1)
+
+- [[Ezra_07_21]]
