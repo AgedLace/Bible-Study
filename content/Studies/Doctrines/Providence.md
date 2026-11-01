@@ -19,11 +19,11 @@ Providence assures believers that God works all things for his glory and their g
 
 ## Notes
 
-Rows across the full corpus are tracked in [[Doctrines Index]].
+Rows across the full corpus are tracked in [[/Studies/Doctrines Index.md]].
 
 ## Corpus coverage
 
-Rows for every study across all 66 books are tracked in [[Doctrines Index]].
+Rows for every study across all 66 books are tracked in [[/Studies/Doctrines Index.md]].
 
 ## Corpus headings (auto-summary)
 

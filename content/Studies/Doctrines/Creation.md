@@ -20,11 +20,11 @@ Creation declares God's power and wisdom and establishes humanity as his image-b
 
 ## Notes
 
-Rows across the full corpus are tracked in [[Doctrines Index]].
+Rows across the full corpus are tracked in [[/Studies/Doctrines Index.md]].
 
 ## Corpus coverage
 
-Rows for every study across all 66 books are tracked in [[Doctrines Index]].
+Rows for every study across all 66 books are tracked in [[/Studies/Doctrines Index.md]].
 
 ## Corpus headings (auto-summary)
 

@@ -17,7 +17,7 @@ tags: [Study/19__Psalms/Psalms_137_001-009]
 > [!warning] Hermeneutical guardrails (read before Section 4)
 > 1. **Scripture interprets Scripture.** Clear passages govern unclear ones; no doctrine rests on one obscure text.
 > 2. **What the text cannot mean.** Anything the original audience could not have understood is suspect (see 4e).
-> 3. **Check against the doctrines index.** Compare conclusions with [[Doctrines Index]] (see 4h).
+> 3. **Check against the doctrines index.** Compare conclusions with [[/Studies/Doctrines Index.md]] (see 4h).
 > 4. **Label everything:** Scripture / my interpretation / someone else's claim.
 
 <details>
@@ -245,7 +245,7 @@ One paragraph: what did this mean to those who first received it?
 ### 4h. Doctrines touched
 | Doctrine | Page | Agrees with the whole counsel of Scripture? |
 |---|---|---|
-| | [[Doctrines Index]] | |
+| | [[/Studies/Doctrines Index.md]] | |
 
 ### 4i. Interpretive difficulties & alternative views
 | View | Proponents / basis | Strengths | Weaknesses |

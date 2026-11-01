@@ -20,11 +20,11 @@ Biblical eschatology centers on the risen Christ who will return to judge and re
 
 ## Notes
 
-Rows across the full corpus are tracked in [[Doctrines Index]].
+Rows across the full corpus are tracked in [[/Studies/Doctrines Index.md]].
 
 ## Corpus coverage
 
-Rows for every study across all 66 books are tracked in [[Doctrines Index]].
+Rows for every study across all 66 books are tracked in [[/Studies/Doctrines Index.md]].
 
 ## Corpus headings (auto-summary)
 
