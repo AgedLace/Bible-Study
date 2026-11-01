@@ -4,7 +4,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "BSB Bible Study v2",
+    pageTitle: "BSB Bible Study",
     baseUrl: "benotdeceived.org/Bible-Study",
     ignorePatterns: [".obsidian", "_Memory", "_User_Notes", "_Session_Logs"],
   },
